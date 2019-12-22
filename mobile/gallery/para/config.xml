@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+	useFullscreenExpand="false"
+
+screenMode="large"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="false"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_7790.jpg" thumbURL="thumbs/_MG_7790.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Aerotow, Neresheim, Germany.]]></title>
+		<caption><![CDATA[May 30, 2019, 12:56. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7648.jpg" thumbURL="thumbs/_MG_7648.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Oberammergau, Bavaria, Germany.]]></title>
+		<caption><![CDATA[January 27, 2018, 16:29. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 18 mm, 1/500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2903.jpg" thumbURL="thumbs/_MG_2903.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Golfo di Cofano, Sicily, Italy.]]></title>
+		<caption><![CDATA[August 28, 2017, 08:29. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1/800 sec at f / 7.1, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1322.jpg" thumbURL="thumbs/_MG_1322.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Meduno, Italy.]]></title>
+		<caption><![CDATA[August 17, 2017, 12:31. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1/500 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1430.jpg" thumbURL="thumbs/_MG_1430.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Meduno, Italy.]]></title>
+		<caption><![CDATA[August 17, 2017, 18:00. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1/200 sec at f / 9.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1449.jpg" thumbURL="thumbs/_MG_1449.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Meduno, Italy.]]></title>
+		<caption><![CDATA[August 17, 2017, 18:01. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1/250 sec at f / 9.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1458.jpg" thumbURL="thumbs/_MG_1458.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Meduno, Italy.]]></title>
+		<caption><![CDATA[August 17, 2017, 18:01. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1/400 sec at f / 9.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1646.jpg" thumbURL="thumbs/_MG_1646.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Marc, Italy.]]></title>
+		<caption><![CDATA[August 19, 2017, 13:09. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 49 mm, 1/1600 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1681.jpg" thumbURL="thumbs/_MG_1681.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Marc, Italy.]]></title>
+		<caption><![CDATA[August 19, 2017, 13:12. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 55 mm, 1/250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1778.jpg" thumbURL="thumbs/_MG_1778.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Castelluccio, Italy.]]></title>
+		<caption><![CDATA[August 19, 2017, 17:48. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1/1000 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1800.jpg" thumbURL="thumbs/_MG_1800.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Castelluccio, Italy.]]></title>
+		<caption><![CDATA[August 19, 2017, 18:01. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/500 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1858.jpg" thumbURL="thumbs/_MG_1858.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Castelluccio, Italy.]]></title>
+		<caption><![CDATA[August 19, 2017, 18:57. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/320 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2098.jpg" thumbURL="thumbs/_MG_2098.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Castelluccio, Italy.]]></title>
+		<caption><![CDATA[August 20, 2017, 16:52. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 131 mm, 1/2000 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2386.jpg" thumbURL="thumbs/_MG_2386.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lago Albano, Italy.]]></title>
+		<caption><![CDATA[August 25, 2017, 18:51. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1/160 sec at f / 10, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2407.jpg" thumbURL="thumbs/_MG_2407.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lago Albano, Italy.]]></title>
+		<caption><![CDATA[August 25, 2017, 19:00. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 23 mm, 1/500 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2737.jpg" thumbURL="thumbs/_MG_2737.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Golfo di Cofano, Sicily, Italy.]]></title>
+		<caption><![CDATA[August 27, 2017, 18:14. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2816.jpg" thumbURL="thumbs/_MG_2816.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Golfo di Cofano, Sicily, Italy.]]></title>
+		<caption><![CDATA[August 27, 2017, 19:17. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 20 mm, 1/250 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2858.jpg" thumbURL="thumbs/_MG_2858.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Golfo di Cofano, Sicily, Italy.]]></title>
+		<caption><![CDATA[August 27, 2017, 19:41. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1/250 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2948.jpg" thumbURL="thumbs/_MG_2948.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Gela, Sicily, Italy.]]></title>
+		<caption><![CDATA[August 28, 2017, 19:07. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 24 mm, 1/1600 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2992.jpg" thumbURL="thumbs/_MG_2992.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Gela, Sicily, Italy.]]></title>
+		<caption><![CDATA[August 28, 2017, 19:20. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 32 mm, 1/250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1285.jpg" thumbURL="thumbs/_MG_1285.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Meduno, Italy.]]></title>
+		<caption><![CDATA[August 16, 2017, 20:44. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 28 mm, 1/80 sec at f / 4.0, ISO 6400.]]></caption>
+	</image>
+	<image imageURL="images/20140706-_MG_5660.jpg" thumbURL="thumbs/20140706-_MG_5660.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Flight LH1827 over Ammersee, Germany.]]></title>
+		<caption><![CDATA[July 06, 2014, 20:13. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 37 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20140826-_MG_7374.jpg" thumbURL="thumbs/20140826-_MG_7374.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Spain.]]></title>
+		<caption><![CDATA[August 26, 2014, 07:37. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 84 mm, 1/400 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20140118-_MG_9309.jpg" thumbURL="thumbs/20140118-_MG_9309.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Paraglider in Lanzarote, Spain.]]></title>
+		<caption><![CDATA[January 18, 2014, 18:53. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 65 mm, 1/250 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120405-_MG_3465.jpg" thumbURL="thumbs/20120405-_MG_3465.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Queenstown, New Zealand.]]></title>
+		<caption><![CDATA[April 05, 2012, 18:20. Canon EOS 1000D, EF-S18-55mm f/3.5-5.6 IS II at 49 mm, 1/80 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4425.jpg" thumbURL="thumbs/_MG_4425.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Clouds over Wallberg, Germany.]]></title>
+		<caption><![CDATA[January 14, 2011, 14:01. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 26 mm, 1/1250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20140121-_MG_9689.jpg" thumbURL="thumbs/20140121-_MG_9689.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Paraglider in Lanzarote, Spain.]]></title>
+		<caption><![CDATA[January 21, 2014, 09:18. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 123 mm, 1/500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20140123-_MG_0143.jpg" thumbURL="thumbs/20140123-_MG_0143.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lanzarote, Spain.]]></title>
+		<caption><![CDATA[January 23, 2014, 18:44. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 74 mm, 1/400 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120419-_MG_0460.jpg" thumbURL="thumbs/20120419-_MG_0460.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Australia.]]></title>
+		<caption><![CDATA[April 19, 2012, 18:47. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 43 mm, 1/500 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20120405-_MG_0548.jpg" thumbURL="thumbs/20120405-_MG_0548.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Queenstown, New Zealand.]]></title>
+		<caption><![CDATA[April 05, 2012, 17:39. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/DSCN0291.jpg" thumbURL="thumbs/DSCN0291.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Praia da Cordoama, Portugal.]]></title>
+		<caption><![CDATA[August 16, 2010, 16:21. COOLPIX S630,  at 12.7 mm, 1/220 sec at f / 14, ISO 64.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4427.jpg" thumbURL="thumbs/_MG_4427.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Clouds over Wallberg, Germany.]]></title>
+		<caption><![CDATA[January 14, 2011, 14:01. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/1250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1594.jpg" thumbURL="thumbs/_MG_1594.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Norway.]]></title>
+		<caption><![CDATA[November 04, 2009, 13:06. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 50 mm, 1/320 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1576.jpg" thumbURL="thumbs/_MG_1576.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Norway.]]></title>
+		<caption><![CDATA[November 04, 2009, 13:02. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 59 mm, 1/200 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140706-_MG_5663.jpg" thumbURL="thumbs/20140706-_MG_5663.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ammersee, Germany.]]></title>
+		<caption><![CDATA[July 06, 2014, 20:13. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 20 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8251.jpg" thumbURL="thumbs/_MG_8251.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Voss, Norway.]]></title>
+		<caption><![CDATA[September 05, 2009, 11:10. Canon EOS 1000D, 55-200mm at 200 mm, 1/3200 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+
+</juiceboxgallery>

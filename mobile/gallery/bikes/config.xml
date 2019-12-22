@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+	useFullscreenExpand="false"
+
+screenMode="large"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="false"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_4804.jpg" thumbURL="thumbs/_MG_4804.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Urban Downhill, Comuna 13, Medellin, Colombia.]]></title>
+		<caption><![CDATA[December 02, 2018, 16:32. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/1250 sec at f / 4.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4826.jpg" thumbURL="thumbs/_MG_4826.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Urban Downhill, Comuna 13, Medellin, Colombia.]]></title>
+		<caption><![CDATA[December 02, 2018, 16:40. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/1250 sec at f / 3.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8038.jpg" thumbURL="thumbs/_MG_8038.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Basti Brückner, Tretlager Trails, Munich, Germany.]]></title>
+		<caption><![CDATA[May 06, 2017, 18:17. Canon EOS 70D, 10-17mm at 10 mm, 1/2000 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8005.jpg" thumbURL="thumbs/_MG_8005.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Basti Brückner, Tretlager Trails, Munich, Germany.]]></title>
+		<caption><![CDATA[May 06, 2017, 18:03. Canon EOS 70D, 10-17mm at 17 mm, 1/125 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8033.jpg" thumbURL="thumbs/_MG_8033.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tretlager Trails, Munich, Germany.]]></title>
+		<caption><![CDATA[May 06, 2017, 18:15. Canon EOS 70D, 10-17mm at 10 mm, 1/2000 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6753.jpg" thumbURL="thumbs/_MG_6753.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tretlager Trails, Munich, Germany.]]></title>
+		<caption><![CDATA[September 23, 2017, 17:26. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 33 mm, 1/125 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0321.jpg" thumbURL="thumbs/_MG_0321.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Manuel Isemann, Austria.]]></title>
+		<caption><![CDATA[June 21, 2017, 12:33. Canon EOS 70D, 10-17mm at 10 mm, 1/160 sec at f / 14, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5269.jpg" thumbURL="thumbs/_MG_5269.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Manuel Isemann, Pullach, Germany.]]></title>
+		<caption><![CDATA[September 16, 2015, 19:11. Canon EOS 70D, 10-17mm at 10 mm, 1/100 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1191-Edit.jpg" thumbURL="thumbs/_MG_1191-Edit.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Transfer, Manuel Isemann, Geltendorf, Germany.]]></title>
+		<caption><![CDATA[July 04, 2016, 18:40. Canon EOS 70D, 10-17mm at 10 mm, 1/1000 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20150410-_MG_1422.jpg" thumbURL="thumbs/20150410-_MG_1422.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Traintrails Freising, Germany.]]></title>
+		<caption><![CDATA[April 10, 2015, 10:39. Canon EOS 600D, 10-17mm at 10 mm, 1/200 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2756.jpg" thumbURL="thumbs/_MG_2756.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Crankworx Whipoff, Crabapple Hits, Whistler, British Columbia, Canada.]]></title>
+		<caption><![CDATA[August 18, 2016, 15:33. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 109 mm, 1/1600 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3898.jpg" thumbURL="thumbs/_MG_3898.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Backflip No-Hand, Szymon Godziek, Crankworx Joyride, Whistler, British Columbia, Canada.]]></title>
+		<caption><![CDATA[August 21, 2016, 11:10. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 55 mm, 1/1600 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5249.jpg" thumbURL="thumbs/_MG_5249.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Manuel Isemann, Pullach, Germany.]]></title>
+		<caption><![CDATA[September 16, 2015, 18:56. Canon EOS 70D, 10-17mm at 11 mm, 1/200 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20141009-Chrisdirt.jpg" thumbURL="thumbs/20141009-Chrisdirt.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Toboggan, Chris Scheingraber, Tretlager Trails, Munich, Germany. Camera: Quentin Julian.]]></title>
+		<caption><![CDATA[October 09, 2014, 19:01. NIKON D5100, 10.5 mm f/2.8 at 10.5 mm, 1/250 sec at f / 4.0, ISO 320.]]></caption>
+	</image>
+	<image imageURL="images/20140815-_MG_6781.jpg" thumbURL="thumbs/20140815-_MG_6781.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Chris Scheingraber, Karlsfeld, Germany. Camera: Felix Kuffner.]]></title>
+		<caption><![CDATA[August 15, 2014, 17:46. Canon EOS 600D, 10-17mm at 10 mm, 1/500 sec at f / 4.5, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140906-_MG_7638.jpg" thumbURL="thumbs/20140906-_MG_7638.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Manuel Isemann, Fürstenfeldbruck, Germany.]]></title>
+		<caption><![CDATA[September 06, 2014, 14:43. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 109 mm, 1/500 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20140906-_MG_7705.jpg" thumbURL="thumbs/20140906-_MG_7705.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Manuel Isemann, Fürstenfeldbruck, Germany.]]></title>
+		<caption><![CDATA[September 06, 2014, 15:00. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 171 mm, 1/800 sec at f / 6.3, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20140601-Chris_Scheingraber_www.scheingraber.net_36.jpg" thumbURL="thumbs/20140601-Chris_Scheingraber_www.scheingraber.net_36.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Felix, Gefilde Skatepark, Neuperlach, Munich, Germany.]]></title>
+		<caption><![CDATA[June 01, 2014, 20:19. Canon EOS 600D, EF40mm f/2.8 STM at 40 mm, 1/1600 sec at f / 8.0, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20141123-_MG_9285.jpg" thumbURL="thumbs/20141123-_MG_9285.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Manuel Isemann, Vaterstetten, Germany.]]></title>
+		<caption><![CDATA[November 23, 2014, 16:30. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 24 mm, 1/160 sec at f / 4.0, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0129-Edit.jpg" thumbURL="thumbs/_mg_0129-Edit.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fufano, Moritz Kauper, Geltendorf, Germany.]]></title>
+		<caption><![CDATA[November 26, 2006, 16:05. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 75 mm, 1/125 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0558.jpg" thumbURL="thumbs/_mg_0558.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Andi Pusch, Geltendorf, Germany.]]></title>
+		<caption><![CDATA[December 08, 2006, 15:15. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/320 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2399.jpg" thumbURL="thumbs/_mg_2399.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, Fürstenfeldbruck, Germany.]]></title>
+		<caption><![CDATA[February 18, 2007, 17:58. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 1/60 sec at f / 4.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2484.jpg" thumbURL="thumbs/_mg_2484.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Footjam, Moritz Kauper, Fürstenfeldbruck, Germany.]]></title>
+		<caption><![CDATA[February 18, 2007, 20:13. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 20 mm, 20.0 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_mg_3021.jpg" thumbURL="thumbs/_mg_3021.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Perry Petermüller, Emmering, Germany.]]></title>
+		<caption><![CDATA[March 02, 2007, 21:45. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 75 mm, 1.3 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/perry_tailwhip_sw_vignette.jpg" thumbURL="thumbs/perry_tailwhip_sw_vignette.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tailwhip Air, Perry Petermüller, Emmering, Germany.]]></title>
+		<caption><![CDATA[March 03, 2007, 21:27. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/60 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/img-3573.jpg" thumbURL="thumbs/img-3573.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Curved Wallride, Moritz Kauper, Munich, Germany.]]></title>
+		<caption><![CDATA[March 14, 2007, 17:46. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/125 sec at f / 3.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/img-3602.jpg" thumbURL="thumbs/img-3602.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Curved Wallride, Matthias Preis, Munich, Germany.]]></title>
+		<caption><![CDATA[March 14, 2007, 18:03. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 135 mm, 1/160 sec at f / 4.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/img-3837.jpg" thumbURL="thumbs/img-3837.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[270 Barspin, Wolfi Wildner, Geltendorf, Germany.]]></title>
+		<caption><![CDATA[March 16, 2007, 17:13. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/800 sec at f / 4.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-4065.jpg" thumbURL="thumbs/img-4065.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Feeble, Andi Pusch, Fürstenfeldbruck, Germany.]]></title>
+		<caption><![CDATA[March 23, 2007, 15:08. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/200 sec at f / 7.1, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-4219.jpg" thumbURL="thumbs/img-4219.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fufano, Moritz Kauper, Geltendorf, Germany.]]></title>
+		<caption><![CDATA[March 26, 2007, 17:17. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 44 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-4461.jpg" thumbURL="thumbs/img-4461.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Upside Down Footplant, Volker Wildner, Geltendorf, Germany.]]></title>
+		<caption><![CDATA[March 28, 2007, 18:39. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 19 mm, 1/250 sec at f / 4.5, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-0247.jpg" thumbURL="thumbs/img-0247.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Matthias Preis, Emmering, Germany.]]></title>
+		<caption><![CDATA[March 31, 2007, 19:52. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 38 mm, 0.3 sec at f / 7.1, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-0541.jpg" thumbURL="thumbs/img-0541.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, Munich, Germany.]]></title>
+		<caption><![CDATA[April 03, 2007, 17:28. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 67 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-0805.jpg" thumbURL="thumbs/img-0805.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, Geltendorf, Germany.]]></title>
+		<caption><![CDATA[April 06, 2007, 18:58. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 130 mm, 1/640 sec at f / 4.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/img-0820.jpg" thumbURL="thumbs/img-0820.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Roll-In, Max Kosmol, Geltendorf, Germany.]]></title>
+		<caption><![CDATA[April 06, 2007, 20:07. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 120 mm, 1/15 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-0943.jpg" thumbURL="thumbs/img-0943.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tabletop, Moritz Kauper, Geltendorf, Germany.]]></title>
+		<caption><![CDATA[April 07, 2007, 19:56. Canon EOS 400D DIGITAL, 90.0 mm at 90 mm, 1/250 sec at f / 2.8, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/img-7390.jpg" thumbURL="thumbs/img-7390.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[X-Up, Daniel Heinkelein, Geltendorf, Germany.]]></title>
+		<caption><![CDATA[April 23, 2007, 19:26. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 80 mm, 1/400 sec at f / 5.6, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/img-7566.jpg" thumbURL="thumbs/img-7566.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tabletop, Simon Stevens, Geltendorf, Germany.]]></title>
+		<caption><![CDATA[April 25, 2007, 17:25. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 200 mm, 1/250 sec at f / 5.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-7736.jpg" thumbURL="thumbs/img-7736.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tailwhip, Simon Stevens, Geltendorf, Germany.]]></title>
+		<caption><![CDATA[April 25, 2007, 20:20. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/500 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0251.jpg" thumbURL="thumbs/_MG_0251.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Turndown, Andi Pusch, Emmering, Germany.]]></title>
+		<caption><![CDATA[December 21, 2007, 17:10. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/80 sec at f / 3.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/img-7652.jpg" thumbURL="thumbs/img-7652.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[360 Tabletop, Simon Stevens, Geltendorf, Germany.]]></title>
+		<caption><![CDATA[April 25, 2007, 19:13. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 140 mm, 1/320 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7354.jpg" thumbURL="thumbs/_MG_7354.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Wolfi Wildner, Geltendorf, Germany.]]></title>
+		<caption><![CDATA[October 13, 2007, 22:15. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 87 mm, 1/200 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0262.jpg" thumbURL="thumbs/_MG_0262.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Andi Deichl, Emmering, Germany.]]></title>
+		<caption><![CDATA[December 21, 2007, 17:17. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/80 sec at f / 3.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0797.jpg" thumbURL="thumbs/_MG_0797.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Turndown, Volker Wildner, Emmering, Germany.]]></title>
+		<caption><![CDATA[December 24, 2007, 11:33. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/250 sec at f / 3.5, ISO 500.]]></caption>
+	</image>
+	<image imageURL="images/img-7773.jpg" thumbURL="thumbs/img-7773.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Simon Stevens, Hart.]]></title>
+		<caption><![CDATA[April 26, 2007, 10:35. Canon EOS 400D DIGITAL, 90.0 mm at 90 mm, 1/1250 sec at f / 2.8, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1430.jpg" thumbURL="thumbs/_MG_1430.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hang 5, Matthias Preis, Emmering.]]></title>
+		<caption><![CDATA[December 29, 2007, 18:51. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/125 sec at f / 2.2, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2971.jpg" thumbURL="thumbs/_MG_2971.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fufano, Perry Petermüller, Emmering.]]></title>
+		<caption><![CDATA[February 10, 2008, 16:18. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/80 sec at f / 3.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/img-7272.jpg" thumbURL="thumbs/img-7272.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Toboggan, Wolfi Wildner, Obermenzing, Germany.]]></title>
+		<caption><![CDATA[April 21, 2007, 18:32. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/320 sec at f / 7.1, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3686.jpg" thumbURL="thumbs/_MG_3686.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tabletop, Simon Stevens, Emmering.]]></title>
+		<caption><![CDATA[March 04, 2008, 22:08. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/100 sec at f / 3.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4141.jpg" thumbURL="thumbs/_MG_4141.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Matthias Preis, Krailing, Germany.]]></title>
+		<caption><![CDATA[March 09, 2008, 16:24. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/400 sec at f / 6.3, ISO 250.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4372.jpg" thumbURL="thumbs/_MG_4372.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Stefan Gottschlicht, Emmering, Germany.]]></title>
+		<caption><![CDATA[March 15, 2008, 15:38. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/200 sec at f / 2.5, ISO 1000.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4773.jpg" thumbURL="thumbs/_MG_4773.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Simon Stevens, Savona, Italy.]]></title>
+		<caption><![CDATA[March 22, 2008, 07:28. Canon EOS 40D, 90mm at 90 mm, 1/2500 sec at f / 2.8, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4877.jpg" thumbURL="thumbs/_MG_4877.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tabletop, Simon Stevens, Monaco, France.]]></title>
+		<caption><![CDATA[March 22, 2008, 17:29. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/320 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6722.jpg" thumbURL="thumbs/_MG_6722.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, Barcelona, Spain.]]></title>
+		<caption><![CDATA[April 04, 2008, 18:42. Canon EOS 40D, 90mm at 90 mm, 1/800 sec at f / 3.5, ISO 320.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0672.jpg" thumbURL="thumbs/_MG_0672.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tailwhip, Moritz Kauper, Dachau, Germany.]]></title>
+		<caption><![CDATA[May 17, 2008, 19:36. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 38 mm, 1/320 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0696.jpg" thumbURL="thumbs/_MG_0696.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[360 Turndown, Volker Wildner, Dachau, Germany.]]></title>
+		<caption><![CDATA[May 17, 2008, 20:01. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 33 mm, 1/250 sec at f / 5.6, ISO 500.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0699.jpg" thumbURL="thumbs/_MG_0699.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, Dachau, Germany.]]></title>
+		<caption><![CDATA[May 17, 2008, 20:05. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 73 mm, 1/250 sec at f / 5.6, ISO 500.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0909.jpg" thumbURL="thumbs/_mg_0909.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Wallride, Felix Buchfelder, Emmering, Germany.]]></title>
+		<caption><![CDATA[January 05, 2007, 18:33. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/80 sec at f / 3.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0621.jpg" thumbURL="thumbs/_MG_0621.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Volker Wildner, Dachau, Germany.]]></title>
+		<caption><![CDATA[May 17, 2008, 19:07. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 44 mm, 1/320 sec at f / 6.3, ISO 500.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2801.jpg" thumbURL="thumbs/_mg_2801.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fufano, Felix Buchfelder,  Emmering, Germany.]]></title>
+		<caption><![CDATA[February 26, 2007, 21:44. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/50 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/img-1204.jpg" thumbURL="thumbs/img-1204.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Geltendorf, Germany.]]></title>
+		<caption><![CDATA[April 10, 2007, 21:09. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 2.0 sec at f / 4.0, ISO 400.]]></caption>
+	</image>
+
+</juiceboxgallery>

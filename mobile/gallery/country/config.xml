@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+	useFullscreenExpand="false"
+
+screenMode="large"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="false"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_7273.jpg" thumbURL="thumbs/_MG_7273.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Spitzingsee, Bavaria, Germany.]]></title>
+		<caption><![CDATA[December 29, 2017, 07:41. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/80 sec at f / 4.0, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1986.jpg" thumbURL="thumbs/_MG_1986.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Castelluccio, Italy.]]></title>
+		<caption><![CDATA[August 20, 2017, 09:15. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 49 mm, 1/1600 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1913.jpg" thumbURL="thumbs/_MG_1913.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Castelluccio, Italy.]]></title>
+		<caption><![CDATA[August 19, 2017, 19:52. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1/100 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2140.jpg" thumbURL="thumbs/_MG_2140.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Castelluccio, Italy.]]></title>
+		<caption><![CDATA[August 20, 2017, 17:37. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 135 mm, 1/2500 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8863.jpg" thumbURL="thumbs/_MG_8863.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Geltendorf, Germany.]]></title>
+		<caption><![CDATA[May 21, 2017, 20:19. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 52 mm, 1/160 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8885.jpg" thumbURL="thumbs/_MG_8885.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Geltendorf, Germany.]]></title>
+		<caption><![CDATA[May 21, 2017, 20:35. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 44 mm, 1/200 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1504.jpg" thumbURL="thumbs/_MG_1504.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Pamhagen, Austria.]]></title>
+		<caption><![CDATA[July 26, 2015, 20:43. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/60 sec at f / 5.6, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2604.jpg" thumbURL="thumbs/_MG_2604.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hortobágyi National Park, Puszta, Hungary.]]></title>
+		<caption><![CDATA[July 30, 2015, 19:29. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 65 mm, 1/800 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3141.jpg" thumbURL="thumbs/_MG_3141.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ziehbrunnen, Neusiedler See, Austria.]]></title>
+		<caption><![CDATA[August 01, 2015, 19:30. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 70 mm, 1/2500 sec at f / 4.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5186.jpg" thumbURL="thumbs/_MG_5186.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hyndman Creek running down Old Hyndman Peak and Shrubby Goldenweed flowers, Sawtooth National Forrest, Sun Valley (Wood River Valley) , Idaho.]]></title>
+		<caption><![CDATA[August 26, 2016, 19:09. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 20 mm, 1/640 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20130903-_MG_4939.jpg" thumbURL="thumbs/20130903-_MG_4939.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Rügen, Germany.]]></title>
+		<caption><![CDATA[September 03, 2013, 07:54. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 41 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120823-_MG_3613.jpg" thumbURL="thumbs/20120823-_MG_3613.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Croatia.]]></title>
+		<caption><![CDATA[August 23, 2012, 07:21. Canon EOS 1000D, 55-200mm at 62 mm, 25.0 sec at f / 9.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120910-_Group-12_-20120825-_MG_3600_20120825-_MG_3606-7-images.jpg" thumbURL="thumbs/20120910-_Group-12_-20120825-_MG_3600_20120825-_MG_3606-7-images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Willkommen, Croatia.]]></title>
+		<caption><![CDATA[September 10, 2012, 19:24. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/20120314-_MG_3440.jpg" thumbURL="thumbs/20120314-_MG_3440.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand.]]></title>
+		<caption><![CDATA[March 14, 2012, 07:36. Canon EOS 1000D, 55-200mm at 59 mm, 1/100 sec at f / 7.1, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0849-Edit.jpg" thumbURL="thumbs/_MG_0849-Edit.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Chesil Bank/Fleet Lagoon, UK.]]></title>
+		<caption><![CDATA[September 28, 2011, 08:04. Canon EOS 1000D, 55-200mm at 55 mm, 1/1250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5536.jpg" thumbURL="thumbs/_MG_5536.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Chapel at Rigi Seebodenalp, Switzerland.]]></title>
+		<caption><![CDATA[August 16, 2011, 23:08. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 22 mm, 30.0 sec at f / 4.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8909.jpg" thumbURL="thumbs/_MG_8909.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Englischer Garten, Munich, Germany.]]></title>
+		<caption><![CDATA[May 25, 2011, 20:19. Canon EOS 1000D, 90mm at 90 mm, 1/60 sec at f / 2.8, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8068.jpg" thumbURL="thumbs/_MG_8068.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bregenz, Bodensee, Austria.]]></title>
+		<caption><![CDATA[April 23, 2011, 09:24. Canon EOS 1000D,  at , 1/640 sec, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8768.jpg" thumbURL="thumbs/_MG_8768.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Inning, Germany.]]></title>
+		<caption><![CDATA[July 24, 2010, 21:13. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/40 sec at f / 5.6, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8412.jpg" thumbURL="thumbs/_MG_8412.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Voss, Norway.]]></title>
+		<caption><![CDATA[September 06, 2009, 08:26. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 38 mm, 1/640 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8406.jpg" thumbURL="thumbs/_MG_8406.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Voss, Norway.]]></title>
+		<caption><![CDATA[September 06, 2009, 08:22. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 47 mm, 1/125 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8358.jpg" thumbURL="thumbs/_MG_8358.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Voss, Norway.]]></title>
+		<caption><![CDATA[September 05, 2009, 20:18. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 66 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7510.jpg" thumbURL="thumbs/_MG_7510.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Voss, Norway.]]></title>
+		<caption><![CDATA[August 23, 2009, 09:34. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 47 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1421.jpg" thumbURL="thumbs/_MG_1421.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Masca, Tenerife.]]></title>
+		<caption><![CDATA[February 20, 2009, 20:05. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 61 mm, 1/60 sec at f / 5.6, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1360.jpg" thumbURL="thumbs/_MG_1360.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Rainbow, Tenerife, Spain.]]></title>
+		<caption><![CDATA[February 20, 2009, 19:16. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 66 mm, 1/160 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3803.jpg" thumbURL="thumbs/_MG_3803.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Funäsdalen, Sweden.]]></title>
+		<caption><![CDATA[September 21, 2008, 08:01. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 78 mm, 1/250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/pano-10_.jpg" thumbURL="thumbs/pano-10_.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Funäsdalen, Sweden.]]></title>
+		<caption><![CDATA[September 19, 2008, 18:10. Canon EOS 40D,  at 85 mm, 1/80 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0554.jpg" thumbURL="thumbs/_MG_0554.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bester Baum, Emmering, Germany.]]></title>
+		<caption><![CDATA[May 14, 2008, 20:09. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 38 mm, 1/50 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6016.jpg" thumbURL="thumbs/_MG_6016.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mt Bruce, WA, Australia.]]></title>
+		<caption><![CDATA[August 10, 2007, 06:45. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 250 mm, 1/50 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4143.jpg" thumbURL="thumbs/_MG_4143.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Abandoned Car, NT, Australia.]]></title>
+		<caption><![CDATA[July 16, 2007, 14:14. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4085.jpg" thumbURL="thumbs/_MG_4085.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Highway, QL, Australia.]]></title>
+		<caption><![CDATA[July 15, 2007, 17:28. Canon EOS 400D DIGITAL, EF50mm f/1.8 at 50 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1894.jpg" thumbURL="thumbs/_MG_1894.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lighthouse, Byron Bay, NSW, Australia.]]></title>
+		<caption><![CDATA[June 24, 2007, 17:34. Canon EOS 400D DIGITAL, EF50mm f/1.8 at 50 mm, 0.4 sec at f / 1.8, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2626.jpg" thumbURL="thumbs/_mg_2626.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ammersee, Germany.]]></title>
+		<caption><![CDATA[February 20, 2007, 18:17. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 75 mm, 8.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2616.jpg" thumbURL="thumbs/_mg_2616.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ammersee, Germany.]]></title>
+		<caption><![CDATA[February 20, 2007, 17:28. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/15 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2608.jpg" thumbURL="thumbs/_mg_2608.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ammersee, Germany.]]></title>
+		<caption><![CDATA[February 20, 2007, 15:49. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 255 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2072.jpg" thumbURL="thumbs/_mg_2072.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Line of trees and sky, near Maisach, Germany.]]></title>
+		<caption><![CDATA[February 08, 2007, 07:40. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 67 mm, 1/13 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0850.jpg" thumbURL="thumbs/_mg_0850.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mystic Sunrise, near Maisach, Germany.]]></title>
+		<caption><![CDATA[December 28, 2006, 07:40. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 75 mm, 0.4 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0143.jpg" thumbURL="thumbs/_mg_0143.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Geltendorf, Germany.]]></title>
+		<caption><![CDATA[November 26, 2006, 16:56. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 150 mm, 10.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_5386.jpg" thumbURL="thumbs/_mg_5386.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[near Oberroth, Germany.]]></title>
+		<caption><![CDATA[October 12, 2006, 07:39. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 110 mm, 1/80 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_5232.jpg" thumbURL="thumbs/_mg_5232.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[near Oberroth, Germany.]]></title>
+		<caption><![CDATA[October 09, 2006, 07:47. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 39 mm, 1/160 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/IMG_7408.jpg" thumbURL="thumbs/IMG_7408.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Young Cornfield in evening light, near Geltendorf, Germany.]]></title>
+		<caption><![CDATA[June 12, 2006, 20:36. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 85 mm, 1/50 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_2883.jpg" thumbURL="thumbs/IMG_2883.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ammersee, Germany.]]></title>
+		<caption><![CDATA[January 28, 2006, 17:07. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 1/100 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>
