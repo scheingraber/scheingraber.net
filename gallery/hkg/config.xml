@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_6986.jpg" thumbURL="thumbs/_MG_6986.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Shop in Causeway Bay, Hong Kong]]></title>
+		<caption><![CDATA[September 07, 2007, 02:21. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/80 sec at f / 3.5, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7022.jpg" thumbURL="thumbs/_MG_7022.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hong Kong]]></title>
+		<caption><![CDATA[September 07, 2007, 18:49. Canon EOS 400D DIGITAL, EF50mm f/1.8 at 50 mm, 1/60 sec at f / 1.8, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7060.jpg" thumbURL="thumbs/_MG_7060.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lantau Island, Hong Kong]]></title>
+		<caption><![CDATA[September 08, 2007, 17:28. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 67 mm, 1/500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7081.jpg" thumbURL="thumbs/_MG_7081.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lantau Island, Hong Kong]]></title>
+		<caption><![CDATA[September 08, 2007, 18:04. Canon EOS 400D DIGITAL, EF50mm f/1.8 at 50 mm, 1/125 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7119.jpg" thumbURL="thumbs/_MG_7119.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Library, Hong Kong]]></title>
+		<caption><![CDATA[September 09, 2007, 13:16. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/60 sec at f / 3.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7164.jpg" thumbURL="thumbs/_MG_7164.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hong Kong]]></title>
+		<caption><![CDATA[September 10, 2007, 12:13. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 44 mm, 1/80 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7194.jpg" thumbURL="thumbs/_MG_7194.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[The Peak Lookout, Hong Kong]]></title>
+		<caption><![CDATA[September 10, 2007, 20:20. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 16 mm, 0.8 sec at f / 4.0, ISO 200.]]></caption>
+	</image>
+
+</juiceboxgallery>

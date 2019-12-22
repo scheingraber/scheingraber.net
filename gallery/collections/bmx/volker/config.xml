@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_0696.jpg" thumbURL="thumbs/_MG_0696.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[360 Turndown, Volker Wildner, Dachau]]></title>
+		<caption><![CDATA[May 17, 2008, 20:01. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 33 mm, 1/250 sec at f / 5.6, ISO 500.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0797.jpg" thumbURL="thumbs/_MG_0797.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Turndown, Volker Wildner, Emmering]]></title>
+		<caption><![CDATA[December 24, 2007, 11:33. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/250 sec at f / 3.5, ISO 500.]]></caption>
+	</image>
+	<image imageURL="images/img-4461.jpg" thumbURL="thumbs/img-4461.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Upside Down Footplant, Volker Wildner, Geltendorf]]></title>
+		<caption><![CDATA[March 28, 2007, 18:39. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 19 mm, 1/250 sec at f / 4.5, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-4388.jpg" thumbURL="thumbs/img-4388.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Upside Down Footplant, Volker Wildner, Geltendorf]]></title>
+		<caption><![CDATA[March 27, 2007, 19:09. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/400 sec at f / 3.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0836.jpg" thumbURL="thumbs/_MG_0836.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Volker Wildner, Emmering]]></title>
+		<caption><![CDATA[December 24, 2007, 11:55. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/200 sec at f / 3.5, ISO 640.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4343.jpg" thumbURL="thumbs/_MG_4343.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Volker Wildner, Emmering]]></title>
+		<caption><![CDATA[March 12, 2008, 19:18. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/100 sec at f / 2.5, ISO 1000.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0621.jpg" thumbURL="thumbs/_MG_0621.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Volker Wildner, Dachau]]></title>
+		<caption><![CDATA[May 17, 2008, 19:07. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 44 mm, 1/320 sec at f / 6.3, ISO 500.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7385.jpg" thumbURL="thumbs/_MG_7385.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tabletop, Volker Wildner, Schondorf]]></title>
+		<caption><![CDATA[October 14, 2007, 23:56. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 14 mm, 1/125 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7392.jpg" thumbURL="thumbs/_MG_7392.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tabletop, Volker Wildner, Schondorf]]></title>
+		<caption><![CDATA[October 14, 2007, 23:59. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/160 sec at f / 4.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/img-1226.jpg" thumbURL="thumbs/img-1226.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Turndown, Volker Wildner, Fit Plus München]]></title>
+		<caption><![CDATA[April 11, 2007, 18:32. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 180 mm, 1/320 sec at f / 5.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0824.jpg" thumbURL="thumbs/_mg_0824.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Volker Wildner, Emmering]]></title>
+		<caption><![CDATA[December 19, 2006, 20:15. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/60 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+
+</juiceboxgallery>

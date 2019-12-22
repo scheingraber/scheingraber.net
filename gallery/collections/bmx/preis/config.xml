@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/img-3602.jpg" thumbURL="thumbs/img-3602.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Curved Wallride, Matthias Preis, München]]></title>
+		<caption><![CDATA[March 14, 2007, 18:03. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 135 mm, 1/160 sec at f / 4.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_mg_1172.jpg" thumbURL="thumbs/_mg_1172.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Matthias Preis, Emmering]]></title>
+		<caption><![CDATA[January 11, 2007, 18:45. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 11 mm, 1/80 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/preis_wallride_seq.jpg" thumbURL="thumbs/preis_wallride_seq.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Curved Wallride, Matthias Preis, München]]></title>
+		<caption><![CDATA[March 14, 2007, 18:20. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/250 sec at f / 3.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/img-4481.jpg" thumbURL="thumbs/img-4481.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Turndown, Matthias Preis, Geltendorf]]></title>
+		<caption><![CDATA[March 28, 2007, 18:53. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/320 sec at f / 4.5, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-0247.jpg" thumbURL="thumbs/img-0247.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Matthias Preis, Emmering]]></title>
+		<caption><![CDATA[March 31, 2007, 19:52. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 38 mm, 0.3 sec at f / 7.1, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-1240.jpg" thumbURL="thumbs/img-1240.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[One Foot, Matthias Preis, Fit Plus München]]></title>
+		<caption><![CDATA[April 11, 2007, 18:52. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 170 mm, 1/320 sec at f / 5.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-7281.jpg" thumbURL="thumbs/img-7281.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Matthias Preis, Obermenzing]]></title>
+		<caption><![CDATA[April 21, 2007, 18:44. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 135 mm, 1/400 sec at f / 7.1, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-7319.jpg" thumbURL="thumbs/img-7319.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Turndown, Matthias Preis, Obermenzing]]></title>
+		<caption><![CDATA[April 21, 2007, 19:28. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 110 mm, 1/400 sec at f / 5.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7521.jpg" thumbURL="thumbs/_MG_7521.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Gap, Matthias Preis, Emmering]]></title>
+		<caption><![CDATA[October 22, 2007, 02:00. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 1/60 sec at f / 4.0, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1430.jpg" thumbURL="thumbs/_MG_1430.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hang 5, Matthias Preis, Emmering]]></title>
+		<caption><![CDATA[December 29, 2007, 18:51. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/125 sec at f / 2.2, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4141.jpg" thumbURL="thumbs/_MG_4141.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Matthias Preis, Krailing]]></title>
+		<caption><![CDATA[March 09, 2008, 16:24. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/400 sec at f / 6.3, ISO 250.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5599.jpg" thumbURL="thumbs/_MG_5599.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tireslide, Matthias Preis, Schondorf]]></title>
+		<caption><![CDATA[March 29, 2008, 17:59. Canon EOS 40D, 90mm at 90 mm, 1/500 sec at f / 4.0, ISO 200.]]></caption>
+	</image>
+
+</juiceboxgallery>

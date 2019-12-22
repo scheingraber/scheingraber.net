@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_5229-Pano.jpg" thumbURL="thumbs/_MG_5229-Pano.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Standhope Peak seen from Hyndman Creek trail, Sun Valley (Wood River Valley), Idaho, USA.]]></title>
+		<caption><![CDATA[August 26, 2016, 19:57. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/160 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5128.jpg" thumbURL="thumbs/_MG_5128.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[View from Hyndman Creek trail, Sun Valley (Wood River Valley), Idaho, USA.]]></title>
+		<caption><![CDATA[August 26, 2016, 18:39. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 28 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5186.jpg" thumbURL="thumbs/_MG_5186.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hyndman Creek running down Old Hyndman Peak and Shrubby Goldenweed flowers, Sawtooth National Forrest, Sun Valley (Wood River Valley) , Idaho.]]></title>
+		<caption><![CDATA[August 26, 2016, 19:09. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 20 mm, 1/640 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5099.jpg" thumbURL="thumbs/_MG_5099.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[View from Hyndman Creek trail, Sun Valley (Wood River Valley), Idaho, USA.]]></title>
+		<caption><![CDATA[August 26, 2016, 18:19. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 20 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5512.jpg" thumbURL="thumbs/_MG_5512.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Squirrel, Idaho, USA.]]></title>
+		<caption><![CDATA[August 29, 2016, 17:07. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/160 sec at f / 8.0, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5212.jpg" thumbURL="thumbs/_MG_5212.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Standhope Peak seen from Hyndman Creek trail, Sun Valley (Wood River Valley), Idaho, USA.]]></title>
+		<caption><![CDATA[August 26, 2016, 19:56. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 23 mm, 1/250 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+
+</juiceboxgallery>

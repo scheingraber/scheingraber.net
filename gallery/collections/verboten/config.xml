@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_7786.jpg" thumbURL="thumbs/_MG_7786.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[April 19, 2011, 17:38. Canon EOS 1000D,  at , 1/100 sec, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4738.jpg" thumbURL="thumbs/_MG_4738.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 14, 2011, 09:16. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 70 mm, 1/200 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8076.jpg" thumbURL="thumbs/_MG_8076.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[April 23, 2011, 09:38. Canon EOS 1000D,  at , 1/400 sec, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4732.jpg" thumbURL="thumbs/_MG_4732.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 14, 2011, 09:07. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/125 sec at f / 5.6, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4739.jpg" thumbURL="thumbs/_MG_4739.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 14, 2011, 09:36. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/200 sec at f / 5.6, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7812.jpg" thumbURL="thumbs/_MG_7812.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[April 20, 2011, 18:07. Canon EOS 1000D,  at , 1/200 sec, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7100.jpg" thumbURL="thumbs/_MG_7100.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[April 15, 2019, 16:24. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 42 mm, 1/800 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20130602-_MG_2384.jpg" thumbURL="thumbs/20130602-_MG_2384.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[June 02, 2013, 20:08. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/40 sec at f / 5.6, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20160822-2016-08-22_19.54.58.jpg" thumbURL="thumbs/20160822-2016-08-22_19.54.58.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[August 22, 2016, 19:54. KC-S701,  at 4 mm, 1/8 sec at f / 2.4, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0260.jpg" thumbURL="thumbs/_MG_0260.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Graphity, Bogota, Colombia.]]></title>
+		<caption><![CDATA[October 29, 2018, 23:01. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 35 mm, 1/80 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+
+</juiceboxgallery>

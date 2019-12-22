@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_8516.jpg" thumbURL="thumbs/_MG_8516.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[February 25, 2018, 12:56. Canon EOS 70D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/1600 sec at f / 7.1, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8049.jpg" thumbURL="thumbs/_MG_8049.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[February 17, 2018, 10:38. Canon EOS 70D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/1600 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8276.jpg" thumbURL="thumbs/_MG_8276.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[February 18, 2018, 13:37. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/3200 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8026.jpg" thumbURL="thumbs/_MG_8026.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[February 17, 2018, 10:14. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 84 mm, 1/1600 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8217.jpg" thumbURL="thumbs/_MG_8217.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[February 18, 2018, 11:36. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 28 mm, 1/3200 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8121.jpg" thumbURL="thumbs/_MG_8121.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[February 17, 2018, 11:46. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/2500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8543.jpg" thumbURL="thumbs/_MG_8543.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[February 25, 2018, 12:58. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/1250 sec at f / 7.1, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8283.jpg" thumbURL="thumbs/_MG_8283.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[February 18, 2018, 13:38. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 28 mm, 1/1600 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7530.jpg" thumbURL="thumbs/_MG_7530.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 17, 2017, 15:55. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/4000 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9281.jpg" thumbURL="thumbs/_MG_9281.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 26, 2016, 14:38. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/5000 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9518.jpg" thumbURL="thumbs/_MG_9518.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 26, 2016, 15:08. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 60 mm, 1/1000 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9815.jpg" thumbURL="thumbs/_MG_9815.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 28, 2016, 09:55. Canon EOS 70D, EF-S10-22mm f/3.5-4.5 USM at 14 mm, 1/2500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9332.jpg" thumbURL="thumbs/_MG_9332.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Franzi, Switzerland.]]></title>
+		<caption><![CDATA[March 26, 2016, 14:38. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 131 mm, 1/5000 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9357.jpg" thumbURL="thumbs/_MG_9357.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 26, 2016, 14:39. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/3200 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9372.jpg" thumbURL="thumbs/_MG_9372.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 26, 2016, 14:40. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/3200 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9846.jpg" thumbURL="thumbs/_MG_9846.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 28, 2016, 12:45. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 42 mm, 1/1600 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9153.jpg" thumbURL="thumbs/_MG_9153.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 26, 2016, 12:10. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/1250 sec at f / 10, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8409.jpg" thumbURL="thumbs/_MG_8409.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[February 14, 2016, 12:50. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 23 mm, 1/1000 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8458.jpg" thumbURL="thumbs/_MG_8458.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[February 14, 2016, 13:18. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/2000 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8518.jpg" thumbURL="thumbs/_MG_8518.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[February 14, 2016, 13:39. Canon EOS 70D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/1000 sec at f / 7.1, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8608.jpg" thumbURL="thumbs/_MG_8608.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[February 14, 2016, 14:02. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/5000 sec at f / 7.1, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9542.jpg" thumbURL="thumbs/_MG_9542.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 26, 2016, 15:08. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 123 mm, 1/1000 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_mg_6932.jpg" thumbURL="thumbs/_mg_6932.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Walltap, Felix Buchfelder, Geltendorf]]></title>
+		<caption><![CDATA[November 19, 2006, 16:16. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 1/200 sec at f / 4.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0106.jpg" thumbURL="thumbs/_mg_0106.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fufano, Felix Buchfelder, Geltendorf]]></title>
+		<caption><![CDATA[November 25, 2006, 15:00. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 180 mm, 1/320 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/img-0757.jpg" thumbURL="thumbs/img-0757.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Felix Buchfelder, Geltendorf]]></title>
+		<caption><![CDATA[April 06, 2007, 17:32. Canon EOS 400D DIGITAL, 90.0 mm at 90 mm, 1/400 sec at f / 2.8, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0115.jpg" thumbURL="thumbs/_mg_0115.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Felix Buchfelder, Geltendorf]]></title>
+		<caption><![CDATA[November 25, 2006, 15:11. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 200 mm, 1/320 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0863.jpg" thumbURL="thumbs/_mg_0863.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tabletop, Felix Buchfelder, Emmering]]></title>
+		<caption><![CDATA[January 05, 2007, 18:13. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 15 mm, 1/60 sec at f / 4.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0909.jpg" thumbURL="thumbs/_mg_0909.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Wallride, Felix Buchfelder, Emmering]]></title>
+		<caption><![CDATA[January 05, 2007, 18:33. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/80 sec at f / 3.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/felix_wall_1.jpg" thumbURL="thumbs/felix_wall_1.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Felix Buchfelder, Emmering]]></title>
+		<caption><![CDATA[January 12, 2007, 19:36. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/80 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/img-0041.jpg" thumbURL="thumbs/img-0041.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Felix, Geltendorf]]></title>
+		<caption><![CDATA[May 19, 2007, 16:00. Canon EOS 400D DIGITAL, EF50mm f/1.8 at 50 mm, 1/125 sec at f / 2.8, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_1399.jpg" thumbURL="thumbs/_mg_1399.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Walltap, Felix Buchfelder, Geltendorf]]></title>
+		<caption><![CDATA[January 13, 2007, 14:57. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/320 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_mg_1424.jpg" thumbURL="thumbs/_mg_1424.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Felix Buchfelder, Geltendorf]]></title>
+		<caption><![CDATA[January 13, 2007, 15:08. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/320 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2288.jpg" thumbURL="thumbs/_mg_2288.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fufano, Felix Buchfelder,  Schondorf]]></title>
+		<caption><![CDATA[February 17, 2007, 15:52. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 75 mm, 1/125 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2801.jpg" thumbURL="thumbs/_mg_2801.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fufano, Felix Buchfelder,  Emmering]]></title>
+		<caption><![CDATA[February 26, 2007, 21:44. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/50 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+
+</juiceboxgallery>

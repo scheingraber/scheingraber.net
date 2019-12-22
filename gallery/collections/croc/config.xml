@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+	useFullscreenExpand="false"
+
+screenMode="large"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+maxThumbColumns="12"
+showImageOverlay="always"
+showSplashPage="never">
+
+	<image imageURL="images/_MG_4192.jpg" thumbURL="thumbs/_MG_4192.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Yet another warm summer afternoon somewhere in the Everglades NP (Florida).]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/_MG_4193.jpg" thumbURL="thumbs/_MG_4193.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[A small crocodile swimming around, nothing special.]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/_MG_4197.jpg" thumbURL="thumbs/_MG_4197.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hey wait, is that Chris Scheingraber's  Macro Lens swimming around in it's pocket?  ... Yes, due to an unfortunate  occurrence of a significant amount of bad luck, I somehow dropped my lens in the swamp.]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/_MG_4198.jpg" thumbURL="thumbs/_MG_4198.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tamron SP 90mm 2.8, is that some kind of new Sushi or something?]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/_MG_4200.jpg" thumbURL="thumbs/_MG_4200.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Let's just try eating it...]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/_MG_4201.jpg" thumbURL="thumbs/_MG_4201.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Seems to be inedible...]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/_MG_4216.jpg" thumbURL="thumbs/_MG_4216.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[After the crocodile left, ...]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/_MG_4214-Edit.jpg" thumbURL="thumbs/_MG_4214-Edit.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[...I could use that nail to climb down to the water...]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+	<image imageURL="images/_MG_4209.jpg" thumbURL="thumbs/_MG_4209.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[...and get my lens back! After it dried, everything worked as before - including AF and all electronics. Plus I have a nice new story. Yeah :-)]]></title>
+		<caption><![CDATA[]]></caption>
+	</image>
+
+</juiceboxgallery>

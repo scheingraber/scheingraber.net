@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_4949.jpg" thumbURL="thumbs/_MG_4949.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Athens, Greece]]></title>
+		<caption><![CDATA[April 06, 2011, 15:12. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 72 mm, 1/640 sec at f / 5.6, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5268.jpg" thumbURL="thumbs/_MG_5268.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Crete, Greece]]></title>
+		<caption><![CDATA[April 08, 2011, 19:21. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 53 mm, 1/160 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6249.jpg" thumbURL="thumbs/_MG_6249.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Crete, Greece]]></title>
+		<caption><![CDATA[April 11, 2011, 07:51. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 44 mm, 1/80 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5051.jpg" thumbURL="thumbs/_MG_5051.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Rusty, Crete, Greece]]></title>
+		<caption><![CDATA[April 07, 2011, 14:52. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 11 mm, 1/125 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6623.jpg" thumbURL="thumbs/_MG_6623.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Crete, Greece]]></title>
+		<caption><![CDATA[April 11, 2011, 19:51. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 41 mm, 1/80 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7387.jpg" thumbURL="thumbs/_MG_7387.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Crete, Greece]]></title>
+		<caption><![CDATA[April 14, 2011, 19:44. Canon EOS 1000D,  at , 1/1000 sec, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7436.jpg" thumbURL="thumbs/_MG_7436.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Crete, Greece]]></title>
+		<caption><![CDATA[April 14, 2011, 20:13. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 20 mm, 1/25 sec at f / 4.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7628.jpg" thumbURL="thumbs/_MG_7628.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Crete, Greece]]></title>
+		<caption><![CDATA[April 15, 2011, 07:20. Canon EOS 1000D,  at , 1/640 sec, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6924.jpg" thumbURL="thumbs/_MG_6924.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Agios Pavlos Rock, Crete, Greece]]></title>
+		<caption><![CDATA[April 13, 2011, 19:29. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 20 mm, 1/60 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6720.jpg" thumbURL="thumbs/_MG_6720.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Crete, Greece]]></title>
+		<caption><![CDATA[April 12, 2011, 07:32. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 47 mm, 1/200 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6928.jpg" thumbURL="thumbs/_MG_6928.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Agios Pavlos, Crete, Greece]]></title>
+		<caption><![CDATA[April 13, 2011, 19:33. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 22 mm, 1/100 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/pano-304.jpg" thumbURL="thumbs/pano-304.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Crete, Greece]]></title>
+		<caption><![CDATA[April 26, 2011, 14:40. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/_MG_6726.jpg" thumbURL="thumbs/_MG_6726.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Crete, Greece]]></title>
+		<caption><![CDATA[April 12, 2011, 07:48. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 64 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>

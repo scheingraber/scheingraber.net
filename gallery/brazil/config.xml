@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_7725.jpg" thumbURL="thumbs/_MG_7725.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Salvador, Brazil]]></title>
+		<caption><![CDATA[January 16, 2008, 00:44. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 34 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7764.jpg" thumbURL="thumbs/_MG_7764.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Salvador, Brazil]]></title>
+		<caption><![CDATA[January 16, 2008, 02:44. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 125 mm, 1/160 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7701.jpg" thumbURL="thumbs/_MG_7701.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Salvador, Brazil]]></title>
+		<caption><![CDATA[January 15, 2008, 23:39. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 125 mm, 1/200 sec at f / 7.1, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7786.jpg" thumbURL="thumbs/_MG_7786.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Salvador, Brazil]]></title>
+		<caption><![CDATA[January 16, 2008, 03:01. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 125 mm, 1/250 sec at f / 5.6, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7737.jpg" thumbURL="thumbs/_MG_7737.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Salvador, Brazil]]></title>
+		<caption><![CDATA[January 16, 2008, 01:34. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 58 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7774.jpg" thumbURL="thumbs/_MG_7774.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Salvador, Brazil]]></title>
+		<caption><![CDATA[January 16, 2008, 02:48. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 26 mm, 1/200 sec at f / 4.5, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7797.jpg" thumbURL="thumbs/_MG_7797.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Salvador, Brazil]]></title>
+		<caption><![CDATA[January 16, 2008, 04:08. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 58 mm, 1/125 sec at f / 5.6, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7775.jpg" thumbURL="thumbs/_MG_7775.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Salvador, Brazil]]></title>
+		<caption><![CDATA[January 16, 2008, 02:51. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 77 mm, 1/200 sec at f / 5.6, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7805.jpg" thumbURL="thumbs/_MG_7805.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Salvador, Brazil]]></title>
+		<caption><![CDATA[January 16, 2008, 04:16. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 58 mm, 1/500 sec at f / 5.6, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7816.jpg" thumbURL="thumbs/_MG_7816.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Salvador, Brazil]]></title>
+		<caption><![CDATA[January 16, 2008, 08:51. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 30 mm, 4.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>

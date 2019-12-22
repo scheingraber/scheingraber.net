@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_mg_0129-Edit.jpg" thumbURL="thumbs/_mg_0129-Edit.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fufano, Moritz Kauper, Geltendorf]]></title>
+		<caption><![CDATA[November 26, 2006, 16:05. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 75 mm, 1/125 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/img-3573.jpg" thumbURL="thumbs/img-3573.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Curved Wallride, Moritz Kauper, München]]></title>
+		<caption><![CDATA[March 14, 2007, 17:46. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/125 sec at f / 3.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2468.jpg" thumbURL="thumbs/_mg_2468.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, FFB]]></title>
+		<caption><![CDATA[February 18, 2007, 19:39. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 11 mm, 15.0 sec at f / 10, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-0805.jpg" thumbURL="thumbs/img-0805.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, Geltendorf]]></title>
+		<caption><![CDATA[April 06, 2007, 18:58. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 130 mm, 1/640 sec at f / 4.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0801.jpg" thumbURL="thumbs/_mg_0801.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, Emmering]]></title>
+		<caption><![CDATA[December 17, 2006, 19:32. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/60 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_mg_1058.jpg" thumbURL="thumbs/_mg_1058.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Turndown, Moritz Kauper, Emmering]]></title>
+		<caption><![CDATA[January 11, 2007, 16:20. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/80 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2376.jpg" thumbURL="thumbs/_mg_2376.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Toothpick, Moritz Kauper, Geltendorf]]></title>
+		<caption><![CDATA[February 18, 2007, 16:52. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 12 mm, 1/125 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2387.jpg" thumbURL="thumbs/_mg_2387.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Turndown, Moritz Kauper, Geltendorf]]></title>
+		<caption><![CDATA[February 18, 2007, 17:01. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/400 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2399.jpg" thumbURL="thumbs/_mg_2399.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, FFB]]></title>
+		<caption><![CDATA[February 18, 2007, 17:58. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 1/60 sec at f / 4.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2484.jpg" thumbURL="thumbs/_mg_2484.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Footjam, Moritz Kauper, FFB]]></title>
+		<caption><![CDATA[February 18, 2007, 20:13. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 20 mm, 20.0 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/Moe_180_Halle_Box.jpg" thumbURL="thumbs/Moe_180_Halle_Box.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[180, Moritz Kauper, Emmering]]></title>
+		<caption><![CDATA[March 07, 2007, 20:02. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 12 mm, 1/60 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/img-4183.jpg" thumbURL="thumbs/img-4183.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, Geltendorf]]></title>
+		<caption><![CDATA[March 26, 2007, 15:36. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 130 mm, 1/40 sec at f / 9.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-4201.jpg" thumbURL="thumbs/img-4201.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fufano, Moritz Kauper, Geltendorf]]></title>
+		<caption><![CDATA[March 26, 2007, 17:04. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 30 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-4219.jpg" thumbURL="thumbs/img-4219.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fufano, Moritz Kauper, Geltendorf]]></title>
+		<caption><![CDATA[March 26, 2007, 17:17. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 44 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-0943.jpg" thumbURL="thumbs/img-0943.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tabletop, Moritz Kauper, Geltendorf]]></title>
+		<caption><![CDATA[April 07, 2007, 19:56. Canon EOS 400D DIGITAL, 90.0 mm at 90 mm, 1/250 sec at f / 2.8, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/img-0541.jpg" thumbURL="thumbs/img-0541.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, München]]></title>
+		<caption><![CDATA[April 03, 2007, 17:28. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 67 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-0555.jpg" thumbURL="thumbs/img-0555.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, München]]></title>
+		<caption><![CDATA[April 03, 2007, 19:46. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 38 mm, 1/125 sec at f / 4.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/img-0875.jpg" thumbURL="thumbs/img-0875.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[April 07, 2007, 19:09. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/640 sec at f / 3.5, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0069.jpg" thumbURL="thumbs/_MG_0069.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[December 20, 2007, 20:01. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/60 sec at f / 3.5, ISO 1250.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0252.jpg" thumbURL="thumbs/_MG_0252.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[December 21, 2007, 17:10. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/80 sec at f / 3.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5587.jpg" thumbURL="thumbs/_MG_5587.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 29, 2008, 17:51. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/2000 sec at f / 4.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-0926.jpg" thumbURL="thumbs/img-0926.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Turndown, Moritz Kauper, Geltendorf]]></title>
+		<caption><![CDATA[April 07, 2007, 19:41. Canon EOS 400D DIGITAL, 90.0 mm at 90 mm, 1/250 sec at f / 2.8, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5707.jpg" thumbURL="thumbs/_MG_5707.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, Schondorf]]></title>
+		<caption><![CDATA[March 29, 2008, 18:19. Canon EOS 40D, 90mm at 90 mm, 1/250 sec at f / 2.8, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6138.jpg" thumbURL="thumbs/_MG_6138.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fufano, Moritz Kauper, Barcelona]]></title>
+		<caption><![CDATA[April 02, 2008, 19:38. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/160 sec at f / 7.1, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6211.jpg" thumbURL="thumbs/_MG_6211.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz, Barcelona, Spain]]></title>
+		<caption><![CDATA[April 02, 2008, 20:44. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/60 sec at f / 1.8, ISO 1250.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2153.jpg" thumbURL="thumbs/_MG_2153.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fufano, Moritz Kauper, Geltendorf]]></title>
+		<caption><![CDATA[August 13, 2008, 19:58. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/200 sec at f / 6.3, ISO 640.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6706.jpg" thumbURL="thumbs/_MG_6706.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, Barcelona]]></title>
+		<caption><![CDATA[April 04, 2008, 18:37. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/125 sec at f / 8.0, ISO 160.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6722.jpg" thumbURL="thumbs/_MG_6722.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, Barcelona]]></title>
+		<caption><![CDATA[April 04, 2008, 18:42. Canon EOS 40D, 90mm at 90 mm, 1/800 sec at f / 3.5, ISO 320.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0616.jpg" thumbURL="thumbs/_MG_0616.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Turndown, Moritz Kauper, Dachau]]></title>
+		<caption><![CDATA[May 17, 2008, 19:03. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 50 mm, 1/320 sec at f / 6.3, ISO 500.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0672.jpg" thumbURL="thumbs/_MG_0672.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tailwhip, Moritz Kauper, Dachau]]></title>
+		<caption><![CDATA[May 17, 2008, 19:36. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 38 mm, 1/320 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0699.jpg" thumbURL="thumbs/_MG_0699.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moritz Kauper, Dachau]]></title>
+		<caption><![CDATA[May 17, 2008, 20:05. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 73 mm, 1/250 sec at f / 5.6, ISO 500.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2262.jpg" thumbURL="thumbs/_MG_2262.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Toothpick, Moritz Kauper, Geltendorf]]></title>
+		<caption><![CDATA[August 13, 2008, 20:33. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/250 sec at f / 3.5, ISO 1000.]]></caption>
+	</image>
+	<image imageURL="images/pic00054.jpg" thumbURL="thumbs/pic00054.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ghetto Wallride, Moritz Kauper, FFB]]></title>
+		<caption><![CDATA[June 12, 2005, 15:38. ,  at , 1/470 sec at f / 3.0, ISO 50.]]></caption>
+	</image>
+
+</juiceboxgallery>

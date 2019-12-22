@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/img_0601.jpg" thumbURL="thumbs/img_0601.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Iceland]]></title>
+		<caption><![CDATA[July 21, 2006, 10:53. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 155 mm, 1/40 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img_0657.jpg" thumbURL="thumbs/img_0657.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Iceland]]></title>
+		<caption><![CDATA[July 21, 2006, 19:28. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 140 mm, 1/200 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img_0212.jpg" thumbURL="thumbs/img_0212.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Gullfoss, Iceland]]></title>
+		<caption><![CDATA[July 19, 2006, 15:04. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 30 mm, 0.3 sec at f / 18, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img_0622.jpg" thumbURL="thumbs/img_0622.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Myvatn Lake, Iceland]]></title>
+		<caption><![CDATA[July 21, 2006, 12:46. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 75 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img_0194.jpg" thumbURL="thumbs/img_0194.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Geyser, Iceland]]></title>
+		<caption><![CDATA[July 19, 2006, 14:31. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 44 mm, 1/125 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>

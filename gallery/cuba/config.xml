@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/20140301-_MG_0840.jpg" thumbURL="thumbs/20140301-_MG_0840.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Havana, Cuba]]></title>
+		<caption><![CDATA[March 01, 2014, 07:46. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 60 mm, 1/320 sec at f / 5.6, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20140301-_MG_1047.jpg" thumbURL="thumbs/20140301-_MG_1047.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Museum of the Revolution, Havana, Cuba]]></title>
+		<caption><![CDATA[March 01, 2014, 16:42. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/320 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140303-_MG_1349.jpg" thumbURL="thumbs/20140303-_MG_1349.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tobacco fermentation, Viñales, Cuba]]></title>
+		<caption><![CDATA[March 03, 2014, 11:12. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/60 sec at f / 6.3, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20140303-_MG_1402.jpg" thumbURL="thumbs/20140303-_MG_1402.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cat, Viñales, Cuba]]></title>
+		<caption><![CDATA[March 03, 2014, 14:34. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/80 sec at f / 7.1, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20140304-_MG_1552.jpg" thumbURL="thumbs/20140304-_MG_1552.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cienfuegos, Cuba]]></title>
+		<caption><![CDATA[March 04, 2014, 17:30. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 179 mm, 1/250 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140307-_MG_1971.jpg" thumbURL="thumbs/20140307-_MG_1971.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Holguin, Cuba]]></title>
+		<caption><![CDATA[March 07, 2014, 16:49. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20140307-_MG_2039.jpg" thumbURL="thumbs/20140307-_MG_2039.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Holguin, Cuba]]></title>
+		<caption><![CDATA[March 07, 2014, 17:59. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 116 mm, 1/1000 sec at f / 7.1, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20140307-_MG_2059.jpg" thumbURL="thumbs/20140307-_MG_2059.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Holguin, Cuba]]></title>
+		<caption><![CDATA[March 07, 2014, 18:07. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/1000 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20140308-_MG_2227.jpg" thumbURL="thumbs/20140308-_MG_2227.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Holguin, Cuba]]></title>
+		<caption><![CDATA[March 08, 2014, 08:20. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 60 mm, 1/60 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140308-_MG_2305.jpg" thumbURL="thumbs/20140308-_MG_2305.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Holguin, Cuba]]></title>
+		<caption><![CDATA[March 08, 2014, 17:49. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 116 mm, 1/1000 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20140309-_MG_2368.jpg" thumbURL="thumbs/20140309-_MG_2368.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Holguin, Cuba]]></title>
+		<caption><![CDATA[March 09, 2014, 06:54. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 187 mm, 1/500 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140309-_MG_2419.jpg" thumbURL="thumbs/20140309-_MG_2419.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Holguin, Cuba]]></title>
+		<caption><![CDATA[March 09, 2014, 08:00. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 154 mm, 1/320 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20140309-_MG_2451.jpg" thumbURL="thumbs/20140309-_MG_2451.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Holguin, Cuba]]></title>
+		<caption><![CDATA[March 09, 2014, 08:25. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 96 mm, 1/1000 sec at f / 7.1, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140309-_MG_2462.jpg" thumbURL="thumbs/20140309-_MG_2462.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Holguin, Cuba]]></title>
+		<caption><![CDATA[March 09, 2014, 08:29. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 154 mm, 1/400 sec at f / 7.1, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140309-_MG_2511.jpg" thumbURL="thumbs/20140309-_MG_2511.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Holguin, Cuba]]></title>
+		<caption><![CDATA[March 09, 2014, 17:42. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/400 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20140309-_MG_2555.jpg" thumbURL="thumbs/20140309-_MG_2555.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Holguin, Cuba]]></title>
+		<caption><![CDATA[March 09, 2014, 18:34. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 116 mm, 1/160 sec at f / 7.1, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20140311-_MG_2625.jpg" thumbURL="thumbs/20140311-_MG_2625.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Santiago de Cuba]]></title>
+		<caption><![CDATA[March 11, 2014, 17:36. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20140311-_MG_2663.jpg" thumbURL="thumbs/20140311-_MG_2663.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Santiago de Cuba]]></title>
+		<caption><![CDATA[March 11, 2014, 17:56. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 79 mm, 1/100 sec at f / 4.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20140312-_MG_2816.jpg" thumbURL="thumbs/20140312-_MG_2816.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Santiago de Cuba]]></title>
+		<caption><![CDATA[March 12, 2014, 18:08. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 123 mm, 1/1250 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20140313-_MG_3073.jpg" thumbURL="thumbs/20140313-_MG_3073.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Havana, Cuba]]></title>
+		<caption><![CDATA[March 13, 2014, 17:49. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 74 mm, 1/200 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140313-_MG_3090.jpg" thumbURL="thumbs/20140313-_MG_3090.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Havana, Cuba]]></title>
+		<caption><![CDATA[March 13, 2014, 17:58. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 109 mm, 1/640 sec at f / 7.1, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140313-_MG_3145.jpg" thumbURL="thumbs/20140313-_MG_3145.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Havana, Cuba]]></title>
+		<caption><![CDATA[March 13, 2014, 18:52. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 44 mm, 1/125 sec at f / 5.0, ISO 800.]]></caption>
+	</image>
+
+</juiceboxgallery>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_5756.jpg" thumbURL="thumbs/_MG_5756.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[El Fuego Volcano, Guatemala.]]></title>
+		<caption><![CDATA[June 18, 2015, 17:41. Canon EOS 600D,  at 50 mm, 1/2500 sec, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5865.jpg" thumbURL="thumbs/_MG_5865.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[El Fuego Volcano, Guatemala.]]></title>
+		<caption><![CDATA[June 18, 2015, 21:20. Canon EOS 600D,  at 50 mm, 30.0 sec, ISO 6400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5877.jpg" thumbURL="thumbs/_MG_5877.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[El Fuego Volcano, Guatemala.]]></title>
+		<caption><![CDATA[June 19, 2015, 03:41. Canon EOS 600D,  at 50 mm, 30.0 sec, ISO 6400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4564.jpg" thumbURL="thumbs/_MG_4564.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ometepe, Nicaragua.]]></title>
+		<caption><![CDATA[May 23, 2015, 11:48. Canon EOS 600D,  at 50 mm, 1/125 sec, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3145.jpg" thumbURL="thumbs/_MG_3145.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Península de Osa, Costa Rica.]]></title>
+		<caption><![CDATA[May 14, 2015, 09:00. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 25 mm, 1/125 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4074.jpg" thumbURL="thumbs/_MG_4074.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tortuguero National Park, Costa Rica.]]></title>
+		<caption><![CDATA[May 20, 2015, 09:10. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 74 mm, 1/1000 sec at f / 6.3, ISO 6400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4009.jpg" thumbURL="thumbs/_MG_4009.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Emerald Basilisk, Tortuguero National Park, Costa Rica.]]></title>
+		<caption><![CDATA[May 20, 2015, 08:56. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/400 sec at f / 5.6, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6406.jpg" thumbURL="thumbs/_MG_6406.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Semuc Champey, Guatemala.]]></title>
+		<caption><![CDATA[June 22, 2015, 17:42. Canon EOS 600D,  at 50 mm, 1/640 sec, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4213.jpg" thumbURL="thumbs/_MG_4213.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tortuguero National Park, Costa Rica.]]></title>
+		<caption><![CDATA[May 20, 2015, 10:26. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 50 mm, 1/320 sec at f / 8.0, ISO 3200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2793.jpg" thumbURL="thumbs/_MG_2793.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[San José, Costa Rica.]]></title>
+		<caption><![CDATA[May 10, 2015, 07:22. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 21 mm, 1/1000 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2896.jpg" thumbURL="thumbs/_MG_2896.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[San José, Costa Rica.]]></title>
+		<caption><![CDATA[May 11, 2015, 16:38. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/500 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3750.jpg" thumbURL="thumbs/_MG_3750.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Península de Osa, Costa Rica.]]></title>
+		<caption><![CDATA[May 15, 2015, 13:23. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/500 sec at f / 6.3, ISO 6400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3764.jpg" thumbURL="thumbs/_MG_3764.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ants, Península de Osa, Costa Rica.]]></title>
+		<caption><![CDATA[May 15, 2015, 13:52. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 179 mm, 1/1000 sec at f / 6.3, ISO 3200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3399.jpg" thumbURL="thumbs/_MG_3399.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Península de Osa, Costa Rica.]]></title>
+		<caption><![CDATA[May 15, 2015, 08:48. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/500 sec at f / 6.3, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3012.jpg" thumbURL="thumbs/_MG_3012.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Finca sanatorio Duran, near San José, Costa Rica.]]></title>
+		<caption><![CDATA[May 12, 2015, 14:11. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 11 mm, 1/60 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3038.jpg" thumbURL="thumbs/_MG_3038.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Finca sanatorio Duran, near San José, Costa Rica.]]></title>
+		<caption><![CDATA[May 12, 2015, 14:27. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 146 mm, 1/200 sec at f / 8.0, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6141.jpg" thumbURL="thumbs/_MG_6141.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tikal, Guatemala.]]></title>
+		<caption><![CDATA[June 21, 2015, 06:13. Canon EOS 600D,  at 50 mm, 1/250 sec, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3568.jpg" thumbURL="thumbs/_MG_3568.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Península de Osa, Costa Rica.]]></title>
+		<caption><![CDATA[May 15, 2015, 10:37. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 208 mm, 1/100 sec at f / 5.6, ISO 6400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4065.jpg" thumbURL="thumbs/_MG_4065.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tortuguero National Park, Costa Rica.]]></title>
+		<caption><![CDATA[May 20, 2015, 09:10. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 179 mm, 1/640 sec at f / 7.1, ISO 6400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2883.jpg" thumbURL="thumbs/_MG_2883.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[San José, Costa Rica.]]></title>
+		<caption><![CDATA[May 11, 2015, 15:17. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 135 mm, 1/60 sec at f / 5.0, ISO 6400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2822.jpg" thumbURL="thumbs/_MG_2822.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[San José, Costa Rica.]]></title>
+		<caption><![CDATA[May 10, 2015, 13:38. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/125 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4415.jpg" thumbURL="thumbs/_MG_4415.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Airstrip, Ometepe, Nicaragua.]]></title>
+		<caption><![CDATA[May 22, 2015, 16:58. Canon EOS 600D,  at 50 mm, 1/400 sec, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4608.jpg" thumbURL="thumbs/_MG_4608.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Granada, Nicaragua.]]></title>
+		<caption><![CDATA[May 24, 2015, 14:11. Canon EOS 600D,  at 50 mm, 1/640 sec, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5297.jpg" thumbURL="thumbs/_MG_5297.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Nicaragua.]]></title>
+		<caption><![CDATA[June 10, 2015, 16:54. Canon EOS 600D,  at 50 mm, 1/250 sec, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4823.jpg" thumbURL="thumbs/_MG_4823.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[near Bluefields, Nicaragua.]]></title>
+		<caption><![CDATA[May 28, 2015, 05:46. Canon EOS 600D,  at 50 mm, 1/640 sec, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4891.jpg" thumbURL="thumbs/_MG_4891.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Pearl Keys, Nicaragua.]]></title>
+		<caption><![CDATA[June 02, 2015, 17:05. Canon EOS 600D,  at 50 mm, 1/800 sec, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4907.jpg" thumbURL="thumbs/_MG_4907.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Pearl Keys, Nicaragua.]]></title>
+		<caption><![CDATA[June 03, 2015, 05:42. Canon EOS 600D,  at 50 mm, 1/160 sec, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5662.jpg" thumbURL="thumbs/_MG_5662.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[El Fuego, Guatemala.]]></title>
+		<caption><![CDATA[June 18, 2015, 13:39. Canon EOS 600D,  at 50 mm, 1/320 sec, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5847.jpg" thumbURL="thumbs/_MG_5847.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[El Fuego Volcano, Guatemala.]]></title>
+		<caption><![CDATA[June 18, 2015, 18:46. Canon EOS 600D,  at 50 mm, 1/60 sec, ISO 1600.]]></caption>
+	</image>
+
+</juiceboxgallery>

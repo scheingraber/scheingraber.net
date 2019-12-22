@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/20140123-_MG_0145.jpg" thumbURL="thumbs/20140123-_MG_0145.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lanzarote and Fuerteventura on horizon, Spain]]></title>
+		<caption><![CDATA[January 23, 2014, 18:45. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 15 mm, 1/800 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20140120-_MG_9462.jpg" thumbURL="thumbs/20140120-_MG_9462.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lanzarote, Spain]]></title>
+		<caption><![CDATA[January 20, 2014, 13:26. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 22 mm, 0.8 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20140120-_MG_9584.jpg" thumbURL="thumbs/20140120-_MG_9584.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lanzarote, Spain]]></title>
+		<caption><![CDATA[January 20, 2014, 19:06. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 41 mm, 1/320 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20140121-_MG_9689.jpg" thumbURL="thumbs/20140121-_MG_9689.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lanzarote, Spain]]></title>
+		<caption><![CDATA[January 21, 2014, 09:18. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 123 mm, 1/500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20140122-_MG_9853.jpg" thumbURL="thumbs/20140122-_MG_9853.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lanzarote, Spain]]></title>
+		<caption><![CDATA[January 22, 2014, 16:38. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 84 mm, 1/500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20140123-_MG_9894.jpg" thumbURL="thumbs/20140123-_MG_9894.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lanzarote, Spain]]></title>
+		<caption><![CDATA[January 23, 2014, 13:40. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 84 mm, 1/320 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20140123-_MG_9988.jpg" thumbURL="thumbs/20140123-_MG_9988.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lanzarote, Spain]]></title>
+		<caption><![CDATA[January 23, 2014, 15:44. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/640 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20140123-_MG_0143.jpg" thumbURL="thumbs/20140123-_MG_0143.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lanzarote, Spain]]></title>
+		<caption><![CDATA[January 23, 2014, 18:44. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 74 mm, 1/400 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20140124-_MG_0304.jpg" thumbURL="thumbs/20140124-_MG_0304.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lanzarote, Spain]]></title>
+		<caption><![CDATA[January 24, 2014, 15:55. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/3200 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20140124-_MG_0452.jpg" thumbURL="thumbs/20140124-_MG_0452.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lanzarote, Spain]]></title>
+		<caption><![CDATA[January 24, 2014, 19:20. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 208 mm, 1/500 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1360.jpg" thumbURL="thumbs/_MG_1360.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Rainbow, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 20, 2009, 19:16. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 66 mm, 1/160 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1404.jpg" thumbURL="thumbs/_MG_1404.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Masca, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 20, 2009, 19:45. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 30 mm, 1/2500 sec at f / 7.1, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1407.jpg" thumbURL="thumbs/_MG_1407.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Masca, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 20, 2009, 19:52. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 44 mm, 1/40 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1461.jpg" thumbURL="thumbs/_MG_1461.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Masca, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 20, 2009, 20:11. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 70 mm, 1/50 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1518.jpg" thumbURL="thumbs/_MG_1518.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Masca, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 21, 2009, 13:33. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1551.jpg" thumbURL="thumbs/_MG_1551.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Puerto de la Cruz, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 22, 2009, 13:49. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 56 mm, 1/320 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1561.jpg" thumbURL="thumbs/_MG_1561.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Puerto de la Cruz, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 22, 2009, 13:54. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/250 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1576.jpg" thumbURL="thumbs/_MG_1576.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Puerto de la Cruz, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 22, 2009, 14:59. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 72 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1734.jpg" thumbURL="thumbs/_MG_1734.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Puerto de la Cruz, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 25, 2009, 09:11. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 68 mm, 1/160 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1753.jpg" thumbURL="thumbs/_MG_1753.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Puerto de la Cruz, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 25, 2009, 09:24. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 53 mm, 1/125 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1865.jpg" thumbURL="thumbs/_MG_1865.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Teide NP, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 26, 2009, 15:58. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 59 mm, 1/4000 sec at f / 10, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1886.jpg" thumbURL="thumbs/_MG_1886.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Teide NP, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 26, 2009, 16:31. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 61 mm, 1/250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1939.jpg" thumbURL="thumbs/_MG_1939.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Teide NP, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 26, 2009, 18:52. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 44 mm, 1/160 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2008.jpg" thumbURL="thumbs/_MG_2008.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Teide NP, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 26, 2009, 19:08. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 33 mm, 1/100 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2059.jpg" thumbURL="thumbs/_MG_2059.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Teide NP, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 27, 2009, 07:36. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 28 mm, 1/160 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2171.jpg" thumbURL="thumbs/_MG_2171.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Teide NP, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 27, 2009, 10:47. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/200 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2337.jpg" thumbURL="thumbs/_MG_2337.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Anaga, Tenerife, Spain]]></title>
+		<caption><![CDATA[February 28, 2009, 19:06. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 44 mm, 1/30 sec at f / 5.6, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/pano-44.jpg" thumbURL="thumbs/pano-44.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Anaga, Tenerife, Spain]]></title>
+		<caption><![CDATA[October 20, 2010, 22:53. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/pano-47.jpg" thumbURL="thumbs/pano-47.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Anaga, Tenerife, Spain]]></title>
+		<caption><![CDATA[October 20, 2010, 22:53. ,  at , , .]]></caption>
+	</image>
+
+</juiceboxgallery>

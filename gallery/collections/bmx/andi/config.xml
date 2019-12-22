@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_mg_0558.jpg" thumbURL="thumbs/_mg_0558.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Andi Pusch, Geltendorf]]></title>
+		<caption><![CDATA[December 08, 2006, 15:15. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/320 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_mg_6243.jpg" thumbURL="thumbs/_mg_6243.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Wallride, Andi Pusch, Geltendorf]]></title>
+		<caption><![CDATA[October 28, 2006, 17:07. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 1/1250 sec at f / 4.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0251.jpg" thumbURL="thumbs/_MG_0251.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Turndown, Andi Pusch, Emmering]]></title>
+		<caption><![CDATA[December 21, 2007, 17:10. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/80 sec at f / 3.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/img-0107.jpg" thumbURL="thumbs/img-0107.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Andi Pusch, Geltendorf]]></title>
+		<caption><![CDATA[May 20, 2007, 19:57. Canon EOS 400D DIGITAL, EF50mm f/1.8 at 50 mm, 1/1000 sec at f / 2.8, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-1189.jpg" thumbURL="thumbs/img-1189.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Andi Pusch, Geltendorf]]></title>
+		<caption><![CDATA[April 10, 2007, 19:25. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 180 mm, 1/500 sec at f / 5.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/Andi_Wallride_Sequenz.jpg" thumbURL="thumbs/Andi_Wallride_Sequenz.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Gap to Wallride, Andi Pusch, Geltendorf]]></title>
+		<caption><![CDATA[December 08, 2006, 15:59. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/200 sec at f / 3.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/img-4065.jpg" thumbURL="thumbs/img-4065.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Feeble, Andi Pusch, FFB]]></title>
+		<caption><![CDATA[March 23, 2007, 15:08. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/200 sec at f / 7.1, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/Curved_Sequenz.jpg" thumbURL="thumbs/Curved_Sequenz.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Curved Wallride, Andi Pusch, Emmering]]></title>
+		<caption><![CDATA[January 09, 2007, 18:53. Canon EOS 400D DIGITAL,  at 10 mm, 1/80 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/img-4145.jpg" thumbURL="thumbs/img-4145.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Andi Pusch, FFB]]></title>
+		<caption><![CDATA[March 23, 2007, 17:17. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/100 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-4121.jpg" thumbURL="thumbs/img-4121.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Treeride to Fakie, Andi Pusch, FFB]]></title>
+		<caption><![CDATA[March 23, 2007, 16:47. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/100 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-1067.jpg" thumbURL="thumbs/img-1067.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Icepick, Andi Pusch, Geltendorf]]></title>
+		<caption><![CDATA[April 08, 2007, 18:54. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 19 mm, 1/160 sec at f / 5.6, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>

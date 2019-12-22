@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/img-3837.jpg" thumbURL="thumbs/img-3837.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[270 Barspin, Wolfi Wildner, Geltendorf]]></title>
+		<caption><![CDATA[March 16, 2007, 17:13. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/800 sec at f / 4.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7354.jpg" thumbURL="thumbs/_MG_7354.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Wolfi Wildner, Geltendorf]]></title>
+		<caption><![CDATA[October 13, 2007, 22:15. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 87 mm, 1/200 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-4315.jpg" thumbURL="thumbs/img-4315.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Footjam, Wolfi Wildner, Geltendorf]]></title>
+		<caption><![CDATA[March 27, 2007, 18:29. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 150 mm, 1/60 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5637.jpg" thumbURL="thumbs/_MG_5637.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Footjam, Wolfi Wildner, Schondorf]]></title>
+		<caption><![CDATA[March 29, 2008, 18:08. Canon EOS 40D, 90mm at 90 mm, 1/320 sec at f / 4.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0771.jpg" thumbURL="thumbs/_mg_0771.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Wolfi Wildner, Emmering]]></title>
+		<caption><![CDATA[December 17, 2006, 19:14. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/60 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_mg_1074.jpg" thumbURL="thumbs/_mg_1074.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Barspin, Wolfi Wildner, Emmering]]></title>
+		<caption><![CDATA[January 11, 2007, 17:50. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 16 mm, 1/80 sec at f / 4.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_mg_1083.jpg" thumbURL="thumbs/_mg_1083.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Footjam Tailwhip, Wolfi Wildner, Emmering]]></title>
+		<caption><![CDATA[January 11, 2007, 17:55. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/80 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/curved_wallride_1.jpg" thumbURL="thumbs/curved_wallride_1.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Curved Wallride, Wolfi Wildner, Emmering]]></title>
+		<caption><![CDATA[January 11, 2007, 18:18. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 11 mm, 1/80 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/curved_wallride_2.jpg" thumbURL="thumbs/curved_wallride_2.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Curved Wallride, Wolfi Wildner, Emmering]]></title>
+		<caption><![CDATA[January 11, 2007, 18:24. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 22 mm, 1/80 sec at f / 4.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/img-4297.jpg" thumbURL="thumbs/img-4297.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Footjam, Wolfi Wildner, Geltendorf]]></title>
+		<caption><![CDATA[March 27, 2007, 18:06. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 130 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-7272.jpg" thumbURL="thumbs/img-7272.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Toboggan, Wolfi Wildner, Obermenzing]]></title>
+		<caption><![CDATA[April 21, 2007, 18:32. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/320 sec at f / 7.1, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-0473.jpg" thumbURL="thumbs/img-0473.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Walltap, Wolfi Wildner, Geltendorf]]></title>
+		<caption><![CDATA[April 02, 2007, 19:32. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 1/200 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0759.jpg" thumbURL="thumbs/_mg_0759.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tabletop, Wolfi Wildner, Emmering]]></title>
+		<caption><![CDATA[December 17, 2006, 19:02. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/60 sec at f / 4.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/img-1219.jpg" thumbURL="thumbs/img-1219.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tabletop, Wolfi Wildner, Fit Plus München]]></title>
+		<caption><![CDATA[April 11, 2007, 17:58. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 150 mm, 1/320 sec at f / 5.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-7243.jpg" thumbURL="thumbs/img-7243.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tuck No Hand, Wolfi Wildner, Obermenzing]]></title>
+		<caption><![CDATA[April 21, 2007, 17:52. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 220 mm, 1/800 sec at f / 7.1, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1722.jpg" thumbURL="thumbs/_MG_1722.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Wolfi Wildner]]></title>
+		<caption><![CDATA[January 04, 2008, 17:59. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/60 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/img-4347.jpg" thumbURL="thumbs/img-4347.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 27, 2007, 18:52. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/160 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0256.jpg" thumbURL="thumbs/_MG_0256.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Wolfi Wildner, Emmering]]></title>
+		<caption><![CDATA[December 21, 2007, 17:13. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/80 sec at f / 3.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/img-4327.jpg" thumbURL="thumbs/img-4327.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fakie Barspin, Wolfi Wildner, Geltendorf]]></title>
+		<caption><![CDATA[March 27, 2007, 18:39. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/250 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0881.jpg" thumbURL="thumbs/_MG_0881.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[December 24, 2007, 12:21. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/200 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4435.jpg" thumbURL="thumbs/_MG_4435.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Wolfi Wildner, Emmering]]></title>
+		<caption><![CDATA[March 17, 2008, 19:24. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 1/80 sec at f / 4.0, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2102.jpg" thumbURL="thumbs/_MG_2102.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Wolfi Wildner, Geltendorf]]></title>
+		<caption><![CDATA[August 13, 2008, 19:48. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 17 mm, 1/250 sec at f / 7.1, ISO 500.]]></caption>
+	</image>
+
+</juiceboxgallery>

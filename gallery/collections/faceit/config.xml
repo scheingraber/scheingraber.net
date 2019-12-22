@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_2659.jpg" thumbURL="thumbs/_MG_2659.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Duck, Gamlehaugen, Norway]]></title>
+		<caption><![CDATA[December 13, 2009, 14:48. Canon EOS 1000D, EF50mm f/1.8 II at 50 mm, 1/80 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4110.jpg" thumbURL="thumbs/_MG_4110.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fish Head, Venezuela]]></title>
+		<caption><![CDATA[January 28, 2010, 19:26. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0748.jpg" thumbURL="thumbs/_MG_0748.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Frogger, Brauneck, Germany]]></title>
+		<caption><![CDATA[September 30, 2010, 11:29. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 61 mm, 1/50 sec at f / 7.1, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20120924-_MG_2094.jpg" thumbURL="thumbs/20120924-_MG_2094.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fish Head, Reunion]]></title>
+		<caption><![CDATA[September 24, 2012, 15:55. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 45 mm, 1/320 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+
+</juiceboxgallery>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_2990.jpg" thumbURL="thumbs/_MG_2990.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Rusty, Finca sanatorio Duran, Costa Rica.]]></title>
+		<caption><![CDATA[May 12, 2015, 14:02. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5051.jpg" thumbURL="thumbs/_MG_5051.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Rusty, Crete, Greece.]]></title>
+		<caption><![CDATA[April 07, 2011, 14:52. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 11 mm, 1/125 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7983.jpg" thumbURL="thumbs/_MG_7983.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Rusty, Parco Naturale delle Capanne di Marcarolo, Italy.]]></title>
+		<caption><![CDATA[January 31, 2016, 13:25. Canon EOS 70D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/250 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4143.jpg" thumbURL="thumbs/_MG_4143.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Abandoned Car, NT, Australia.]]></title>
+		<caption><![CDATA[July 16, 2007, 14:14. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>

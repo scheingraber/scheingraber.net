@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/IMG_8330.jpg" thumbURL="thumbs/IMG_8330.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bester Baum, Emmering, Germany.]]></title>
+		<caption><![CDATA[June 24, 2006, 05:49. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 120 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_5176.jpg" thumbURL="thumbs/_mg_5176.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bester Baum, Emmering, Germany.]]></title>
+		<caption><![CDATA[October 08, 2006, 03:14. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 31 mm, 71.0 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_6157.jpg" thumbURL="thumbs/IMG_6157.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bester Baum, Emmering, Germany.]]></title>
+		<caption><![CDATA[May 20, 2006, 20:15. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 1/25 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_7309.jpg" thumbURL="thumbs/IMG_7309.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bester Baum, Emmering, Germany.]]></title>
+		<caption><![CDATA[June 12, 2006, 05:29. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 205 mm, 1/10 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_6431.jpg" thumbURL="thumbs/IMG_6431.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bester Baum, Emmering, Germany.]]></title>
+		<caption><![CDATA[May 25, 2006, 06:34. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 1/400 sec at f / 11, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_7851.jpg" thumbURL="thumbs/IMG_7851.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bester Baum, Emmering, Germany.]]></title>
+		<caption><![CDATA[June 18, 2006, 05:24. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 170 mm, 2.5 sec at f / 9.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0009.jpg" thumbURL="thumbs/_mg_0009.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bester Baum, Emmering, Germany.]]></title>
+		<caption><![CDATA[November 15, 2006, 15:52. Canon EOS 400D DIGITAL, 90.0 mm at 90 mm, 1/50 sec at f / 9.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0462.jpg" thumbURL="thumbs/_MG_0462.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bester Baum, Emmering, Germany.]]></title>
+		<caption><![CDATA[December 22, 2007, 09:10. Canon EOS 40D, EF75-300mm f/4-5.6 at 110 mm, 1/125 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_6382.jpg" thumbURL="thumbs/_mg_6382.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bester Baum, Emmering, Germany.]]></title>
+		<caption><![CDATA[November 05, 2006, 17:09. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 130 mm, 1.3 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1002.jpg" thumbURL="thumbs/_MG_1002.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bester Baum, Emmering, Germany.]]></title>
+		<caption><![CDATA[February 13, 2009, 17:29. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 22 mm, 1/80 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/pano-14.jpg" thumbURL="thumbs/pano-14.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bester Baum, Emmering, Germany.]]></title>
+		<caption><![CDATA[October 20, 2010, 22:52. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/_MG_6398.jpg" thumbURL="thumbs/_MG_6398.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bester Baum, Emmering, Germany.]]></title>
+		<caption><![CDATA[November 09, 2015, 16:55. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 37 mm, 1/60 sec at f / 6.3, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6711.jpg" thumbURL="thumbs/_MG_6711.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bester Baum, Emmering, Germany.]]></title>
+		<caption><![CDATA[April 03, 2019, 17:36. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 21 mm, 1/125 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_4779.jpg" thumbURL="thumbs/_MG_4779.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Icepick, Jonas Schirrmacher, Geltendorf]]></title>
+		<caption><![CDATA[October 03, 2006, 15:20. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 1/100 sec at f / 5.6, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2302.jpg" thumbURL="thumbs/_mg_2302.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Footjam, Jonas Schirrmacher, Schondorf]]></title>
+		<caption><![CDATA[February 17, 2007, 16:02. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 30 mm, 1/200 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/IMG_4831.jpg" thumbURL="thumbs/IMG_4831.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Footjam, Jonas Schirrmacher, Geltendorf]]></title>
+		<caption><![CDATA[October 03, 2006, 15:42. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 1/500 sec at f / 3.5, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_mg_6237.jpg" thumbURL="thumbs/_mg_6237.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Barspin, Jonas Schirrmacher, Geltendorf]]></title>
+		<caption><![CDATA[October 28, 2006, 15:31. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 1/250 sec at f / 4.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_mg_1404.jpg" thumbURL="thumbs/_mg_1404.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Walltap, Jonas Schirrmacher, Geltendorf]]></title>
+		<caption><![CDATA[January 13, 2007, 14:59. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 1/320 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_mg_6236.jpg" thumbURL="thumbs/_mg_6236.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[No Hand, Jonas Schirrmacher, Geltendorf]]></title>
+		<caption><![CDATA[October 28, 2006, 15:27. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 125 mm, 1/400 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+
+</juiceboxgallery>

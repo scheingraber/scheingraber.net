@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/IMG_4836.jpg" thumbURL="thumbs/IMG_4836.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Icepick, Chris Scheingraber, Geltendorf]]></title>
+		<caption><![CDATA[October 03, 2006, 15:46. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 1/3200 sec at f / 3.5, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0085.jpg" thumbURL="thumbs/_mg_0085.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[360, Chris Scheingraber, Geltendorf]]></title>
+		<caption><![CDATA[November 25, 2006, 14:34. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 75 mm, 1/320 sec at f / 5.6, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4092.jpg" thumbURL="thumbs/_MG_4092.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Chris Scheingraber, FFB]]></title>
+		<caption><![CDATA[March 09, 2008, 13:52. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4681.jpg" thumbURL="thumbs/_MG_4681.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Chris Scheingraber, Genova]]></title>
+		<caption><![CDATA[March 21, 2008, 17:41. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/160 sec at f / 3.5, ISO 500.]]></caption>
+	</image>
+	<image imageURL="images/Geltendorf_London_Gap_Manual.jpg" thumbURL="thumbs/Geltendorf_London_Gap_Manual.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Manual, Chris Scheingraber, Geltendorf]]></title>
+		<caption><![CDATA[October 20, 2010, 21:52. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/_mg_2271.jpg" thumbURL="thumbs/_mg_2271.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Wallride, Chris Scheingraber, Geltendorf]]></title>
+		<caption><![CDATA[February 17, 2007, 14:21. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 18 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-4487.jpg" thumbURL="thumbs/img-4487.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Walltap, Chris Scheingraber, Geltendorf]]></title>
+		<caption><![CDATA[March 28, 2007, 18:57. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 18 mm, 1/200 sec at f / 4.5, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-0343.jpg" thumbURL="thumbs/img-0343.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Walltap, Chris Scheingraber, Geltendorf]]></title>
+		<caption><![CDATA[April 01, 2007, 19:22. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/250 sec at f / 4.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5066.jpg" thumbURL="thumbs/_MG_5066.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Chris Scheingraber, Südfrankreich]]></title>
+		<caption><![CDATA[March 23, 2008, 16:25. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/250 sec at f / 8.0, ISO 160.]]></caption>
+	</image>
+	<image imageURL="images/IMG_4876.jpg" thumbURL="thumbs/IMG_4876.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fufano, Chris Scheingraber, Geltendorf]]></title>
+		<caption><![CDATA[October 03, 2006, 16:18. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 1/250 sec at f / 4.5, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5064.jpg" thumbURL="thumbs/_MG_5064.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Air, Chris Scheingraber, Südfrankreich]]></title>
+		<caption><![CDATA[March 23, 2008, 16:24. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/250 sec at f / 8.0, ISO 160.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5972.jpg" thumbURL="thumbs/_MG_5972.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[One Hander, Chris Scheingraber, Barcelona]]></title>
+		<caption><![CDATA[April 01, 2008, 18:21. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/curved_wallride_chris_sequenz.jpg" thumbURL="thumbs/curved_wallride_chris_sequenz.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Wallride, Chris Scheingraber, Emmering]]></title>
+		<caption><![CDATA[November 21, 2007, 21:50. Canon EOS 30D,  at 10 mm, 1/125 sec at f / 3.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/pic00024.jpg" thumbURL="thumbs/pic00024.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ghetto Quarter, Chris Scheingraber, FFB]]></title>
+		<caption><![CDATA[June 12, 2005, 14:57. ,  at , 1/250 sec at f / 3.0, ISO 50.]]></caption>
+	</image>
+
+</juiceboxgallery>

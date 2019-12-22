@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_4075.jpg" thumbURL="thumbs/_MG_4075.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Beach, Fort Lauderdale, FL, USA]]></title>
+		<caption><![CDATA[August 03, 2011, 08:13. Canon EOS 1000D, 90mm at 90 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4173.jpg" thumbURL="thumbs/_MG_4173.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Miami, FL, USA]]></title>
+		<caption><![CDATA[August 03, 2011, 13:42. Canon EOS 1000D, 90mm at 90 mm, 1/3200 sec at f / 2.8, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4323.jpg" thumbURL="thumbs/_MG_4323.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Everglades NP, FL, USA]]></title>
+		<caption><![CDATA[August 03, 2011, 17:24. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 21 mm, 1/30 sec at f / 4.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4207.jpg" thumbURL="thumbs/_MG_4207.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Crocodile and floating DSLR macro lens, Everglades NP, FL, USA]]></title>
+		<caption><![CDATA[August 03, 2011, 16:18. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 22 mm, 1/320 sec at f / 4.5, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4042.jpg" thumbURL="thumbs/_MG_4042.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Beach, Fort Lauderdale, FL, USA]]></title>
+		<caption><![CDATA[August 03, 2011, 13:33. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/200 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4383.jpg" thumbURL="thumbs/_MG_4383.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Florida Keys, FL, USA]]></title>
+		<caption><![CDATA[August 03, 2011, 20:01. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 16 mm, 1/125 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4409.jpg" thumbURL="thumbs/_MG_4409.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Florida Keys, FL, USA]]></title>
+		<caption><![CDATA[August 03, 2011, 20:18. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 12 mm, 1/60 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4445.jpg" thumbURL="thumbs/_MG_4445.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kennedy Space Center, FL, USA]]></title>
+		<caption><![CDATA[August 04, 2011, 15:33. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 14 mm, 1/60 sec at f / 4.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4481.jpg" thumbURL="thumbs/_MG_4481.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kennedy Space Center, FL, USA]]></title>
+		<caption><![CDATA[August 04, 2011, 16:00. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 16 mm, 1/60 sec at f / 4.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4505.jpg" thumbURL="thumbs/_MG_4505.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kennedy Space Center, FL, USA]]></title>
+		<caption><![CDATA[August 04, 2011, 17:19. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/25 sec at f / 3.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4533-Edit.jpg" thumbURL="thumbs/_MG_4533-Edit.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kennedy Space Center, FL, USA]]></title>
+		<caption><![CDATA[August 04, 2011, 19:44. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 22 mm, 1/200 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4146.jpg" thumbURL="thumbs/_MG_4146.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Miami, FL, USA]]></title>
+		<caption><![CDATA[August 03, 2011, 13:32. Canon EOS 1000D, 90mm at 90 mm, 1/640 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>
