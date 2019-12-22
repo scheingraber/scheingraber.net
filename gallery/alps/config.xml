@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_7435.jpg" thumbURL="thumbs/_MG_7435.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Maloja, Switzerland.]]></title>
+		<caption><![CDATA[January 02, 2018, 16:08. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 74 mm, 1/400 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8101.jpg" thumbURL="thumbs/_MG_8101.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[St. Antönien, Switzerland.]]></title>
+		<caption><![CDATA[February 17, 2018, 11:30. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 49 mm, 1/2500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7795.jpg" thumbURL="thumbs/_MG_7795.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[View from Schönberg, Bavaria, Germany.]]></title>
+		<caption><![CDATA[February 11, 2018, 11:17. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 51 mm, 1/800 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8291.jpg" thumbURL="thumbs/_MG_8291.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[St. Antönien, Switzerland.]]></title>
+		<caption><![CDATA[February 18, 2018, 13:40. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 28 mm, 1/6400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7447.jpg" thumbURL="thumbs/_MG_7447.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Maloja, Switzerland.]]></title>
+		<caption><![CDATA[January 02, 2018, 16:11. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 65 mm, 1/500 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8271.jpg" thumbURL="thumbs/_MG_8271.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[St. Antönien, Switzerland.]]></title>
+		<caption><![CDATA[February 18, 2018, 13:29. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 38 mm, 1/2000 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8112.jpg" thumbURL="thumbs/_MG_8112.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[St. Antönien, Switzerland.]]></title>
+		<caption><![CDATA[February 17, 2018, 11:32. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 55 mm, 1/1600 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8281.jpg" thumbURL="thumbs/_MG_8281.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[St. Antönien, Switzerland.]]></title>
+		<caption><![CDATA[February 18, 2018, 13:37. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 20 mm, 1/1600 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8297.jpg" thumbURL="thumbs/_MG_8297.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[St. Antönien, Switzerland.]]></title>
+		<caption><![CDATA[February 18, 2018, 13:41. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 79 mm, 1/2000 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7316.jpg" thumbURL="thumbs/_MG_7316.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Brecherspitz, Bavaria, Germany.]]></title>
+		<caption><![CDATA[December 29, 2017, 15:58. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 45 mm, 1/1000 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7456.jpg" thumbURL="thumbs/_MG_7456.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Maloja, Switzerland.]]></title>
+		<caption><![CDATA[January 02, 2018, 16:15. Canon EOS 70D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/800 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8457.jpg" thumbURL="thumbs/_MG_8457.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[View from Kotalmjoch, Tyrol, Austria.]]></title>
+		<caption><![CDATA[February 24, 2018, 13:45. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 28 mm, 1/1000 sec at f / 7.1, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8741.jpg" thumbURL="thumbs/_MG_8741.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Near Watzmann, Bavaria, Germany.]]></title>
+		<caption><![CDATA[March 03, 2018, 14:38. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 35 mm, 1/1250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9280.jpg" thumbURL="thumbs/_MG_9280.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Roccabella, Switzerland.]]></title>
+		<caption><![CDATA[March 24, 2018, 13:58. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 123 mm, 1/4000 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9775.jpg" thumbURL="thumbs/_MG_9775.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Austria.]]></title>
+		<caption><![CDATA[October 06, 2018, 08:37. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 24 mm, 1/160 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6015.jpg" thumbURL="thumbs/_MG_6015.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[View from Galtjoch, Austria.]]></title>
+		<caption><![CDATA[December 25, 2018, 06:39. Canon EOS 70D, EF-S18-55mm f/3.5-5.6 IS II at 37 mm, 1/1000 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9049.jpg" thumbURL="thumbs/_MG_9049.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Klammspitz, Bavaria, Germany.]]></title>
+		<caption><![CDATA[May 23, 2017, 19:28. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/250 sec at f / 8.0, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7249.jpg" thumbURL="thumbs/_MG_7249.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[View of Kreuzspitze from Scheinberg, Bavaria, Germany.]]></title>
+		<caption><![CDATA[February 12, 2017, 15:32. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7403.jpg" thumbURL="thumbs/_MG_7403.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Arlberg, Austria.]]></title>
+		<caption><![CDATA[December 28, 2015, 16:06. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 44 mm, 1/250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7405.jpg" thumbURL="thumbs/_MG_7405.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Arlberg, Austria.]]></title>
+		<caption><![CDATA[December 28, 2015, 16:07. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 47 mm, 1/250 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1395.jpg" thumbURL="thumbs/_MG_1395.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Gottesackerplateau, near Hoher Ifen, Kleinwalsertal, Austria &amp; Germany.]]></title>
+		<caption><![CDATA[July 16, 2016, 19:42. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 79 mm, 1/500 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1346.jpg" thumbURL="thumbs/_MG_1346.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Gottesackerplateau, near Hoher Ifen, Kleinwalsertal, Austria &amp; Germany.]]></title>
+		<caption><![CDATA[July 16, 2016, 19:15. Canon EOS 70D, EF-S10-22mm f/3.5-4.5 USM at 12 mm, 1/400 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8499.jpg" thumbURL="thumbs/_MG_8499.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Silvretta Montafon, Austria.]]></title>
+		<caption><![CDATA[February 14, 2016, 13:28. Canon EOS 70D, EF-S10-22mm f/3.5-4.5 USM at 17 mm, 1/2500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1427.jpg" thumbURL="thumbs/_MG_1427.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Gottesackerplateau, near Hoher Ifen, Kleinwalsertal, Austria &amp; Germany.]]></title>
+		<caption><![CDATA[July 16, 2016, 20:00. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 96 mm, 1/640 sec at f / 8.0, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20130723-_Group_13_-20130723-_MG_2710_20130723-_MG_2716-7_images.jpg" thumbURL="thumbs/20130723-_Group_13_-20130723-_MG_2710_20130723-_MG_2716-7_images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kochelsee from Jochberg, Germany.]]></title>
+		<caption><![CDATA[July 23, 2013, 20:12. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 21 mm, 1/100 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_Group_1_-_MG_6040__MG_6045-5_images.jpg" thumbURL="thumbs/_Group_1_-_MG_6040__MG_6045-5_images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Vierwaldstätter See, Switzerland.]]></title>
+		<caption><![CDATA[November 11, 2011, 15:03. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/_MG_4411.jpg" thumbURL="thumbs/_MG_4411.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[View from Wallberg, Germany.]]></title>
+		<caption><![CDATA[January 14, 2011, 14:51. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 53 mm, 1/1250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/pano-22.jpg" thumbURL="thumbs/pano-22.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[View from Vorderunnütz, Austria.]]></title>
+		<caption><![CDATA[October 20, 2010, 22:52. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/pano-23.jpg" thumbURL="thumbs/pano-23.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Sunrise and clouds over Achensee, Austria.]]></title>
+		<caption><![CDATA[October 20, 2010, 22:52. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/pano-27.jpg" thumbURL="thumbs/pano-27.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Seebergspitze, Austria.]]></title>
+		<caption><![CDATA[October 20, 2010, 22:52. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/pano-29.jpg" thumbURL="thumbs/pano-29.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Achensee at sunrise, Austria.]]></title>
+		<caption><![CDATA[October 20, 2010, 22:52. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/pano-66.jpg" thumbURL="thumbs/pano-66.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hochkalter from Watzmann-Gugl, Germany.]]></title>
+		<caption><![CDATA[October 20, 2010, 22:54. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/_MG_4394.jpg" thumbURL="thumbs/_MG_4394.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kircherl at Wallberg, Germany.]]></title>
+		<caption><![CDATA[January 14, 2011, 14:24. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 73 mm, 1/1600 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img_9430.jpg" thumbURL="thumbs/img_9430.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[near Braunschweiger Hütte, Austria.]]></title>
+		<caption><![CDATA[July 07, 2006, 06:33. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 120 mm, 0.8 sec at f / 9.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_1542.jpg" thumbURL="thumbs/_mg_1542.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Benediktenwand, Germany.]]></title>
+		<caption><![CDATA[January 23, 2007, 17:38. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 20 mm, 30.0 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_1621.jpg" thumbURL="thumbs/_mg_1621.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Benediktenwand, Germany.]]></title>
+		<caption><![CDATA[January 25, 2007, 09:53. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 15 mm, 1/125 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_1676.jpg" thumbURL="thumbs/_mg_1676.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Benediktenwand, Germany.]]></title>
+		<caption><![CDATA[January 25, 2007, 13:24. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 22 mm, 1/500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0266.jpg" thumbURL="thumbs/_MG_0266.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[View from Herzogstand, Germany.]]></title>
+		<caption><![CDATA[May 11, 2008, 22:29. Canon EOS 40D, EF50mm f/1.8 II at 50 mm, 30.0 sec at f / 2.2, ISO 500.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0294.jpg" thumbURL="thumbs/_MG_0294.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[View from Herzogstand, Germany.]]></title>
+		<caption><![CDATA[May 12, 2008, 05:31. Canon EOS 40D, 90mm at 90 mm, 1/13 sec at f / 5.6, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0324.jpg" thumbURL="thumbs/_MG_0324.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[View from Herzogstand, Germany.]]></title>
+		<caption><![CDATA[May 12, 2008, 05:52. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 22 mm, 1/30 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0869.jpg" thumbURL="thumbs/_MG_0869.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Blätterbachschlucht, South Tirol, Italy.]]></title>
+		<caption><![CDATA[May 23, 2008, 15:20. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 59 mm, 1/320 sec at f / 8.0, ISO 160.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1725.jpg" thumbURL="thumbs/_MG_1725.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Höllenklamm, Zugspitze, Germany.]]></title>
+		<caption><![CDATA[August 05, 2008, 19:43. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 0.8 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1745.jpg" thumbURL="thumbs/_MG_1745.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[seen from Höllenklamm, Zugspitze.]]></title>
+		<caption><![CDATA[August 05, 2008, 21:25. Canon EOS 40D, 90mm at 90 mm, 30.0 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1857.jpg" thumbURL="thumbs/_MG_1857.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Zugspitze, Germany.]]></title>
+		<caption><![CDATA[August 06, 2008, 19:33. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 56 mm, 1/200 sec at f / 8.0, ISO 160.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1930.jpg" thumbURL="thumbs/_MG_1930.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Zugspitze, Germany.]]></title>
+		<caption><![CDATA[August 06, 2008, 20:51. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 22 mm, 1/5 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1944.jpg" thumbURL="thumbs/_MG_1944.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Zugspitze, Germany.]]></title>
+		<caption><![CDATA[August 06, 2008, 21:17. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 47 mm, 8.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1976.jpg" thumbURL="thumbs/_MG_1976.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Höllenklamm, Zugspitze, Germany.]]></title>
+		<caption><![CDATA[August 07, 2008, 06:35. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 24 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2007.jpg" thumbURL="thumbs/_MG_2007.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Partnachklamm, Zugspitze, Germany.]]></title>
+		<caption><![CDATA[August 07, 2008, 17:39. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 47 mm, 1/30 sec at f / 5.6, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/pano-1.jpg" thumbURL="thumbs/pano-1.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hochiss, Germany.]]></title>
+		<caption><![CDATA[September 02, 2008, 19:54. Canon EOS 40D,  at 35 mm, 1/30 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2522-Edit_filtered2.jpg" thumbURL="thumbs/_MG_2522-Edit_filtered2.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Gschöllkopf, Germany.]]></title>
+		<caption><![CDATA[September 02, 2008, 23:23. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 20 mm, 30.0 sec at f / 4.0, ISO 3200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9044.jpg" thumbURL="thumbs/_MG_9044.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Breitenstein, Germany.]]></title>
+		<caption><![CDATA[November 23, 2008, 14:06. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 21 mm, 1/800 sec at f / 22, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0259.jpg" thumbURL="thumbs/_MG_0259.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ettaler Mandl, Germany.]]></title>
+		<caption><![CDATA[December 27, 2008, 12:31. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 50 mm, 1/4000 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0295.jpg" thumbURL="thumbs/_MG_0295.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ettaler Mandl, Germany.]]></title>
+		<caption><![CDATA[December 27, 2008, 13:49. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/1000 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0649.jpg" thumbURL="thumbs/_MG_0649.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Vorderunnütz, Austria.]]></title>
+		<caption><![CDATA[January 03, 2009, 11:41. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 35 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0691.jpg" thumbURL="thumbs/_MG_0691.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Achensee at night, Austria.]]></title>
+		<caption><![CDATA[January 03, 2009, 20:20. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 26 mm, 81.0 sec at f / 4.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3452_3.jpg" thumbURL="thumbs/_MG_3452_3.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hochkalter from Watzmann-Gugl, Germany.]]></title>
+		<caption><![CDATA[March 31, 2009, 18:51. Canon EOS 1000D,  at 61 mm, f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/Pano_0.jpg" thumbURL="thumbs/Pano_0.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[View from Zugspitze, Germany.]]></title>
+		<caption><![CDATA[October 20, 2010, 22:50. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/_MG_0295_1.jpg" thumbURL="thumbs/_MG_0295_1.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[View from Herzogstand, Germany.]]></title>
+		<caption><![CDATA[May 12, 2008, 05:31. Canon EOS 40D, 90mm at 90 mm, 1/13 sec at f / 5.6, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8180.jpg" thumbURL="thumbs/_MG_8180.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Switzerland.]]></title>
+		<caption><![CDATA[June 21, 2010, 22:44. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 20 mm, 30.0 sec at f / 4.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0608.jpg" thumbURL="thumbs/_MG_0608.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Seekarkreuz, Germany.]]></title>
+		<caption><![CDATA[September 29, 2010, 18:17. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 53 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0635_6_7.jpg" thumbURL="thumbs/_MG_0635_6_7.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Isartal, Germany.]]></title>
+		<caption><![CDATA[September 29, 2010, 18:25. Canon EOS 1000D,  at 17 mm, f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2495.jpg" thumbURL="thumbs/_MG_2495.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Notkarspitze, Germany.]]></title>
+		<caption><![CDATA[December 08, 2011, 12:08. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>

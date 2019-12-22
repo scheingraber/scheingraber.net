@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_6406.jpg" thumbURL="thumbs/_MG_6406.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Semuc Champey, Guatemala.]]></title>
+		<caption><![CDATA[June 22, 2015, 17:42. Canon EOS 600D,  at 50 mm, 1/640 sec, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6141.jpg" thumbURL="thumbs/_MG_6141.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tikal, Guatemala.]]></title>
+		<caption><![CDATA[June 21, 2015, 06:13. Canon EOS 600D,  at 50 mm, 1/250 sec, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4213.jpg" thumbURL="thumbs/_MG_4213.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tortuguero National Park, Costa Rica.]]></title>
+		<caption><![CDATA[May 20, 2015, 10:26. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 50 mm, 1/320 sec at f / 8.0, ISO 3200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4097.jpg" thumbURL="thumbs/_MG_4097.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hummingbirds, Valle del Cocora, Colombia.]]></title>
+		<caption><![CDATA[November 30, 2018, 11:42. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/3200 sec at f / 3.5, ISO 3200.]]></caption>
+	</image>
+	<image imageURL="images/20120403-_MG_0308.jpg" thumbURL="thumbs/20120403-_MG_0308.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kea, Routeburn, New Zealand.]]></title>
+		<caption><![CDATA[April 03, 2012, 08:46. Canon EOS 600D, 55-200mm at 200 mm, 1/500 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120403-_MG_0285.jpg" thumbURL="thumbs/20120403-_MG_0285.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kea, Routeburn, New Zealand.]]></title>
+		<caption><![CDATA[April 03, 2012, 08:32. Canon EOS 600D, 55-200mm at 200 mm, 1/400 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20130323-_MG_5597.jpg" thumbURL="thumbs/20130323-_MG_5597.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Koh Tao, Thailand.]]></title>
+		<caption><![CDATA[March 23, 2013, 18:09. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 123 mm, 1/640 sec at f / 5.6, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20130323-_MG_5529.jpg" thumbURL="thumbs/20130323-_MG_5529.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Koh Tao, Thailand.]]></title>
+		<caption><![CDATA[March 23, 2013, 11:44. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/500 sec at f / 6.3, ISO 3200.]]></caption>
+	</image>
+	<image imageURL="images/20140303-_MG_1402.jpg" thumbURL="thumbs/20140303-_MG_1402.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cat, Viñales, Cuba.]]></title>
+		<caption><![CDATA[March 03, 2014, 14:34. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/80 sec at f / 7.1, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9329.jpg" thumbURL="thumbs/_MG_9329.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fireflies, Englischer Garten, Munich.]]></title>
+		<caption><![CDATA[June 21, 2011, 22:15. Canon EOS 1000D, 90mm at 90 mm, 30.0 sec at f / 2.8, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2659.jpg" thumbURL="thumbs/_MG_2659.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Duck, Gamlehaugen, Norway.]]></title>
+		<caption><![CDATA[December 13, 2009, 14:48. Canon EOS 1000D, EF50mm f/1.8 II at 50 mm, 1/80 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0553.jpg" thumbURL="thumbs/_MG_0553.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Frogger, Unneland, Norway.]]></title>
+		<caption><![CDATA[October 16, 2009, 14:39. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/100 sec at f / 5.6, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140118-_MG_9081.jpg" thumbURL="thumbs/20140118-_MG_9081.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Dog, Lanzarote.]]></title>
+		<caption><![CDATA[January 18, 2014, 12:10. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/400 sec at f / 5.6, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5145.jpg" thumbURL="thumbs/_MG_5145.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Squirrel, Germany.]]></title>
+		<caption><![CDATA[March 25, 2008, 09:48. Canon EOS 40D, EF75-300mm f/4-5.6 at 300 mm, 1/500 sec at f / 5.6, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6395.jpg" thumbURL="thumbs/_MG_6395.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Koala, Yanchep National Park, Australia.]]></title>
+		<caption><![CDATA[August 17, 2007, 16:39. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 300 mm, 1/160 sec at f / 5.6, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6367.jpg" thumbURL="thumbs/_MG_6367.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[in Nambung NP, WA, Australia.]]></title>
+		<caption><![CDATA[August 17, 2007, 07:46. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 230 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6248.jpg" thumbURL="thumbs/_MG_6248.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Pelicans, Monkey Mia, Shark Bay, WA, Australia.]]></title>
+		<caption><![CDATA[August 15, 2007, 07:25. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 130 mm, 1/500 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5447.jpg" thumbURL="thumbs/_MG_5447.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Crocodile, Lake Argyle, WA, Australia.]]></title>
+		<caption><![CDATA[July 28, 2007, 18:54. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 130 mm, 0.5 sec at f / 5.6, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5125.jpg" thumbURL="thumbs/_MG_5125.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Pelican, NT, Australia.]]></title>
+		<caption><![CDATA[July 25, 2007, 10:58. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 300 mm, 1/800 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4110.jpg" thumbURL="thumbs/_MG_4110.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fish Head, Venezuela.]]></title>
+		<caption><![CDATA[January 28, 2010, 19:26. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4812.jpg" thumbURL="thumbs/_MG_4812.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hot Springs Mataranka, NT, Australia.]]></title>
+		<caption><![CDATA[July 20, 2007, 20:23. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 120 mm, 2.0 sec at f / 4.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3733.jpg" thumbURL="thumbs/_MG_3733.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Snake, Daintree, QL, Australia.]]></title>
+		<caption><![CDATA[July 13, 2007, 10:12. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 300 mm, 1/400 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3338.jpg" thumbURL="thumbs/_MG_3338.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Townsville Aquarium, QL, Australia.]]></title>
+		<caption><![CDATA[July 08, 2007, 13:31. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 75 mm, 1/60 sec at f / 4.0, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2604.jpg" thumbURL="thumbs/_MG_2604.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Pelicans, NT, Australia.]]></title>
+		<caption><![CDATA[July 02, 2007, 06:52. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 300 mm, 1/320 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/img-9813.jpg" thumbURL="thumbs/img-9813.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tsavo NP, Kenya.]]></title>
+		<caption><![CDATA[May 01, 2007, 10:29. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 240 mm, 1/200 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-9338.jpg" thumbURL="thumbs/img-9338.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tsavo NP, Kenya.]]></title>
+		<caption><![CDATA[April 30, 2007, 08:51. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 155 mm, 1/125 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-9287.jpg" thumbURL="thumbs/img-9287.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tsavo NP, Kenya.]]></title>
+		<caption><![CDATA[April 30, 2007, 06:45. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 300 mm, 1/320 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-9281.jpg" thumbURL="thumbs/img-9281.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tsavo NP, Kenya.]]></title>
+		<caption><![CDATA[April 30, 2007, 06:41. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 300 mm, 1/125 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-8895.jpg" thumbURL="thumbs/img-8895.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tsavo NP, Kenya.]]></title>
+		<caption><![CDATA[April 29, 2007, 12:31. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 300 mm, 1/250 sec at f / 5.6, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-8884.jpg" thumbURL="thumbs/img-8884.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tsavo NP, Kenya.]]></title>
+		<caption><![CDATA[April 29, 2007, 12:29. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 200 mm, 1/250 sec at f / 5.6, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-8721.jpg" thumbURL="thumbs/img-8721.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tsavo NP, Kenya.]]></title>
+		<caption><![CDATA[April 29, 2007, 09:58. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 240 mm, 1/1600 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/img_3393.jpg" thumbURL="thumbs/img_3393.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mauritius.]]></title>
+		<caption><![CDATA[August 27, 2006, 11:52. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 300 mm, 1/250 sec at f / 5.6, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/img_0900.jpg" thumbURL="thumbs/img_0900.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Spitzbergen, Norway.]]></title>
+		<caption><![CDATA[July 24, 2006, 09:47. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 300 mm, 1/1000 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/img_0458.jpg" thumbURL="thumbs/img_0458.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Seagull, Norway.]]></title>
+		<caption><![CDATA[July 20, 2006, 18:34. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 180 mm, 1/80 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/harte_gans.jpg" thumbURL="thumbs/harte_gans.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Goose, Ammersee, Germany.]]></title>
+		<caption><![CDATA[October 20, 2010, 22:00. ,  at , , .]]></caption>
+	</image>
+
+</juiceboxgallery>

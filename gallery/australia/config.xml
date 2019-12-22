@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/mel_pano.jpg" thumbURL="thumbs/mel_pano.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Melbourne, Vic, Australia]]></title>
+		<caption><![CDATA[May 15, 2012, 14:58. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/HDR_0006_2.jpg" thumbURL="thumbs/HDR_0006_2.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Melbourne, Vic, Australia]]></title>
+		<caption><![CDATA[April 28, 2012, 14:55. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/20120419-_MG_0476.jpg" thumbURL="thumbs/20120419-_MG_0476.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Australia]]></title>
+		<caption><![CDATA[April 19, 2012, 19:52. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 49 mm, 1/320 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0013_2.jpg" thumbURL="thumbs/_MG_0013_2.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Melbourne, Vic, Australia]]></title>
+		<caption><![CDATA[March 04, 2012, 20:28. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 11 mm, 2.0 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0012.jpg" thumbURL="thumbs/_MG_0012.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Melbourne, Vic, Australia]]></title>
+		<caption><![CDATA[March 04, 2012, 20:15. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 29 mm, 1.3 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0026.jpg" thumbURL="thumbs/_MG_0026.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Melbourne, Vic, Australia]]></title>
+		<caption><![CDATA[March 04, 2012, 16:30. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 0.8 sec at f / 5.0, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0019.jpg" thumbURL="thumbs/_MG_0019.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Melbourne, Vic, Australia]]></title>
+		<caption><![CDATA[March 04, 2012, 16:08. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/5 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0013.jpg" thumbURL="thumbs/_MG_0013.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Melbourne, Vic, Australia]]></title>
+		<caption><![CDATA[March 04, 2012, 15:33. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 0.4 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0007.jpg" thumbURL="thumbs/_MG_0007.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Melbourne, Vic, Australia]]></title>
+		<caption><![CDATA[March 04, 2012, 15:08. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 23 mm, 10.0 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1920.jpg" thumbURL="thumbs/_MG_1920.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Melbourne, Vic, Australia]]></title>
+		<caption><![CDATA[March 04, 2012, 14:20. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 24 mm, 1.6 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1913.jpg" thumbURL="thumbs/_MG_1913.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Melbourne, Vic, Australia]]></title>
+		<caption><![CDATA[March 04, 2012, 13:56. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1.6 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/Pano_Olgas.jpg" thumbURL="thumbs/Pano_Olgas.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Olgas, NT, Australia]]></title>
+		<caption><![CDATA[October 20, 2010, 22:45. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/_MG_6973.jpg" thumbURL="thumbs/_MG_6973.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Harbour Bridge, Sydney, NSW, Australia]]></title>
+		<caption><![CDATA[September 05, 2007, 16:15. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 17 mm, 30.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6969.jpg" thumbURL="thumbs/_MG_6969.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Opera House, Sydney, NSW, Australia]]></title>
+		<caption><![CDATA[September 05, 2007, 16:09. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 125 mm, 20.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6909.jpg" thumbURL="thumbs/_MG_6909.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Sydney, NSW, Australia]]></title>
+		<caption><![CDATA[September 04, 2007, 15:56. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 0.4 sec at f / 3.5, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6639.jpg" thumbURL="thumbs/_MG_6639.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Valley of The Giants, WA, Australia]]></title>
+		<caption><![CDATA[August 21, 2007, 08:29. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 67 mm, 1/20 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6550.jpg" thumbURL="thumbs/_MG_6550.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Perth Skyline, WA, Australia]]></title>
+		<caption><![CDATA[August 19, 2007, 02:48. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 22 mm, 10.0 sec at f / 4.5, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6542.jpg" thumbURL="thumbs/_MG_6542.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Perth, WA, Australia]]></title>
+		<caption><![CDATA[August 18, 2007, 21:06. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 12 mm, 3.2 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6400.jpg" thumbURL="thumbs/_MG_6400.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Koala, Yanchep NP, WA, Australia]]></title>
+		<caption><![CDATA[August 17, 2007, 16:43. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 75 mm, 1/200 sec at f / 4.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6367.jpg" thumbURL="thumbs/_MG_6367.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[in Nambung NP, WA, Australia]]></title>
+		<caption><![CDATA[August 17, 2007, 07:46. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 230 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6335.jpg" thumbURL="thumbs/_MG_6335.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Pinnacles, Nambung NP, WA, Australia]]></title>
+		<caption><![CDATA[August 17, 2007, 06:47. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 130 mm, 1/10 sec at f / 9.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6330.jpg" thumbURL="thumbs/_MG_6330.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Pinnacles, Nambung NP, WA, Australia]]></title>
+		<caption><![CDATA[August 17, 2007, 06:29. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 22 mm, 3.2 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6329.jpg" thumbURL="thumbs/_MG_6329.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Pinnacles and star trails, Nambung NP, WA, Australia]]></title>
+		<caption><![CDATA[August 16, 2007, 22:48. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 2592.0 sec at f / 3.5, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6313.jpg" thumbURL="thumbs/_MG_6313.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Nature's Window, Kalbarri NP, WA, Australia]]></title>
+		<caption><![CDATA[August 16, 2007, 09:02. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/125 sec at f / 9.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6248.jpg" thumbURL="thumbs/_MG_6248.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Pelicans, Monkey Mia, Shark Bay, WA, Australia]]></title>
+		<caption><![CDATA[August 15, 2007, 07:25. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 130 mm, 1/500 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6193.jpg" thumbURL="thumbs/_MG_6193.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lighthouse, WA, Australia]]></title>
+		<caption><![CDATA[August 13, 2007, 07:01. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 100 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6085.jpg" thumbURL="thumbs/_MG_6085.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Weano Gorge, Hamersley Range NP, WA, Australia]]></title>
+		<caption><![CDATA[August 10, 2007, 16:00. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 16 mm, 1/8 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6016.jpg" thumbURL="thumbs/_MG_6016.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mt Bruce, WA, Australia]]></title>
+		<caption><![CDATA[August 10, 2007, 06:45. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 250 mm, 1/50 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5951.jpg" thumbURL="thumbs/_MG_5951.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Broome Airport, WA, Australia]]></title>
+		<caption><![CDATA[August 08, 2007, 06:33. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 170 mm, 1/400 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5768.jpg" thumbURL="thumbs/_MG_5768.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Sunrise, Broome, WA, Australia]]></title>
+		<caption><![CDATA[August 02, 2007, 06:19. Canon EOS 400D DIGITAL, EF50mm f/1.8 at 50 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5685.jpg" thumbURL="thumbs/_MG_5685.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cliffs, Broome, WA, Australia]]></title>
+		<caption><![CDATA[August 01, 2007, 00:32. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 124.0 sec at f / 3.5, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5597.jpg" thumbURL="thumbs/_MG_5597.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[WA, Australia]]></title>
+		<caption><![CDATA[July 29, 2007, 17:20. Canon EOS 400D DIGITAL, EF50mm f/1.8 at 50 mm, 1/13 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5447.jpg" thumbURL="thumbs/_MG_5447.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Crocodile, Lake Argyle, WA, Australia]]></title>
+		<caption><![CDATA[July 28, 2007, 18:54. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 130 mm, 0.5 sec at f / 5.6, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5389.jpg" thumbURL="thumbs/_MG_5389.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Highway, NT, Australia]]></title>
+		<caption><![CDATA[July 28, 2007, 08:25. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 255 mm, 1/100 sec at f / 9.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5372.jpg" thumbURL="thumbs/_MG_5372.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Highway, NT, Australia]]></title>
+		<caption><![CDATA[July 28, 2007, 07:46. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 77 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5223.jpg" thumbURL="thumbs/_MG_5223.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Nourlangie Rock, Kakadu NP, NT, Australia]]></title>
+		<caption><![CDATA[July 25, 2007, 18:39. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 14 mm, 3.2 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5107.jpg" thumbURL="thumbs/_MG_5107.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fire, NT, Australia]]></title>
+		<caption><![CDATA[July 24, 2007, 19:45. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 44 mm, 5.0 sec at f / 5.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4924.jpg" thumbURL="thumbs/_MG_4924.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Florence Falls, Litchfield NP, NT, Australia]]></title>
+		<caption><![CDATA[July 21, 2007, 18:11. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 58 mm, 1/5 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4740.jpg" thumbURL="thumbs/_MG_4740.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Devil's Marbles, NT, Australia]]></title>
+		<caption><![CDATA[July 20, 2007, 06:59. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 77 mm, 1/25 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4654.jpg" thumbURL="thumbs/_MG_4654.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ayers Rock, NT, Australia]]></title>
+		<caption><![CDATA[July 18, 2007, 20:09. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 18 mm, 2765.0 sec at f / 3.5, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4644.jpg" thumbURL="thumbs/_MG_4644.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Olgas, NT, Australia]]></title>
+		<caption><![CDATA[July 18, 2007, 19:07. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 21 mm, 30.0 sec at f / 3.5, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4402.jpg" thumbURL="thumbs/_MG_4402.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ayers Rock, NT, Australia]]></title>
+		<caption><![CDATA[July 18, 2007, 07:31. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/20 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4290.jpg" thumbURL="thumbs/_MG_4290.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ayers Rock, NT, Australia]]></title>
+		<caption><![CDATA[July 17, 2007, 17:47. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4143.jpg" thumbURL="thumbs/_MG_4143.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Abandoned Car, NT, Australia]]></title>
+		<caption><![CDATA[July 16, 2007, 14:14. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4085.jpg" thumbURL="thumbs/_MG_4085.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Highway, QL, Australia]]></title>
+		<caption><![CDATA[July 15, 2007, 17:28. Canon EOS 400D DIGITAL, EF50mm f/1.8 at 50 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4021.jpg" thumbURL="thumbs/_MG_4021.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Termite mounds, QL, Australia]]></title>
+		<caption><![CDATA[July 15, 2007, 11:47. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 75 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3985.jpg" thumbURL="thumbs/_MG_3985.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fire, QL, Australia]]></title>
+		<caption><![CDATA[July 14, 2007, 20:34. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 18 mm, 15.0 sec at f / 3.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3733.jpg" thumbURL="thumbs/_MG_3733.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Snake, Daintree, QL, Australia]]></title>
+		<caption><![CDATA[July 13, 2007, 10:12. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 300 mm, 1/400 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3563.jpg" thumbURL="thumbs/_MG_3563.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mangroves, Cairns, QL, Australia]]></title>
+		<caption><![CDATA[July 10, 2007, 18:03. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 30.0 sec at f / 7.1, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3407.jpg" thumbURL="thumbs/_MG_3407.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Wallomen Falls, QL, Australia]]></title>
+		<caption><![CDATA[July 09, 2007, 08:19. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 21 mm, 1/8 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3253.jpg" thumbURL="thumbs/_MG_3253.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Magnetic Island, QL, Australia]]></title>
+		<caption><![CDATA[July 07, 2007, 08:40. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 14 mm, 1/125 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3205.jpg" thumbURL="thumbs/_MG_3205.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Sundown near Townsville, QL, Australia]]></title>
+		<caption><![CDATA[July 06, 2007, 18:25. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 300 mm, 5.0 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3195.jpg" thumbURL="thumbs/_MG_3195.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Townsville, QL, Australia]]></title>
+		<caption><![CDATA[July 06, 2007, 18:12. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 75 mm, 1.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2997.jpg" thumbURL="thumbs/_MG_2997.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cedar Creek Falls, QL, Australia]]></title>
+		<caption><![CDATA[July 05, 2007, 09:02. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 0.3 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2768.jpg" thumbURL="thumbs/_MG_2768.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Whitsundays, QL, Australia]]></title>
+		<caption><![CDATA[July 03, 2007, 17:52. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 87 mm, 1/13 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2686.jpg" thumbURL="thumbs/_MG_2686.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Airlie Beach, QL, Australia]]></title>
+		<caption><![CDATA[July 02, 2007, 17:57. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 44 mm, 0.5 sec at f / 7.1, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2304.jpg" thumbURL="thumbs/_MG_2304.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lake McKenzie, QL, Australia]]></title>
+		<caption><![CDATA[June 29, 2007, 17:21. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 38 mm, 0.8 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2162.jpg" thumbURL="thumbs/_MG_2162.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Noosa Heads, QL, Australia]]></title>
+		<caption><![CDATA[June 28, 2007, 15:56. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 34 mm, 1/200 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2128.jpg" thumbURL="thumbs/_MG_2128.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Brisbane, QL, Australia]]></title>
+		<caption><![CDATA[June 27, 2007, 20:46. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 16 mm, 20.0 sec at f / 7.1, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2111.jpg" thumbURL="thumbs/_MG_2111.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[St. Stephen Cathedral, Brisbane, QL, Australia]]></title>
+		<caption><![CDATA[June 27, 2007, 19:59. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 10.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2081.jpg" thumbURL="thumbs/_MG_2081.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Window Reflection, Surfers Paradise, QL, Australia]]></title>
+		<caption><![CDATA[June 27, 2007, 14:47. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 125 mm, 1/320 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1894.jpg" thumbURL="thumbs/_MG_1894.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lighthouse, Byron Bay, NSW, Australia]]></title>
+		<caption><![CDATA[June 24, 2007, 17:34. Canon EOS 400D DIGITAL, EF50mm f/1.8 at 50 mm, 0.4 sec at f / 1.8, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1758.jpg" thumbURL="thumbs/_MG_1758.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[My friend Andi, Yamba, NSW, Australia]]></title>
+		<caption><![CDATA[June 24, 2007, 06:46. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 51 mm, 1/13 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1686.jpg" thumbURL="thumbs/_MG_1686.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Coffs Harbour Shore, NSW, Australia]]></title>
+		<caption><![CDATA[June 23, 2007, 17:20. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 150 mm, 30.0 sec at f / 5.6, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1679.jpg" thumbURL="thumbs/_MG_1679.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Coffs Harbour Shore, NSW, Australia]]></title>
+		<caption><![CDATA[June 23, 2007, 17:07. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 16 mm, 15.0 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1628.jpg" thumbURL="thumbs/_MG_1628.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Pelican, Nambucca Heads, NSW, Australia]]></title>
+		<caption><![CDATA[June 23, 2007, 13:26. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 135 mm, 1/1000 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1296.jpg" thumbURL="thumbs/_MG_1296.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Crowdy Bay NP, NSW, Australia]]></title>
+		<caption><![CDATA[June 22, 2007, 10:05. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 75 mm, 1/125 sec at f / 4.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1224.jpg" thumbURL="thumbs/_MG_1224.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tanker aground due to storm, Newcastle, NSW, Australia]]></title>
+		<caption><![CDATA[June 21, 2007, 23:34. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 58 mm, 10.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1208.jpg" thumbURL="thumbs/_MG_1208.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Window Reflection, Newcastle, NSW, Australia]]></title>
+		<caption><![CDATA[June 21, 2007, 23:00. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 109 mm, 10.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>
