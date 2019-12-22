@@ -1,0 +1,58 @@
+html, body {
+    height: 100%;
+    margin: 0px;
+}
+
+#wrapper:before {
+    content: '';
+    float: left;
+    height: 100%;
+}
+
+#wrapper {
+    height: 100%;
+    background-color: rgb(41, 41, 41);
+    color: white;
+}
+
+#header {
+    background-color: rgb(41, 41, 41);
+}
+
+#content {
+    background-color: rgb(41, 41, 41);
+    white-space: nowrap;
+}
+
+#content:after {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+#footer {
+    background-color: rgb(41, 41, 41);
+    text-align: center;
+    white-space: nowrap;
+}
+
+
+/* orientation specific */
+
+@media screen and (orientation: portrait) {
+    .disp-land {
+        display: none;
+    }
+    .disp-portrait {
+        display: inline-block;
+    }
+}
+
+@media screen and (orientation: landscape) {
+    .disp-land {
+        display: inline-block;
+    }
+    .disp-portrait {
+        display: none;
+    }
+}
