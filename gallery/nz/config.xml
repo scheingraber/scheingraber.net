@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/20120306-_MG_0114.jpg" thumbURL="thumbs/20120306-_MG_0114.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Auckland, New Zealand]]></title>
+		<caption><![CDATA[March 06, 2012, 06:11. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 42 mm, 0.5 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120306-_MG_3424.jpg" thumbURL="thumbs/20120306-_MG_3424.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Auckland, New Zealand]]></title>
+		<caption><![CDATA[March 06, 2012, 20:24. Canon EOS 1000D, EF-S18-55mm f/3.5-5.6 IS II at 24 mm, 1/10 sec at f / 4.0, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20120307-_MG_3429.jpg" thumbURL="thumbs/20120307-_MG_3429.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Auckland, New Zealand]]></title>
+		<caption><![CDATA[March 07, 2012, 11:11. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 17 mm, 1/30 sec at f / 4.0, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20120308-_MG_0098.jpg" thumbURL="thumbs/20120308-_MG_0098.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Waitomo Caves, New Zealand]]></title>
+		<caption><![CDATA[March 08, 2012, 12:07. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1.3 sec at f / 3.5, ISO 12800.]]></caption>
+	</image>
+	<image imageURL="images/20120308-_MG_0125.jpg" thumbURL="thumbs/20120308-_MG_0125.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Waitomo Caves, New Zealand]]></title>
+		<caption><![CDATA[March 08, 2012, 12:36. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 13.0 sec at f / 3.5, ISO 12800.]]></caption>
+	</image>
+	<image imageURL="images/20120308-_MG_0131.jpg" thumbURL="thumbs/20120308-_MG_0131.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Waitomo Caves, New Zealand]]></title>
+		<caption><![CDATA[March 08, 2012, 13:14. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1/160 sec at f / 3.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20120308-_MG_0135.jpg" thumbURL="thumbs/20120308-_MG_0135.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Waitomo Caves, New Zealand]]></title>
+		<caption><![CDATA[March 08, 2012, 13:16. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 36 mm, 1/60 sec at f / 4.5, ISO 6400.]]></caption>
+	</image>
+	<image imageURL="images/20120309-_MG_0016.jpg" thumbURL="thumbs/20120309-_MG_0016.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[New Zealand]]></title>
+		<caption><![CDATA[March 09, 2012, 10:18. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 21 mm, 1/60 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120309-_MG_0462.jpg" thumbURL="thumbs/20120309-_MG_0462.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Rotorua, New Zealand]]></title>
+		<caption><![CDATA[March 09, 2012, 21:07. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 25 mm, 4.0 sec at f / 4.0, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20120309-_MG_0789.jpg" thumbURL="thumbs/20120309-_MG_0789.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Rotorua, New Zealand]]></title>
+		<caption><![CDATA[March 09, 2012, 21:57. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 37 mm, 4.0 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120310-_MG_0042.jpg" thumbURL="thumbs/20120310-_MG_0042.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Rotorua, New Zealand]]></title>
+		<caption><![CDATA[March 10, 2012, 12:47. Canon EOS 600D, 55-200mm at 200 mm, 1/640 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120311-IMG_0004.jpg" thumbURL="thumbs/20120311-IMG_0004.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Rotorua, New Zealand]]></title>
+		<caption><![CDATA[March 11, 2012, 05:31. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 35 mm, 6.0 sec at f / 4.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20120311-_MG_0049.jpg" thumbURL="thumbs/20120311-_MG_0049.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Taupo, New Zealand]]></title>
+		<caption><![CDATA[March 11, 2012, 18:12. Canon EOS 600D, 11-16mm at 12 mm, 1/40 sec at f / 5.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20120313-_MG_0128.jpg" thumbURL="thumbs/20120313-_MG_0128.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 13, 2012, 18:53. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 49 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120314-_MG_3420.jpg" thumbURL="thumbs/20120314-_MG_3420.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 14, 2012, 07:26. Canon EOS 1000D, EF-S18-55mm f/3.5-5.6 IS II at 33 mm, 1/125 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120314-_MG_3440.jpg" thumbURL="thumbs/20120314-_MG_3440.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 14, 2012, 07:36. Canon EOS 1000D, 55-200mm at 59 mm, 1/100 sec at f / 7.1, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20120315-_MG_3698.jpg" thumbURL="thumbs/20120315-_MG_3698.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 15, 2012, 07:21. Canon EOS 1000D, 55-200mm at 59 mm, 1/320 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20120315-IMG_0006.jpg" thumbURL="thumbs/20120315-IMG_0006.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 15, 2012, 07:32. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/640 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120315-_MG_3707.jpg" thumbURL="thumbs/20120315-_MG_3707.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 15, 2012, 07:38. Canon EOS 1000D, 55-200mm at 86 mm, 1/800 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120315-_MG_0083.jpg" thumbURL="thumbs/20120315-_MG_0083.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 15, 2012, 19:41. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/125 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20120316-_MG_0121.jpg" thumbURL="thumbs/20120316-_MG_0121.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 16, 2012, 07:20. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 49 mm, 1/25 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120316-_MG_0127.jpg" thumbURL="thumbs/20120316-_MG_0127.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 16, 2012, 07:25. Canon EOS 600D, 55-200mm at 112 mm, 1/80 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120316-_MG_3880.jpg" thumbURL="thumbs/20120316-_MG_3880.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 16, 2012, 19:09. Canon EOS 600D, 55-200mm at 200 mm, 1/60 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120317-_MG_3896.jpg" thumbURL="thumbs/20120317-_MG_3896.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 17, 2012, 08:00. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 41 mm, 1/60 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120317-_MG_3982.jpg" thumbURL="thumbs/20120317-_MG_3982.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 17, 2012, 11:20. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 12 mm, 1/50 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20120317-_MG_3990.jpg" thumbURL="thumbs/20120317-_MG_3990.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 17, 2012, 11:46. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/50 sec at f / 5.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120317-_MG_4052.jpg" thumbURL="thumbs/20120317-_MG_4052.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 17, 2012, 15:26. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 22 mm, 1/4 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120318-_MG_0077.jpg" thumbURL="thumbs/20120318-_MG_0077.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[March 18, 2012, 18:33. Canon EOS 600D, 55-200mm at 55 mm, 1/250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120320-_MG_0154.jpg" thumbURL="thumbs/20120320-_MG_0154.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Welliington, New Zealand]]></title>
+		<caption><![CDATA[March 20, 2012, 13:12. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/640 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120323-_MG_0049.jpg" thumbURL="thumbs/20120323-_MG_0049.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Welliington, New Zealand]]></title>
+		<caption><![CDATA[March 23, 2012, 08:41. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/500 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120325-_MG_0028.jpg" thumbURL="thumbs/20120325-_MG_0028.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Heaphy Track, New Zealand]]></title>
+		<caption><![CDATA[March 25, 2012, 07:54. Canon EOS 600D, 55-200mm at 200 mm, 1/60 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120325-_MG_0024.jpg" thumbURL="thumbs/20120325-_MG_0024.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Heaphy Track, New Zealand]]></title>
+		<caption><![CDATA[March 25, 2012, 12:45. Canon EOS 600D, 55-200mm at 161 mm, 1/60 sec at f / 7.1, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20120326-_MG_0267.jpg" thumbURL="thumbs/20120326-_MG_0267.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Heaphy Track, New Zealand]]></title>
+		<caption><![CDATA[March 26, 2012, 14:14. Canon EOS 600D,  at 50 mm, 1/160 sec, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20120327-_MG_0070.jpg" thumbURL="thumbs/20120327-_MG_0070.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Heaphy Track, New Zealand]]></title>
+		<caption><![CDATA[March 27, 2012, 08:10. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/60 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20120327-_MG_3434.jpg" thumbURL="thumbs/20120327-_MG_3434.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Heaphy Track, New Zealand]]></title>
+		<caption><![CDATA[March 27, 2012, 18:50. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/320 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120330-_MG_0026.jpg" thumbURL="thumbs/20120330-_MG_0026.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fox Glacier, New Zealand]]></title>
+		<caption><![CDATA[March 30, 2012, 18:19. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 1/15 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120330-_MG_0053.jpg" thumbURL="thumbs/20120330-_MG_0053.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fox Glacier, New Zealand]]></title>
+		<caption><![CDATA[March 30, 2012, 19:57. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 43 mm, 4.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120803-_Group-1_-20120331-_MG_3515_20120331-_MG_3520-6-images.jpg" thumbURL="thumbs/20120803-_Group-1_-20120331-_MG_3515_20120331-_MG_3520-6-images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fox Glacier, New Zealand]]></title>
+		<caption><![CDATA[August 03, 2012, 15:57. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/20120331-_MG_0044.jpg" thumbURL="thumbs/20120331-_MG_0044.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[near Fox Glacier, New Zealand]]></title>
+		<caption><![CDATA[March 31, 2012, 11:42. Canon EOS 600D, 55-200mm at 123 mm, 1/2000 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120331-_MG_0047.jpg" thumbURL="thumbs/20120331-_MG_0047.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[near Fox Glacier, New Zealand]]></title>
+		<caption><![CDATA[March 31, 2012, 11:44. Canon EOS 600D, 55-200mm at 161 mm, 1/250 sec at f / 5.6, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20120331-_MG_0169.jpg" thumbURL="thumbs/20120331-_MG_0169.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[near Fox Glacier, New Zealand]]></title>
+		<caption><![CDATA[March 31, 2012, 17:09. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 1/80 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20120402-_MG_0073.jpg" thumbURL="thumbs/20120402-_MG_0073.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Routeburn Track, New Zealand]]></title>
+		<caption><![CDATA[April 02, 2012, 10:48. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 22 mm, 1.3 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120403-_MG_3558.jpg" thumbURL="thumbs/20120403-_MG_3558.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Routeburn Track, New Zealand]]></title>
+		<caption><![CDATA[April 03, 2012, 06:16. Canon EOS 1000D, EF-S18-55mm f/3.5-5.6 IS II at 32 mm, 1/80 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20120403-_MG_0219.jpg" thumbURL="thumbs/20120403-_MG_0219.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Routeburn Track, New Zealand]]></title>
+		<caption><![CDATA[April 03, 2012, 07:28. Canon EOS 600D,  at 50 mm, 1/100 sec, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20120803-_Group-2_-20120402-_MG_3407_20120402-_MG_3413-7-images.jpg" thumbURL="thumbs/20120803-_Group-2_-20120402-_MG_3407_20120402-_MG_3413-7-images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Routeburn Track, New Zealand]]></title>
+		<caption><![CDATA[August 03, 2012, 12:26. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/20120403-_MG_0305.jpg" thumbURL="thumbs/20120403-_MG_0305.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kea, Routeburn Track, New Zealand]]></title>
+		<caption><![CDATA[April 03, 2012, 08:45. Canon EOS 600D, 55-200mm at 200 mm, 1/200 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120403-_MG_0336.jpg" thumbURL="thumbs/20120403-_MG_0336.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kea, Routeburn Track, New Zealand]]></title>
+		<caption><![CDATA[April 03, 2012, 08:56. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/1000 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120803-_Group-7_-20120402-_MG_3517_20120402-_MG_3526-10-images.jpg" thumbURL="thumbs/20120803-_Group-7_-20120402-_MG_3517_20120402-_MG_3526-10-images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Routeburn Track, New Zealand]]></title>
+		<caption><![CDATA[August 03, 2012, 12:50. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/20120403-_MG_0376.jpg" thumbURL="thumbs/20120403-_MG_0376.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Routeburn Track, New Zealand]]></title>
+		<caption><![CDATA[April 03, 2012, 12:44. Canon EOS 600D, 55-200mm at 102 mm, 1/30 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120404-_MG_3635.jpg" thumbURL="thumbs/20120404-_MG_3635.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Routeburn Track, New Zealand]]></title>
+		<caption><![CDATA[April 04, 2012, 06:36. Canon EOS 1000D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1/125 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20120405-_MG_0548.jpg" thumbURL="thumbs/20120405-_MG_0548.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Queenstown, New Zealand]]></title>
+		<caption><![CDATA[April 05, 2012, 17:39. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120405-_MG_3437.jpg" thumbURL="thumbs/20120405-_MG_3437.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Queenstown, New Zealand]]></title>
+		<caption><![CDATA[April 05, 2012, 18:05. Canon EOS 1000D, EF-S18-55mm f/3.5-5.6 IS II at 28 mm, 1/125 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20120405-_MG_0551.jpg" thumbURL="thumbs/20120405-_MG_0551.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Queenstown, New Zealand]]></title>
+		<caption><![CDATA[April 05, 2012, 18:42. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 35 mm, 0.4 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120803-_Group-10_-20120409-_MG_0008_20120409-_MG_0023-16-images.jpg" thumbURL="thumbs/20120803-_Group-10_-20120409-_MG_0008_20120409-_MG_0023-16-images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Queenstown, New Zealand]]></title>
+		<caption><![CDATA[August 03, 2012, 16:37. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/20120406-_MG_0693.jpg" thumbURL="thumbs/20120406-_MG_0693.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Steward Island, New Zealand]]></title>
+		<caption><![CDATA[April 06, 2012, 17:09. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120406-_MG_0698.jpg" thumbURL="thumbs/20120406-_MG_0698.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Steward Island, New Zealand]]></title>
+		<caption><![CDATA[April 06, 2012, 17:18. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 20 mm, 2.0 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120408-_MG_0001.jpg" thumbURL="thumbs/20120408-_MG_0001.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Steward Island, New Zealand]]></title>
+		<caption><![CDATA[April 08, 2012, 07:00. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/4 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120408-_MG_3507.jpg" thumbURL="thumbs/20120408-_MG_3507.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Steward Island, New Zealand]]></title>
+		<caption><![CDATA[April 08, 2012, 07:10. Canon EOS 1000D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/100 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20120409-_MG_0047.jpg" thumbURL="thumbs/20120409-_MG_0047.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[New Zealand]]></title>
+		<caption><![CDATA[April 09, 2012, 10:05. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 34 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120409-_MG_0101.jpg" thumbURL="thumbs/20120409-_MG_0101.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mount Cook, New Zealand]]></title>
+		<caption><![CDATA[April 09, 2012, 16:36. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 20 mm, 1/1600 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120409-_MG_3415.jpg" thumbURL="thumbs/20120409-_MG_3415.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mount Cook, New Zealand]]></title>
+		<caption><![CDATA[April 09, 2012, 17:58. Canon EOS 1000D, 55-200mm at 72 mm, 1/500 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120410-_MG_0030.jpg" thumbURL="thumbs/20120410-_MG_0030.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[New Zealand]]></title>
+		<caption><![CDATA[April 10, 2012, 15:22. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 1/160 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120412-_MG_0143.jpg" thumbURL="thumbs/20120412-_MG_0143.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Arthur's Pass, New Zealand]]></title>
+		<caption><![CDATA[April 12, 2012, 17:43. Canon EOS 600D, 55-200mm at 102 mm, 1/640 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120412-_MG_0175.jpg" thumbURL="thumbs/20120412-_MG_0175.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Arthur's Pass, New Zealand]]></title>
+		<caption><![CDATA[April 12, 2012, 18:54. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 29 mm, 30.0 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20120803-_Group-6_-20120413-_MG_0182_20120413-_MG_0192-11-images.jpg" thumbURL="thumbs/20120803-_Group-6_-20120413-_MG_0182_20120413-_MG_0192-11-images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Arthur's Pass, New Zealand]]></title>
+		<caption><![CDATA[August 03, 2012, 18:50. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/20120414-_MG_0466.jpg" thumbURL="thumbs/20120414-_MG_0466.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Christchurch, New Zealand]]></title>
+		<caption><![CDATA[April 14, 2012, 16:12. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/800 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20120414-_MG_0505.jpg" thumbURL="thumbs/20120414-_MG_0505.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Christchurch, New Zealand]]></title>
+		<caption><![CDATA[April 14, 2012, 16:43. Canon EOS 600D, 55-200mm at 176 mm, 1/1250 sec at f / 5.6, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20120415-_MG_0345.jpg" thumbURL="thumbs/20120415-_MG_0345.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bay of Islands, New Zealand]]></title>
+		<caption><![CDATA[April 15, 2012, 22:06. Canon EOS 600D, 55-200mm at 161 mm, 30.0 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120417-_MG_0129.jpg" thumbURL="thumbs/20120417-_MG_0129.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bay of Islands, New Zealand]]></title>
+		<caption><![CDATA[April 17, 2012, 10:15. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 20 mm, 1/80 sec at f / 4.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120418-_MG_0290.jpg" thumbURL="thumbs/20120418-_MG_0290.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Auckland, New Zealand]]></title>
+		<caption><![CDATA[April 18, 2012, 18:44. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 45 mm, 2.5 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120515-HDR_0001.jpg" thumbURL="thumbs/20120515-HDR_0001.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[New Zealand]]></title>
+		<caption><![CDATA[May 15, 2012, 19:39. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/20120730-_Group-6_-20120313-_MG_0159_20120313-_MG_0160-2-images.jpg" thumbURL="thumbs/20120730-_Group-6_-20120313-_MG_0159_20120313-_MG_0160-2-images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[July 30, 2012, 10:15. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/20120730-_Group-9_-20120314-_MG_3611_20120314-_MG_3614-4-images.jpg" thumbURL="thumbs/20120730-_Group-9_-20120314-_MG_3611_20120314-_MG_3614-4-images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tongariro NP, New Zealand]]></title>
+		<caption><![CDATA[July 30, 2012, 10:17. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/20120803-_Group-2_-20120405-_MG_0474_20120405-_MG_0479-6-images.jpg" thumbURL="thumbs/20120803-_Group-2_-20120405-_MG_0474_20120405-_MG_0479-6-images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Queenstown, New Zealand]]></title>
+		<caption><![CDATA[August 03, 2012, 15:58. ,  at , , .]]></caption>
+	</image>
+
+</juiceboxgallery>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/20140711-_MG_5998.jpg" thumbURL="thumbs/20140711-_MG_5998.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Nova Scotia, Canada.]]></title>
+		<caption><![CDATA[July 11, 2014, 10:47. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 16 mm, 1/400 sec at f / 9.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140711-_MG_6115.jpg" thumbURL="thumbs/20140711-_MG_6115.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Nova Scotia, Canada.]]></title>
+		<caption><![CDATA[July 11, 2014, 16:02. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 135 mm, 1/400 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20140710-_MG_5858.jpg" thumbURL="thumbs/20140710-_MG_5858.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Halifax, Nova Scotia,  Canada.]]></title>
+		<caption><![CDATA[July 10, 2014, 20:43. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 70 mm, 1/400 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20140711-_MG_6153.jpg" thumbURL="thumbs/20140711-_MG_6153.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Nova Scotia, Canada.]]></title>
+		<caption><![CDATA[July 11, 2014, 17:04. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/800 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+
+</juiceboxgallery>

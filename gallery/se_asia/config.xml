@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/20130420-_MG_0013.jpg" thumbURL="thumbs/20130420-_MG_0013.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Merchant, Hoi An, Vietnam]]></title>
+		<caption><![CDATA[April 20, 2013, 07:33. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 84 mm, 1/250 sec at f / 7.1, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20130420-_MG_9959.jpg" thumbURL="thumbs/20130420-_MG_9959.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Baskets, Vietnam]]></title>
+		<caption><![CDATA[April 20, 2013, 07:15. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 70 mm, 1/125 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20130315-_MG_4762.jpg" thumbURL="thumbs/20130315-_MG_4762.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bangkok, Thailand]]></title>
+		<caption><![CDATA[March 15, 2013, 11:41. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 146 mm, 1/160 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20130315-_MG_4881.jpg" thumbURL="thumbs/20130315-_MG_4881.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bangkok, Thailand]]></title>
+		<caption><![CDATA[March 15, 2013, 19:11. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 5.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20130316-_MG_5051.jpg" thumbURL="thumbs/20130316-_MG_5051.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bangkok, Thailand]]></title>
+		<caption><![CDATA[March 16, 2013, 17:11. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 194 mm, 1/800 sec at f / 6.3, ISO 3200.]]></caption>
+	</image>
+	<image imageURL="images/20130316-_MG_5169.jpg" thumbURL="thumbs/20130316-_MG_5169.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bangkok, Thailand]]></title>
+		<caption><![CDATA[March 16, 2013, 18:18. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 232 mm, 1/160 sec at f / 5.6, ISO 6400.]]></caption>
+	</image>
+	<image imageURL="images/20130323-_MG_5674.jpg" thumbURL="thumbs/20130323-_MG_5674.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Koh Tao, Thailand]]></title>
+		<caption><![CDATA[March 23, 2013, 18:57. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 12 mm, 30.0 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20130323-_MG_5408.jpg" thumbURL="thumbs/20130323-_MG_5408.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Koh Tao, Thailand]]></title>
+		<caption><![CDATA[March 23, 2013, 11:09. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 163 mm, 1/400 sec at f / 6.3, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20130403-_MG_7034.jpg" thumbURL="thumbs/20130403-_MG_7034.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Chiang Mai, Thailand]]></title>
+		<caption><![CDATA[April 03, 2013, 08:55. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 22 mm, 1/80 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20130406-_MG_7606.jpg" thumbURL="thumbs/20130406-_MG_7606.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Luang Prabang, Laos]]></title>
+		<caption><![CDATA[April 06, 2013, 09:17. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/640 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20130406-_MG_7528.jpg" thumbURL="thumbs/20130406-_MG_7528.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Luang Prabang, Laos]]></title>
+		<caption><![CDATA[April 06, 2013, 08:44. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/400 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20130420-_MG_0034.jpg" thumbURL="thumbs/20130420-_MG_0034.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hoi An, Vietnam]]></title>
+		<caption><![CDATA[April 20, 2013, 07:42. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/800 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20130420-_MG_9999.jpg" thumbURL="thumbs/20130420-_MG_9999.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hoi An, Vietnam]]></title>
+		<caption><![CDATA[April 20, 2013, 07:28. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/200 sec at f / 7.1, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20130407-_MG_7840.jpg" thumbURL="thumbs/20130407-_MG_7840.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Monks, Luang Prabang, Laos]]></title>
+		<caption><![CDATA[April 07, 2013, 08:34. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 123 mm, 1/400 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20130327-_MG_6029.jpg" thumbURL="thumbs/20130327-_MG_6029.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Lopburi, Thailand]]></title>
+		<caption><![CDATA[March 27, 2013, 07:49. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/1000 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20130412-_MG_8656.jpg" thumbURL="thumbs/20130412-_MG_8656.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Vientanne, Laos]]></title>
+		<caption><![CDATA[April 12, 2013, 09:27. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 33 mm, 1/160 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>

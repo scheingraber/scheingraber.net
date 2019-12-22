@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/img-9281.jpg" thumbURL="thumbs/img-9281.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tsavo NP, Kenya]]></title>
+		<caption><![CDATA[April 30, 2007, 06:41. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 300 mm, 1/125 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-8884.jpg" thumbURL="thumbs/img-8884.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tsavo NP, Kenya]]></title>
+		<caption><![CDATA[April 29, 2007, 12:29. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 200 mm, 1/250 sec at f / 5.6, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-8721.jpg" thumbURL="thumbs/img-8721.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tsavo NP, Kenya]]></title>
+		<caption><![CDATA[April 29, 2007, 09:58. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 240 mm, 1/1600 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/img-9165.jpg" thumbURL="thumbs/img-9165.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kenya]]></title>
+		<caption><![CDATA[April 29, 2007, 21:21. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 20.0 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-9287.jpg" thumbURL="thumbs/img-9287.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tsavo NP, Kenya]]></title>
+		<caption><![CDATA[April 30, 2007, 06:45. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 300 mm, 1/320 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-9809.jpg" thumbURL="thumbs/img-9809.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tsavo NP, Kenya]]></title>
+		<caption><![CDATA[May 01, 2007, 10:27. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 110 mm, 1/320 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-9901.jpg" thumbURL="thumbs/img-9901.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kenya]]></title>
+		<caption><![CDATA[May 01, 2007, 21:54. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 97.0 sec at f / 3.5, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-9813.jpg" thumbURL="thumbs/img-9813.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tsavo NP, Kenya]]></title>
+		<caption><![CDATA[May 01, 2007, 10:29. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 240 mm, 1/200 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img-9918.jpg" thumbURL="thumbs/img-9918.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kenya]]></title>
+		<caption><![CDATA[May 02, 2007, 05:39. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 130 mm, 1/125 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-9086.jpg" thumbURL="thumbs/img-9086.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kenya]]></title>
+		<caption><![CDATA[April 29, 2007, 17:06. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 34 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-.jpg" thumbURL="thumbs/img-.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mount Kilimanjaro, Kenya]]></title>
+		<caption><![CDATA[October 20, 2010, 22:36. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/img-9906.jpg" thumbURL="thumbs/img-9906.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Kenya]]></title>
+		<caption><![CDATA[May 02, 2007, 05:28. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 23 mm, 1/40 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>

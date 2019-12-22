@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_5879.jpg" thumbURL="thumbs/_MG_5879.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Leticia, Amazonas, Colombia.]]></title>
+		<caption><![CDATA[December 15, 2018, 16:51. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 20 mm, 1/250 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5839.jpg" thumbURL="thumbs/_MG_5839.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Leticia, Amazonas, Colombia.]]></title>
+		<caption><![CDATA[December 15, 2018, 16:32. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 33 mm, 1/400 sec at f / 7.1, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5673.jpg" thumbURL="thumbs/_MG_5673.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Leticia, Amazonas, Colombia.]]></title>
+		<caption><![CDATA[December 15, 2018, 10:26. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/800 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5342.jpg" thumbURL="thumbs/_MG_5342.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cali, Colombia.]]></title>
+		<caption><![CDATA[December 11, 2018, 18:49. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 31 mm, 1/80 sec at f / 2.8, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5238.jpg" thumbURL="thumbs/_MG_5238.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Girl with Phone, Cali, Colombia.]]></title>
+		<caption><![CDATA[December 11, 2018, 18:21. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/60 sec at f / 3.5, ISO 6400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5046.jpg" thumbURL="thumbs/_MG_5046.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cali, Colombia.]]></title>
+		<caption><![CDATA[December 08, 2018, 15:54. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 28 mm, 1/60 sec at f / 6.3, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4968.jpg" thumbURL="thumbs/_MG_4968.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Manizales, Colombia.]]></title>
+		<caption><![CDATA[December 06, 2018, 17:39. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/100 sec at f / 7.1, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4884.jpg" thumbURL="thumbs/_MG_4884.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Medellin, Colombia.]]></title>
+		<caption><![CDATA[December 04, 2018, 12:25. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/400 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4848.jpg" thumbURL="thumbs/_MG_4848.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Medellin, Colombia.]]></title>
+		<caption><![CDATA[December 04, 2018, 10:35. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4826.jpg" thumbURL="thumbs/_MG_4826.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Urban Downhill, Comuna 13, Medellin, Colombia.]]></title>
+		<caption><![CDATA[December 02, 2018, 16:40. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/1250 sec at f / 3.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4804.jpg" thumbURL="thumbs/_MG_4804.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Urban Downhill, Comuna 13, Medellin, Colombia.]]></title>
+		<caption><![CDATA[December 02, 2018, 16:32. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/1250 sec at f / 4.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4375.jpg" thumbURL="thumbs/_MG_4375.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Medellin, Colombia.]]></title>
+		<caption><![CDATA[December 02, 2018, 11:49. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/400 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4277.jpg" thumbURL="thumbs/_MG_4277.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Valle del Cocora, Colombia.]]></title>
+		<caption><![CDATA[November 30, 2018, 13:46. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 40 mm, 1/800 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4236.jpg" thumbURL="thumbs/_MG_4236.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Valle del Cocora, Colombia.]]></title>
+		<caption><![CDATA[November 30, 2018, 12:58. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 28 mm, 1/60 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4209.jpg" thumbURL="thumbs/_MG_4209.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Valle del Cocora, Colombia.]]></title>
+		<caption><![CDATA[November 30, 2018, 12:43. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/1250 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4097.jpg" thumbURL="thumbs/_MG_4097.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Valle del Cocora, Colombia.]]></title>
+		<caption><![CDATA[November 30, 2018, 11:42. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/3200 sec at f / 3.5, ISO 3200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3376.jpg" thumbURL="thumbs/_MG_3376.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Metro Cable, Medellin, Colombia.]]></title>
+		<caption><![CDATA[November 24, 2018, 10:02. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 51 mm, 1/500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3128.jpg" thumbURL="thumbs/_MG_3128.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[View from Piedra el Penol, Colombia.]]></title>
+		<caption><![CDATA[November 22, 2018, 14:33. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 35 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3095.jpg" thumbURL="thumbs/_MG_3095.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Piedra el Penol, Colombia.]]></title>
+		<caption><![CDATA[November 22, 2018, 13:05. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/500 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2668.jpg" thumbURL="thumbs/_MG_2668.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Medellin, Colombia.]]></title>
+		<caption><![CDATA[November 18, 2018, 14:12. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 28 mm, 1/250 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2530.jpg" thumbURL="thumbs/_MG_2530.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cartagena, Colombia.]]></title>
+		<caption><![CDATA[November 16, 2018, 17:05. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 20 mm, 1/250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2417.jpg" thumbURL="thumbs/_MG_2417.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cartagena, Colombia.]]></title>
+		<caption><![CDATA[November 15, 2018, 17:11. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 18 mm, 1/1000 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2277.jpg" thumbURL="thumbs/_MG_2277.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Parque Tayrona, Colombia.]]></title>
+		<caption><![CDATA[November 14, 2018, 10:29. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/80 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2226.jpg" thumbURL="thumbs/_MG_2226.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Parque Tayrona, Colombia.]]></title>
+		<caption><![CDATA[November 14, 2018, 08:55. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/400 sec at f / 2.8, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2210.jpg" thumbURL="thumbs/_MG_2210.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Parque Tayrona, Colombia.]]></title>
+		<caption><![CDATA[November 14, 2018, 08:50. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/125 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2030.jpg" thumbURL="thumbs/_MG_2030.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Parque Tayrona, Colombia.]]></title>
+		<caption><![CDATA[November 13, 2018, 14:58. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/160 sec at f / 3.5, ISO 6400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1951.jpg" thumbURL="thumbs/_MG_1951.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Parque Tayrona, Colombia.]]></title>
+		<caption><![CDATA[November 13, 2018, 13:40. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/100 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1883.jpg" thumbURL="thumbs/_MG_1883.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Parque Tayrona, Colombia.]]></title>
+		<caption><![CDATA[November 13, 2018, 12:11. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 20 mm, 1/250 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1589.jpg" thumbURL="thumbs/_MG_1589.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Minca, Colombia.]]></title>
+		<caption><![CDATA[November 12, 2018, 06:33. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 50 mm, 1/250 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1545.jpg" thumbURL="thumbs/_MG_1545.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Minca, Colombia.]]></title>
+		<caption><![CDATA[November 11, 2018, 17:26. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 43 mm, 1/250 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1368.jpg" thumbURL="thumbs/_MG_1368.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Trek to Ciudad Perdida, Colombia.]]></title>
+		<caption><![CDATA[November 10, 2018, 08:39. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 31 mm, 1/400 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1134.jpg" thumbURL="thumbs/_MG_1134.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bucaramanga, Colombia.]]></title>
+		<caption><![CDATA[November 05, 2018, 17:12. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 38 mm, 1/160 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1089.jpg" thumbURL="thumbs/_MG_1089.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bucaramanga, Colombia.]]></title>
+		<caption><![CDATA[November 05, 2018, 16:53. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0972.jpg" thumbURL="thumbs/_MG_0972.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Barichara, Colombia.]]></title>
+		<caption><![CDATA[November 04, 2018, 15:51. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/320 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0948.jpg" thumbURL="thumbs/_MG_0948.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[San Gil, Colombia.]]></title>
+		<caption><![CDATA[November 04, 2018, 07:08. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 50 mm, 1/160 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0889.jpg" thumbURL="thumbs/_MG_0889.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[San Gil, Colombia.]]></title>
+		<caption><![CDATA[November 03, 2018, 15:14. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 38 mm, 1/250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0843.jpg" thumbURL="thumbs/_MG_0843.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[San Gil, Colombia.]]></title>
+		<caption><![CDATA[November 03, 2018, 07:14. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 20 mm, 1/1250 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0835.jpg" thumbURL="thumbs/_MG_0835.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[San Gil, Colombia.]]></title>
+		<caption><![CDATA[November 03, 2018, 07:09. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/640 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0640.jpg" thumbURL="thumbs/_MG_0640.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Old Chevrolet, Villa de Leyva, Colombia.]]></title>
+		<caption><![CDATA[November 01, 2018, 13:31. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0601.jpg" thumbURL="thumbs/_MG_0601.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Terra Cota, Villa de Leyva, Colombia.]]></title>
+		<caption><![CDATA[November 01, 2018, 13:01. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/640 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0576.jpg" thumbURL="thumbs/_MG_0576.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Villa de Leyva, Colombia.]]></title>
+		<caption><![CDATA[November 01, 2018, 12:08. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/320 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0395.jpg" thumbURL="thumbs/_MG_0395.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bogota, Colombia.]]></title>
+		<caption><![CDATA[October 30, 2018, 21:48. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 35 mm, 1/640 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0291.jpg" thumbURL="thumbs/_MG_0291.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bogota, Colombia.]]></title>
+		<caption><![CDATA[October 30, 2018, 15:40. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/500 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+
+</juiceboxgallery>

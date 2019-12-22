@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/20121003-_MG_2615-Edit.jpg" thumbURL="thumbs/20121003-_MG_2615-Edit.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Rainbow, Mauritius]]></title>
+		<caption><![CDATA[October 03, 2012, 17:50. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 34 mm, 1/250 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20120920-_MG_1829.jpg" thumbURL="thumbs/20120920-_MG_1829.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Grand Etang, Reunion]]></title>
+		<caption><![CDATA[September 20, 2012, 11:24. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/80 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20120920-_MG_1743.jpg" thumbURL="thumbs/20120920-_MG_1743.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Grand Etang, Reunion]]></title>
+		<caption><![CDATA[September 20, 2012, 09:43. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1/125 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120920-_MG_1731.jpg" thumbURL="thumbs/20120920-_MG_1731.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Reunion]]></title>
+		<caption><![CDATA[September 20, 2012, 09:08. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120918-_MG_1591.jpg" thumbURL="thumbs/20120918-_MG_1591.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Le Volcan, Reunion]]></title>
+		<caption><![CDATA[September 18, 2012, 18:00. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/160 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20120918-_MG_1579.jpg" thumbURL="thumbs/20120918-_MG_1579.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Le Volcan, Reunion]]></title>
+		<caption><![CDATA[September 18, 2012, 17:55. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 32 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120918-_MG_1535.jpg" thumbURL="thumbs/20120918-_MG_1535.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Le Volcan, Reunion]]></title>
+		<caption><![CDATA[September 18, 2012, 17:04. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/640 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120918-_MG_1375.jpg" thumbURL="thumbs/20120918-_MG_1375.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Pointe de la Table, Reunion]]></title>
+		<caption><![CDATA[September 18, 2012, 06:42. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 18 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120918-_MG_1370.jpg" thumbURL="thumbs/20120918-_MG_1370.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Pointe de la Table, Reunion]]></title>
+		<caption><![CDATA[September 18, 2012, 06:41. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 29 mm, 1/100 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120917-_MG_1341.jpg" thumbURL="thumbs/20120917-_MG_1341.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Reunion]]></title>
+		<caption><![CDATA[September 17, 2012, 17:59. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 45 mm, 1/160 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120916-_MG_1098.jpg" thumbURL="thumbs/20120916-_MG_1098.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cirque de Mafate, Reunion]]></title>
+		<caption><![CDATA[September 16, 2012, 07:19. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 27 mm, 1/80 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120915-_MG_0955.jpg" thumbURL="thumbs/20120915-_MG_0955.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Reunion]]></title>
+		<caption><![CDATA[September 15, 2012, 07:24. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120914-_MG_0918.jpg" thumbURL="thumbs/20120914-_MG_0918.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Le Port, Reunion]]></title>
+		<caption><![CDATA[September 14, 2012, 18:23. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 42 mm, 1/80 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20120914-_MG_0911.jpg" thumbURL="thumbs/20120914-_MG_0911.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Reunion]]></title>
+		<caption><![CDATA[September 14, 2012, 18:05. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 45 mm, 1/250 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120914-_MG_0889.jpg" thumbURL="thumbs/20120914-_MG_0889.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cirque de Mafate, Reunion]]></title>
+		<caption><![CDATA[September 14, 2012, 16:55. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 46 mm, 1/80 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/img_3802.jpg" thumbURL="thumbs/img_3802.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mauritius]]></title>
+		<caption><![CDATA[August 30, 2006, 13:59. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 300 mm, 1/1250 sec at f / 5.6, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/img_3695.jpg" thumbURL="thumbs/img_3695.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mauritius]]></title>
+		<caption><![CDATA[August 30, 2006, 06:41. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 33 mm, 1/2500 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img_3644.jpg" thumbURL="thumbs/img_3644.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mauritius]]></title>
+		<caption><![CDATA[August 29, 2006, 18:14. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 35 mm, 5.0 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img_3513.jpg" thumbURL="thumbs/img_3513.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mauritius]]></title>
+		<caption><![CDATA[August 28, 2006, 12:40. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 100 mm, 1/800 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img_3436.jpg" thumbURL="thumbs/img_3436.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mauritius]]></title>
+		<caption><![CDATA[August 28, 2006, 07:00. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 135 mm, 0.6 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img_3418.jpg" thumbURL="thumbs/img_3418.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mauritius]]></title>
+		<caption><![CDATA[August 27, 2006, 16:25. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 20.0 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img_3393.jpg" thumbURL="thumbs/img_3393.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mauritius]]></title>
+		<caption><![CDATA[August 27, 2006, 11:52. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 300 mm, 1/250 sec at f / 5.6, ISO 400.]]></caption>
+	</image>
+
+</juiceboxgallery>

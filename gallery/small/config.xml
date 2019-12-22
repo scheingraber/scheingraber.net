@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_5839.jpg" thumbURL="thumbs/_MG_5839.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Leticia, Amazonas, Colombia.]]></title>
+		<caption><![CDATA[December 15, 2018, 16:32. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 33 mm, 1/400 sec at f / 7.1, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2226.jpg" thumbURL="thumbs/_MG_2226.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Parque Tayrona, Colombia.]]></title>
+		<caption><![CDATA[November 14, 2018, 08:55. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/400 sec at f / 2.8, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1768.jpg" thumbURL="thumbs/_MG_1768.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tihany, Hungary.]]></title>
+		<caption><![CDATA[July 28, 2015, 13:20. Canon EOS 70D,  at , 1/160 sec, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3399.jpg" thumbURL="thumbs/_MG_3399.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Península de Osa, Costa Rica.]]></title>
+		<caption><![CDATA[May 15, 2015, 08:48. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/500 sec at f / 6.3, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3764.jpg" thumbURL="thumbs/_MG_3764.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ants, Península de Osa, Costa Rica.]]></title>
+		<caption><![CDATA[May 15, 2015, 13:52. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 179 mm, 1/1000 sec at f / 6.3, ISO 3200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3750.jpg" thumbURL="thumbs/_MG_3750.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Península de Osa, Costa Rica.]]></title>
+		<caption><![CDATA[May 15, 2015, 13:23. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/500 sec at f / 6.3, ISO 6400.]]></caption>
+	</image>
+	<image imageURL="images/20140923-_MG_8494.jpg" thumbURL="thumbs/20140923-_MG_8494.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Dune du Pylat, France.]]></title>
+		<caption><![CDATA[September 23, 2014, 09:39. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/500 sec at f / 5.6, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20140923-_MG_8453.jpg" thumbURL="thumbs/20140923-_MG_8453.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Dune du Pylat, France.]]></title>
+		<caption><![CDATA[September 23, 2014, 09:26. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/500 sec at f / 11, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20131024-_MG_7561.jpg" thumbURL="thumbs/20131024-_MG_7561.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hölzl, Emmering, Germany.]]></title>
+		<caption><![CDATA[October 24, 2013, 09:52. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 187 mm, 1/250 sec at f / 10, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120907-_MG_3765.jpg" thumbURL="thumbs/20120907-_MG_3765.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Slovenia.]]></title>
+		<caption><![CDATA[September 07, 2012, 20:43. Canon EOS 1000D,  at , 1/160 sec, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20120907-_MG_3701.jpg" thumbURL="thumbs/20120907-_MG_3701.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bee, Slovenia.]]></title>
+		<caption><![CDATA[September 07, 2012, 20:12. Canon EOS 1000D,  at , 1/160 sec, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20120326-_MG_0267.jpg" thumbURL="thumbs/20120326-_MG_0267.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Heaphy Track, New Zealand.]]></title>
+		<caption><![CDATA[March 26, 2012, 14:14. Canon EOS 600D,  at 50 mm, 1/160 sec, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5801.jpg" thumbURL="thumbs/_MG_5801.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Water, Switzerland.]]></title>
+		<caption><![CDATA[August 17, 2011, 12:52. Canon EOS 1000D, 55-200mm at 147 mm, 1/200 sec at f / 7.1, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3844.jpg" thumbURL="thumbs/_MG_3844.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Englischer Garten, Munich, Germany.]]></title>
+		<caption><![CDATA[July 22, 2011, 15:03. Canon EOS 1000D, 90mm at 90 mm, 1/100 sec at f / 2.8, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0120.jpg" thumbURL="thumbs/_MG_0120.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Isartal, Germany.]]></title>
+		<caption><![CDATA[September 20, 2010, 08:12. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/60 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9906.jpg" thumbURL="thumbs/_MG_9906.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Starnberg, Germany.]]></title>
+		<caption><![CDATA[September 15, 2010, 15:17. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/40 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7676.jpg" thumbURL="thumbs/_MG_7676.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Løvstakken, Bergen, Norway.]]></title>
+		<caption><![CDATA[August 25, 2009, 20:05. Canon EOS 1000D, 90mm at 90 mm, 1/10 sec at f / 3.2, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7646.jpg" thumbURL="thumbs/_MG_7646.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Løvstakken, Bergen, Norway.]]></title>
+		<caption><![CDATA[August 25, 2009, 18:42. Canon EOS 1000D, 90mm at 90 mm, 1/50 sec at f / 2.8, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_3165.jpg" thumbURL="thumbs/_MG_3165.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ulvön, Sweden.]]></title>
+		<caption><![CDATA[September 16, 2008, 11:28. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/40 sec at f / 7.1, ISO 500.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2965.jpg" thumbURL="thumbs/_MG_2965.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Skuleskogens, Sweden.]]></title>
+		<caption><![CDATA[September 14, 2008, 11:44. Canon EOS 40D, EF-S17-85mm f/4-5.6 IS USM at 70 mm, 1/40 sec at f / 6.3, ISO 1000.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2641.jpg" thumbURL="thumbs/_MG_2641.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Nikolausberg, Emmering, Germany.]]></title>
+		<caption><![CDATA[September 09, 2008, 18:18. Canon EOS 40D, 90mm at 90 mm, 1/320 sec at f / 4.5, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0179.jpg" thumbURL="thumbs/_MG_0179.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Nikolausberg, Emmering, Germany.]]></title>
+		<caption><![CDATA[May 09, 2008, 08:25. Canon EOS 40D, 90mm at 90 mm, 1/320 sec at f / 5.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_7262.jpg" thumbURL="thumbs/_MG_7262.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hölzl, Emmering, Germany.]]></title>
+		<caption><![CDATA[October 08, 2007, 17:58. Canon EOS 400D DIGITAL, 90.0 mm at 90 mm, 1/125 sec at f / 5.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2856.jpg" thumbURL="thumbs/_MG_2856.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Ant, South Molle Island, Whitsundays, Australia.]]></title>
+		<caption><![CDATA[July 04, 2007, 08:13. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 135 mm, 1/200 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/img-1320.jpg" thumbURL="thumbs/img-1320.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Emmering, Germany.]]></title>
+		<caption><![CDATA[April 12, 2007, 20:12. Canon EOS 400D DIGITAL, 90.0 mm at 90 mm, 2.5 sec at f / 2.8, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-0412.jpg" thumbURL="thumbs/img-0412.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hölzl, Emmering, Germany.]]></title>
+		<caption><![CDATA[April 02, 2007, 10:48. Canon EOS 400D DIGITAL, 90.0 mm at 90 mm, 1/250 sec at f / 2.8, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/img-3543.jpg" thumbURL="thumbs/img-3543.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Schneeglöckchen, Germany.]]></title>
+		<caption><![CDATA[March 13, 2007, 07:55. Canon EOS 400D DIGITAL, 90.0 mm at 90 mm, 1/125 sec at f / 2.8, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_2342.jpg" thumbURL="thumbs/_mg_2342.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Spider web &amp; dew, Nikolausberg, Emmering, Germany.]]></title>
+		<caption><![CDATA[February 18, 2007, 12:28. Canon EOS 400D DIGITAL, 90.0 mm at 90 mm, 1/13 sec at f / 9.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_1976.jpg" thumbURL="thumbs/_mg_1976.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hölzl, Emmering, Germany.]]></title>
+		<caption><![CDATA[February 04, 2007, 09:41. Canon EOS 400D DIGITAL, 90.0 mm at 90 mm, 1/100 sec at f / 3.5, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_0726.jpg" thumbURL="thumbs/_mg_0726.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[near Maisach, Germany.]]></title>
+		<caption><![CDATA[December 15, 2006, 08:47. Canon EOS 400D DIGITAL, 90.0 mm at 90 mm, 1/200 sec at f / 5.6, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8935.jpg" thumbURL="thumbs/_MG_8935.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[]]></title>
+		<caption><![CDATA[March 10, 2018, 14:59. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/2000 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_mg_6668.jpg" thumbURL="thumbs/_mg_6668.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Emmering, Germany.]]></title>
+		<caption><![CDATA[November 09, 2006, 15:40. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 34 mm, 1/6 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_7762.jpg" thumbURL="thumbs/IMG_7762.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Emmering, Germany.]]></title>
+		<caption><![CDATA[June 16, 2006, 08:07. Canon EOS 350D DIGITAL,  at , 0.4 sec, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_6989.jpg" thumbURL="thumbs/IMG_6989.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bee, Emmering, Germany.]]></title>
+		<caption><![CDATA[June 10, 2006, 16:41. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 280 mm, 1/500 sec at f / 7.1, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/IMG_6970.jpg" thumbURL="thumbs/IMG_6970.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bee, Emmering, Germany.]]></title>
+		<caption><![CDATA[June 10, 2006, 08:57. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 280 mm, 1/1250 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/IMG_6228.jpg" thumbURL="thumbs/IMG_6228.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fly, Emmering, Germany.]]></title>
+		<caption><![CDATA[May 21, 2006, 19:51. Canon EOS 350D DIGITAL,  at , 1/80 sec, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_6214.jpg" thumbURL="thumbs/IMG_6214.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Fly, Emmering, Germany.]]></title>
+		<caption><![CDATA[May 21, 2006, 19:44. Canon EOS 350D DIGITAL,  at , 1/20 sec, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>

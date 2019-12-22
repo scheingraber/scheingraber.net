@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_2182.jpg" thumbURL="thumbs/_MG_2182.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Moon and Vancouver, British Columbia, Canada.]]></title>
+		<caption><![CDATA[August 14, 2016, 20:38. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 46 mm, 1/160 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1930.jpg" thumbURL="thumbs/_MG_1930.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Vancouver, British Columbia, Canada.]]></title>
+		<caption><![CDATA[August 14, 2016, 04:22. Canon EOS 70D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/100 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1947.jpg" thumbURL="thumbs/_MG_1947.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Vancouver, British Columbia, Canada.]]></title>
+		<caption><![CDATA[August 14, 2016, 07:35. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 55 mm, 1/125 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2294.jpg" thumbURL="thumbs/_MG_2294.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Squamish, British Columbia, Canada.]]></title>
+		<caption><![CDATA[August 16, 2016, 06:47. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 48 mm, 1/125 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2307.jpg" thumbURL="thumbs/_MG_2307.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Squamish, British Columbia, Canada.]]></title>
+		<caption><![CDATA[August 16, 2016, 06:52. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 214 mm, 1/400 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4626.jpg" thumbURL="thumbs/_MG_4626.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Vancouver, British Columbia, Canada.]]></title>
+		<caption><![CDATA[August 23, 2016, 14:48. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 28 mm, 1/60 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4624.jpg" thumbURL="thumbs/_MG_4624.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Vancouver, British Columbia, Canada.]]></title>
+		<caption><![CDATA[August 23, 2016, 14:47. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 40 mm, 1/200 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2165.jpg" thumbURL="thumbs/_MG_2165.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Vancouver, British Columbia, Canada.]]></title>
+		<caption><![CDATA[August 14, 2016, 20:31. Canon EOS 70D, EF-S17-55mm f/2.8 IS USM at 17 mm, 1/125 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_2070.jpg" thumbURL="thumbs/_MG_2070.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Plane over Vancouver, British Columbia, Canada.]]></title>
+		<caption><![CDATA[August 14, 2016, 18:02. Canon EOS 70D, EF-S55-250mm f/4-5.6 IS II at 74 mm, 1/2000 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4765.jpg" thumbURL="thumbs/_MG_4765.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Market, Seattle, USA.]]></title>
+		<caption><![CDATA[August 24, 2016, 10:58. Canon EOS 70D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/100 sec at f / 7.1, ISO 800.]]></caption>
+	</image>
+
+</juiceboxgallery>

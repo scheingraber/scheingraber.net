@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/20140629-_MG_4964.jpg" thumbURL="thumbs/20140629-_MG_4964.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bilbao, Spain]]></title>
+		<caption><![CDATA[June 29, 2014, 20:20. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 84 mm, 1/250 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140629-_MG_5021.jpg" thumbURL="thumbs/20140629-_MG_5021.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bilbao, Spain]]></title>
+		<caption><![CDATA[June 29, 2014, 20:51. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 131 mm, 1/250 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140630-_MG_5129.jpg" thumbURL="thumbs/20140630-_MG_5129.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[San Sebastian, Spain]]></title>
+		<caption><![CDATA[June 30, 2014, 20:07. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 208 mm, 1/320 sec at f / 7.1, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20140701-_MG_5226.jpg" thumbURL="thumbs/20140701-_MG_5226.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[San Sebastian, Spain]]></title>
+		<caption><![CDATA[July 01, 2014, 12:42. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 214 mm, 1/200 sec at f / 5.6, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20140629-_MG_5004.jpg" thumbURL="thumbs/20140629-_MG_5004.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bilbao, Spain]]></title>
+		<caption><![CDATA[June 29, 2014, 20:39. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 90 mm, 1/400 sec at f / 6.3, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140701-_MG_5213.jpg" thumbURL="thumbs/20140701-_MG_5213.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[San Sebastian, Spain]]></title>
+		<caption><![CDATA[July 01, 2014, 12:34. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 32 mm, 1/60 sec at f / 4.5, ISO 3200.]]></caption>
+	</image>
+	<image imageURL="images/20140629-_MG_5016.jpg" thumbURL="thumbs/20140629-_MG_5016.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bilbao, Spain]]></title>
+		<caption><![CDATA[June 29, 2014, 20:48. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 96 mm, 1/160 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20140705-_MG_5608.jpg" thumbURL="thumbs/20140705-_MG_5608.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Bilbao, Spain]]></title>
+		<caption><![CDATA[July 05, 2014, 22:19. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 100 mm, 1/100 sec at f / 5.0, ISO 3200.]]></caption>
+	</image>
+	<image imageURL="images/20140824-_MG_7184.jpg" thumbURL="thumbs/20140824-_MG_7184.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Valencia, Spain]]></title>
+		<caption><![CDATA[August 24, 2014, 09:36. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 12 mm, 1/160 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/Pano_2.jpg" thumbURL="thumbs/Pano_2.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Gaudi House, Barcelona, Spain]]></title>
+		<caption><![CDATA[October 20, 2010, 22:48. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/Pano_7.jpg" thumbURL="thumbs/Pano_7.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Barcelona, Spain]]></title>
+		<caption><![CDATA[October 20, 2010, 22:48. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/_MG_5885.jpg" thumbURL="thumbs/_MG_5885.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Barcelona, Spain]]></title>
+		<caption><![CDATA[April 01, 2008, 16:40. Canon EOS 40D, EF75-300mm f/4-5.6 at 140 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6032.jpg" thumbURL="thumbs/_MG_6032.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Barcelona, Spain]]></title>
+		<caption><![CDATA[April 01, 2008, 19:46. Canon EOS 40D, EF75-300mm f/4-5.6 at 260 mm, 1/800 sec at f / 5.6, ISO 640.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6288.jpg" thumbURL="thumbs/_MG_6288.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Las Ramblas, Barcelona]]></title>
+		<caption><![CDATA[April 03, 2008, 15:12. Canon EOS 40D, 18-125mm at 87 mm, 1/640 sec at f / 5.6, ISO 250.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6294.jpg" thumbURL="thumbs/_MG_6294.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Las Ramblas, Barcelona, Spain]]></title>
+		<caption><![CDATA[April 03, 2008, 15:14. Canon EOS 40D, 18-125mm at 125 mm, 1/250 sec at f / 5.6, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6308.jpg" thumbURL="thumbs/_MG_6308.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Barcelona, Spain]]></title>
+		<caption><![CDATA[April 03, 2008, 15:26. Canon EOS 40D, 18-125mm at 21 mm, 1/200 sec at f / 6.3, ISO 320.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6602.jpg" thumbURL="thumbs/_MG_6602.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Barcelona, Spain]]></title>
+		<caption><![CDATA[April 03, 2008, 19:55. Canon EOS 40D, EF75-300mm f/4-5.6 at 130 mm, 1/60 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6637-Edit.jpg" thumbURL="thumbs/_MG_6637-Edit.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Barcelona, Spain]]></title>
+		<caption><![CDATA[April 04, 2008, 12:17. Canon EOS 40D, 18-125mm at 38 mm, 1/160 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6842.jpg" thumbURL="thumbs/_MG_6842.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Barcelona, Spain]]></title>
+		<caption><![CDATA[April 05, 2008, 14:14. Canon EOS 40D, 90mm at 90 mm, 1/250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6885.jpg" thumbURL="thumbs/_MG_6885.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Barcelona, Spain]]></title>
+		<caption><![CDATA[April 05, 2008, 21:59. Canon EOS 40D, 18-125mm at 44 mm, 4.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6418.jpg" thumbURL="thumbs/_MG_6418.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Chris, Barcelona, Spain]]></title>
+		<caption><![CDATA[April 03, 2008, 17:41. Canon EOS 40D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/80 sec at f / 3.5, ISO 1250.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9264.jpg" thumbURL="thumbs/_MG_9264.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Vila do Bispo, SW-Portugal]]></title>
+		<caption><![CDATA[August 24, 2010, 21:36. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 59 mm, 1/60 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9150.jpg" thumbURL="thumbs/_MG_9150.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Algarve, Portugal]]></title>
+		<caption><![CDATA[August 20, 2010, 21:24. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/80 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/IMG_4201.jpg" thumbURL="thumbs/IMG_4201.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Malaga, Spain]]></title>
+		<caption><![CDATA[February 27, 2006, 16:04. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 38 mm, 1/200 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_4352.jpg" thumbURL="thumbs/IMG_4352.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Malaga, Spain]]></title>
+		<caption><![CDATA[February 28, 2006, 21:17. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 30.0 sec at f / 5.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_4383.jpg" thumbURL="thumbs/IMG_4383.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Malaga, Spain]]></title>
+		<caption><![CDATA[February 28, 2006, 22:16. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 24 mm, 2.5 sec at f / 4.5, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_4465.jpg" thumbURL="thumbs/IMG_4465.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Malaga, Spain]]></title>
+		<caption><![CDATA[March 01, 2006, 19:48. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 38 mm, 6.0 sec at f / 5.6, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_4481.jpg" thumbURL="thumbs/IMG_4481.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Malaga, Spain]]></title>
+		<caption><![CDATA[March 01, 2006, 20:16. Canon EOS 350D DIGITAL, 75.0-300.0 mm at 110 mm, 8.0 sec at f / 5.6, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_4523.jpg" thumbURL="thumbs/IMG_4523.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Malaga, Spain]]></title>
+		<caption><![CDATA[March 01, 2006, 22:57. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 0.6 sec at f / 4.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_4532.jpg" thumbURL="thumbs/IMG_4532.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Malaga, Spain]]></title>
+		<caption><![CDATA[March 01, 2006, 23:24. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 4.0 sec at f / 4.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_4599.jpg" thumbURL="thumbs/IMG_4599.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Malaga, Spain]]></title>
+		<caption><![CDATA[March 02, 2006, 18:45. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 55 mm, 1/320 sec at f / 6.3, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_4631.jpg" thumbURL="thumbs/IMG_4631.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Malaga, Spain]]></title>
+		<caption><![CDATA[March 02, 2006, 19:30. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 1/6 sec at f / 4.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_4674.jpg" thumbURL="thumbs/IMG_4674.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Malaga, Spain]]></title>
+		<caption><![CDATA[March 02, 2006, 21:35. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 18 mm, 3.2 sec at f / 4.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/IMG_4850.jpg" thumbURL="thumbs/IMG_4850.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Malaga, Spain]]></title>
+		<caption><![CDATA[March 04, 2006, 17:41. Canon EOS 350D DIGITAL, 18.0-55.0 mm at 25 mm, 3.2 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/_MG_8699.jpg" thumbURL="thumbs/_MG_8699.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[near Dover, UK]]></title>
+		<caption><![CDATA[September 19, 2011, 17:58. Canon EOS 1000D,  at , 1/1250 sec, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_8938.jpg" thumbURL="thumbs/_MG_8938.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Grey Squirrel, Colchester,  UK]]></title>
+		<caption><![CDATA[September 20, 2011, 17:47. Canon EOS 1000D, 55-200mm at 134 mm, 1/160 sec at f / 5.6, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9019.jpg" thumbURL="thumbs/_MG_9019.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Sidney Sussex College, Cambridge, UK]]></title>
+		<caption><![CDATA[September 21, 2011, 11:36. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 12 mm, 1/50 sec at f / 3.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9030.jpg" thumbURL="thumbs/_MG_9030.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Emmanuel College, Cambridge, UK]]></title>
+		<caption><![CDATA[September 21, 2011, 11:56. Canon EOS 1000D,  at , 1/640 sec, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_Group_12_-_MG_9167__MG_9178-12_images.jpg" thumbURL="thumbs/_Group_12_-_MG_9167__MG_9178-12_images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Holy Sepulchre, Cambridge, UK]]></title>
+		<caption><![CDATA[November 20, 2011, 18:10. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/_MG_9138.jpg" thumbURL="thumbs/_MG_9138.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Holy Sepulchre, Cambridge, UK]]></title>
+		<caption><![CDATA[September 21, 2011, 16:10. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/60 sec at f / 3.5, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9191.jpg" thumbURL="thumbs/_MG_9191.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Trinity Lane, Cambridge, UK]]></title>
+		<caption><![CDATA[September 21, 2011, 16:55. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/100 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9239.jpg" thumbURL="thumbs/_MG_9239.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Oxfort, UK]]></title>
+		<caption><![CDATA[September 22, 2011, 18:10. Canon EOS 1000D,  at , 1/160 sec, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9255.jpg" thumbURL="thumbs/_MG_9255.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Oxfort, UK]]></title>
+		<caption><![CDATA[September 22, 2011, 18:15. Canon EOS 1000D,  at , 1/200 sec, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_Group_10_-_MG_9389__MG_9396-8_images.jpg" thumbURL="thumbs/_Group_10_-_MG_9389__MG_9396-8_images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Oxfort, UK]]></title>
+		<caption><![CDATA[November 20, 2011, 18:02. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/_MG_9472.jpg" thumbURL="thumbs/_MG_9472.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Big Ben and Houses of Parliament, London, UK]]></title>
+		<caption><![CDATA[September 24, 2011, 13:20. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/1600 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9529.jpg" thumbURL="thumbs/_MG_9529.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Windows of Houses of Parliament, London, UK]]></title>
+		<caption><![CDATA[September 24, 2011, 14:05. Canon EOS 1000D, 55-200mm at 62 mm, 1/250 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9550.jpg" thumbURL="thumbs/_MG_9550.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Old and New, London, UK]]></title>
+		<caption><![CDATA[September 24, 2011, 14:22. Canon EOS 1000D,  at , 1/160 sec, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_9559.jpg" thumbURL="thumbs/_MG_9559.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Old and New, London, UK]]></title>
+		<caption><![CDATA[September 24, 2011, 14:38. Canon EOS 1000D,  at , 1/800 sec, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/london_tubestation.jpg" thumbURL="thumbs/london_tubestation.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Barbican Station, London, UK]]></title>
+		<caption><![CDATA[November 13, 2011, 11:48. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/_MG_0039.jpg" thumbURL="thumbs/_MG_0039.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[New Forest NP, UK]]></title>
+		<caption><![CDATA[September 25, 2011, 16:35. Canon EOS 1000D, 90mm at 90 mm, 1/100 sec at f / 4.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0174.jpg" thumbURL="thumbs/_MG_0174.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[New Forest NP, UK]]></title>
+		<caption><![CDATA[September 25, 2011, 17:22. Canon EOS 1000D,  at , 1/60 sec, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0275.jpg" thumbURL="thumbs/_MG_0275.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[New Forest NP, UK]]></title>
+		<caption><![CDATA[September 26, 2011, 12:48. Canon EOS 1000D, 90mm at 90 mm, 1/500 sec at f / 2.8, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0956.jpg" thumbURL="thumbs/_MG_0956.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Hunters Path, UK]]></title>
+		<caption><![CDATA[September 28, 2011, 16:19. Canon EOS 1000D,  at , 1/125 sec, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0849-Edit.jpg" thumbURL="thumbs/_MG_0849-Edit.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Chesil Bank/Fleet Lagoon, UK]]></title>
+		<caption><![CDATA[September 28, 2011, 08:04. Canon EOS 1000D, 55-200mm at 55 mm, 1/1250 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1118.jpg" thumbURL="thumbs/_MG_1118.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Land's End, Cornwall, UK]]></title>
+		<caption><![CDATA[September 29, 2011, 18:51. Canon EOS 1000D,  at , 1/100 sec, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1178.jpg" thumbURL="thumbs/_MG_1178.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Land's End, Cornwall, UK]]></title>
+		<caption><![CDATA[September 29, 2011, 19:09. Canon EOS 1000D,  at , 1/320 sec, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/england2.jpg" thumbURL="thumbs/england2.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[between Abbotsbury/Dorchester, UK]]></title>
+		<caption><![CDATA[November 13, 2011, 13:10. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/_MG_1298.jpg" thumbURL="thumbs/_MG_1298.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cave near Tintagel, UK]]></title>
+		<caption><![CDATA[September 30, 2011, 17:10. Canon EOS 1000D,  at , 1/20 sec, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1367.jpg" thumbURL="thumbs/_MG_1367.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Tintagel Castle, UK]]></title>
+		<caption><![CDATA[September 30, 2011, 17:42. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/125 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1557.jpg" thumbURL="thumbs/_MG_1557.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Broad Street, Ludlow, UK]]></title>
+		<caption><![CDATA[October 02, 2011, 10:45. Canon EOS 1000D, 55-200mm at 86 mm, 1/500 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1562.jpg" thumbURL="thumbs/_MG_1562.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Broad Street, Ludlow, UK]]></title>
+		<caption><![CDATA[October 02, 2011, 10:49. Canon EOS 1000D, 55-200mm at 86 mm, 1/250 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1600.jpg" thumbURL="thumbs/_MG_1600.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Peak District, UK]]></title>
+		<caption><![CDATA[October 03, 2011, 10:56. Canon EOS 1000D, 55-200mm at 200 mm, 1/500 sec at f / 5.6, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1704.jpg" thumbURL="thumbs/_MG_1704.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Minster Lovell, UK]]></title>
+		<caption><![CDATA[October 05, 2011, 09:35. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/200 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_1728.jpg" thumbURL="thumbs/_MG_1728.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Minster Lovell, UK]]></title>
+		<caption><![CDATA[October 05, 2011, 09:49. Canon EOS 1000D, 55-200mm at 78 mm, 1/400 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_Group_4_-_MG_1472__MG_1482-11_images.jpg" thumbURL="thumbs/_Group_4_-_MG_1472__MG_1482-11_images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Breckon Beacons NP, Wales, UK]]></title>
+		<caption><![CDATA[November 13, 2011, 12:52. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/_MG_8818.jpg" thumbURL="thumbs/_MG_8818.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Canterbury Cathedral, UK]]></title>
+		<caption><![CDATA[September 20, 2011, 11:49. Canon EOS 1000D, 90mm at 90 mm, 1/40 sec at f / 3.5, ISO 1600.]]></caption>
+	</image>
+
+</juiceboxgallery>

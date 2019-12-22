@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/20130501-_Group_1_-20130501-_MG_1048_20130501-_MG_1058-11_images.jpg" thumbURL="thumbs/20130501-_Group_1_-20130501-_MG_1048_20130501-_MG_1058-11_images.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Skyline, Abu Dhabi, UAE]]></title>
+		<caption><![CDATA[May 01, 2013, 18:59. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 70 mm, 0.4 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20130501-_MG_1005.jpg" thumbURL="thumbs/20130501-_MG_1005.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[We Built This City, Abu Dhabi, UAE]]></title>
+		<caption><![CDATA[May 01, 2013, 18:10. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 179 mm, 1/200 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0269.jpg" thumbURL="thumbs/_MG_0269.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Construction site worker, Dubai, UAE]]></title>
+		<caption><![CDATA[June 11, 2007, 13:46. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 44 mm, 1/640 sec at f / 5.6, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0644.jpg" thumbURL="thumbs/_MG_0644.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Pakistani guestworkers, Dubai, UAE]]></title>
+		<caption><![CDATA[June 12, 2007, 23:12. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/13 sec at f / 3.5, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20120420-_MG_0623.jpg" thumbURL="thumbs/20120420-_MG_0623.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Aldar HQ building, Abu Dhabi, UAE]]></title>
+		<caption><![CDATA[April 20, 2012, 06:21. Canon EOS 600D, 55-200mm at 86 mm, 1/160 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20120420-_MG_0589.jpg" thumbURL="thumbs/20120420-_MG_0589.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Abu Dhabi, UAE]]></title>
+		<caption><![CDATA[April 20, 2012, 05:19. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 49 mm, 10.0 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20120420-_MG_0583.jpg" thumbURL="thumbs/20120420-_MG_0583.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Abu Dhabi, UAE]]></title>
+		<caption><![CDATA[April 20, 2012, 05:07. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 25 mm, 8.0 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120420-_MG_0579.jpg" thumbURL="thumbs/20120420-_MG_0579.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Abu Dhabi, UAE]]></title>
+		<caption><![CDATA[April 20, 2012, 04:57. Canon EOS 600D, 55-200mm at 102 mm, 2.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20120420-_MG_0543.jpg" thumbURL="thumbs/20120420-_MG_0543.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Abu Dhabi, UAE]]></title>
+		<caption><![CDATA[April 20, 2012, 03:26. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 0.8 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20120420-_MG_0529.jpg" thumbURL="thumbs/20120420-_MG_0529.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Abu Dhabi, UAE]]></title>
+		<caption><![CDATA[April 20, 2012, 03:07. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 20.0 sec at f / 18, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0887.jpg" thumbURL="thumbs/_MG_0887.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Dubai, UAE]]></title>
+		<caption><![CDATA[June 14, 2007, 03:15. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 13 mm, 13.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0642.jpg" thumbURL="thumbs/_MG_0642.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Friendly Pakistani guestworker, Dubai, UAE]]></title>
+		<caption><![CDATA[June 12, 2007, 22:56. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 15 mm, 0.8 sec at f / 4.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0539.jpg" thumbURL="thumbs/_MG_0539.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Dubai, UAE]]></title>
+		<caption><![CDATA[June 12, 2007, 00:33. Canon EOS 400D DIGITAL, EF50mm f/1.8 at 50 mm, 1/40 sec at f / 1.8, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0199.jpg" thumbURL="thumbs/_MG_0199.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Dubai, UAE]]></title>
+		<caption><![CDATA[June 10, 2007, 22:51. Canon EOS 400D DIGITAL, EF75-300mm f/4-5.6 at 190 mm, 1/4 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0159.jpg" thumbURL="thumbs/_MG_0159.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Dubai, UAE]]></title>
+		<caption><![CDATA[June 10, 2007, 20:06. Canon EOS 400D DIGITAL, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 8.0 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0061.jpg" thumbURL="thumbs/_MG_0061.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Dubai, UAE]]></title>
+		<caption><![CDATA[June 10, 2007, 15:37. Canon EOS 400D DIGITAL, EF50mm f/1.8 at 50 mm, 1/60 sec at f / 3.5, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_0056.jpg" thumbURL="thumbs/_MG_0056.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Window Reflection, Dubai, UAE]]></title>
+		<caption><![CDATA[June 10, 2007, 13:29. Canon EOS 400D DIGITAL, 18.0-125.0 mm at 38 mm, 1/800 sec at f / 4.5, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>

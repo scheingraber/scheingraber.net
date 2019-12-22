@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/pano-203.jpg" thumbURL="thumbs/pano-203.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Agadir, Morocco]]></title>
+		<caption><![CDATA[March 01, 2010, 17:58. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/pano-220.jpg" thumbURL="thumbs/pano-220.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Atlas, Morocco]]></title>
+		<caption><![CDATA[October 20, 2010, 23:02. ,  at , , .]]></caption>
+	</image>
+	<image imageURL="images/_MG_4415.jpg" thumbURL="thumbs/_MG_4415.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Agadir, Morocco]]></title>
+		<caption><![CDATA[February 09, 2010, 21:08. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 47 mm, 3.2 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4610.jpg" thumbURL="thumbs/_MG_4610.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Essaouira, Morocco]]></title>
+		<caption><![CDATA[February 11, 2010, 15:37. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 64 mm, 1/640 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4647.jpg" thumbURL="thumbs/_MG_4647.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Essaouira, Morocco]]></title>
+		<caption><![CDATA[February 12, 2010, 15:53. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 85 mm, 1/100 sec at f / 5.6, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4690.jpg" thumbURL="thumbs/_MG_4690.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Essaouira, Morocco]]></title>
+		<caption><![CDATA[February 12, 2010, 16:48. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 61 mm, 1/50 sec at f / 5.6, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4830.jpg" thumbURL="thumbs/_MG_4830.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Marrakech, Morocco]]></title>
+		<caption><![CDATA[February 16, 2010, 15:35. Canon EOS 1000D, EF-S10-22mm f/3.5-4.5 USM at 12 mm, 1/400 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_4859.jpg" thumbURL="thumbs/_MG_4859.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Marrakech, Morocco]]></title>
+		<caption><![CDATA[February 16, 2010, 16:29. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 41 mm, 1/40 sec at f / 6.3, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5176.jpg" thumbURL="thumbs/_MG_5176.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Marrakech, Morocco]]></title>
+		<caption><![CDATA[February 17, 2010, 18:48. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 47 mm, 1/8 sec at f / 5.6, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/_MG_5273.jpg" thumbURL="thumbs/_MG_5273.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Marrakech, Morocco]]></title>
+		<caption><![CDATA[February 17, 2010, 20:37. Canon EOS 1000D, EF-S17-85mm f/4-5.6 IS USM at 76 mm, 0.4 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6069_70.jpg" thumbURL="thumbs/_MG_6069_70.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Atlas, Morocco]]></title>
+		<caption><![CDATA[February 21, 2010, 08:34. Canon EOS 1000D,  at 17 mm, f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/_MG_6199.jpg" thumbURL="thumbs/_MG_6199.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Sahara, Morocco]]></title>
+		<caption><![CDATA[February 21, 2010, 17:27. Canon EOS 1000D, 55-200mm at 78 mm, 1/200 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+
+</juiceboxgallery>

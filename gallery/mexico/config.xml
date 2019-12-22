@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery
+
+	useFlickr="false"
+	galleryTitle=""
+	textColor="rgba(255, 255, 255, 1)"
+	thumbFrameColor="rgba(255, 255, 255, 0.5)"
+	showOpenButton="true"
+	showExpandButton="false"
+	showThumbsButton="true"
+	useThumbDots="false"
+	useFullscreenExpand="false"
+
+screenMode="auto"
+frameWidth="2"
+imagePadding="6"
+imageTransitionType="fade"
+showImageNumber="false"
+showInfoButton="true"
+maxThumbColumns="7"
+showImageOverlay="never"
+showSplashPage="never"
+enableLooping="true">
+
+	<image imageURL="images/20141230-_MG_9634.jpg" thumbURL="thumbs/20141230-_MG_9634.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Atlixco, Mexico]]></title>
+		<caption><![CDATA[December 30, 2014, 00:57. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 229 mm, 1/640 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20150105-_MG_0396.jpg" thumbURL="thumbs/20150105-_MG_0396.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mexico City, Mexico]]></title>
+		<caption><![CDATA[January 05, 2015, 14:44. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 90 mm, 1/250 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20150108-_MG_0949.jpg" thumbURL="thumbs/20150108-_MG_0949.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mexico City, Mexico]]></title>
+		<caption><![CDATA[January 08, 2015, 16:45. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 60 mm, 1/200 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20150103-_MG_0058.jpg" thumbURL="thumbs/20150103-_MG_0058.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cuetzalan, Mexico]]></title>
+		<caption><![CDATA[January 03, 2015, 02:03. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 55 mm, 1/50 sec at f / 5.6, ISO 12800.]]></caption>
+	</image>
+	<image imageURL="images/20150109-_MG_1046.jpg" thumbURL="thumbs/20150109-_MG_1046.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Colonia Condesa, Mexico City, Mexico]]></title>
+		<caption><![CDATA[January 09, 2015, 13:05. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 135 mm, 1/60 sec at f / 6.3, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20150106-_MG_0641.jpg" thumbURL="thumbs/20150106-_MG_0641.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mexico City, Mexico]]></title>
+		<caption><![CDATA[January 06, 2015, 17:59. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 55 mm, 1/100 sec at f / 6.3, ISO 3200.]]></caption>
+	</image>
+	<image imageURL="images/20150109-_MG_1059.jpg" thumbURL="thumbs/20150109-_MG_1059.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Colonia Condesa, Mexico City, Mexico]]></title>
+		<caption><![CDATA[January 09, 2015, 13:13. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 250 mm, 1/320 sec at f / 7.1, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20150109-_MG_1097.jpg" thumbURL="thumbs/20150109-_MG_1097.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Colonia Condesa, Mexico City, Mexico]]></title>
+		<caption><![CDATA[January 09, 2015, 13:43. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 109 mm, 1/800 sec at f / 7.1, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20150103-_MG_0197.jpg" thumbURL="thumbs/20150103-_MG_0197.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cuetzalan, Mexico]]></title>
+		<caption><![CDATA[January 03, 2015, 11:01. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 171 mm, 1/320 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20150103-_MG_0203.jpg" thumbURL="thumbs/20150103-_MG_0203.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cuetzalan, Mexico]]></title>
+		<caption><![CDATA[January 03, 2015, 11:02. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 123 mm, 1/320 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20150102-_MG_9872.jpg" thumbURL="thumbs/20150102-_MG_9872.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Father and Son, Cuetzalan, Mexico]]></title>
+		<caption><![CDATA[January 02, 2015, 19:07. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 208 mm, 1/200 sec at f / 7.1, ISO 400.]]></caption>
+	</image>
+	<image imageURL="images/20141230-_MG_9628.jpg" thumbURL="thumbs/20141230-_MG_9628.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Father and Son, Atlixco, Mexico]]></title>
+		<caption><![CDATA[December 30, 2014, 00:47. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 187 mm, 1/800 sec at f / 5.6, ISO 3200.]]></caption>
+	</image>
+	<image imageURL="images/20150105-_MG_0227.jpg" thumbURL="thumbs/20150105-_MG_0227.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Residential Building, Mexico City, Mexico]]></title>
+		<caption><![CDATA[January 05, 2015, 12:49. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 135 mm, 1/400 sec at f / 8.0, ISO 200.]]></caption>
+	</image>
+	<image imageURL="images/20150102-_MG_9895.jpg" thumbURL="thumbs/20150102-_MG_9895.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Cuetzalan, Mexico]]></title>
+		<caption><![CDATA[January 02, 2015, 19:14. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 179 mm, 1/800 sec at f / 7.1, ISO 1600.]]></caption>
+	</image>
+	<image imageURL="images/20150105-_MG_0414.jpg" thumbURL="thumbs/20150105-_MG_0414.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mexico City, Mexico]]></title>
+		<caption><![CDATA[January 05, 2015, 14:48. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 179 mm, 1/320 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20150108-_MG_0919.jpg" thumbURL="thumbs/20150108-_MG_0919.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mexico City, Mexico]]></title>
+		<caption><![CDATA[January 08, 2015, 15:16. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 79 mm, 1/640 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20150108-_MG_0941.jpg" thumbURL="thumbs/20150108-_MG_0941.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Mexico City, Mexico]]></title>
+		<caption><![CDATA[January 08, 2015, 16:34. Canon EOS 600D, EF-S18-55mm f/3.5-5.6 IS II at 33 mm, 1/320 sec at f / 8.0, ISO 100.]]></caption>
+	</image>
+	<image imageURL="images/20150109-_MG_1064.jpg" thumbURL="thumbs/20150109-_MG_1064.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Reparacion Bicicletas, Colonia Condesa, Mexico City, Mexico]]></title>
+		<caption><![CDATA[January 09, 2015, 13:14. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 12 mm, 1/160 sec at f / 8.0, ISO 800.]]></caption>
+	</image>
+	<image imageURL="images/20141231-_MG_9767.jpg" thumbURL="thumbs/20141231-_MG_9767.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Market Place, Puebla, Mexico]]></title>
+		<caption><![CDATA[December 31, 2014, 20:23. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 163 mm, 1/1000 sec at f / 5.6, ISO 3200.]]></caption>
+	</image>
+	<image imageURL="images/20141231-_MG_9723.jpg" thumbURL="thumbs/20141231-_MG_9723.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Market Place, Puebla, Mexico]]></title>
+		<caption><![CDATA[December 31, 2014, 20:02. Canon EOS 600D, EF-S55-250mm f/4-5.6 IS II at 74 mm, 1/4000 sec at f / 4.5, ISO 12800.]]></caption>
+	</image>
+	<image imageURL="images/20150107-_MG_0746.jpg" thumbURL="thumbs/20150107-_MG_0746.jpg" linkURL="" linkTarget="_blank">
+		<title><![CDATA[Teotihuacan, Mexico]]></title>
+		<caption><![CDATA[January 07, 2015, 14:09. Canon EOS 600D, EF-S10-22mm f/3.5-4.5 USM at 10 mm, 1/1000 sec at f / 8.0, ISO 400.]]></caption>
+	</image>
+
+</juiceboxgallery>
